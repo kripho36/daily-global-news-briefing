@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-07 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Kendall Myers, American Spy for Cuba, Dies at 88",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/us/kendall-myers-dead.html",
+          "originalTitle": "Kendall Myers, American Spy for Cuba, Dies at 88",
+          "content": "While working for the State Department, he delivered top secret information to his Cuban handlers for 30 years. He was convicted and sentenced to life imprisonment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
+          "originalTitle": "Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations",
+          "content": "President Trump said his administration had had “very good talks” with Tehran in the last 24 hours. An Iranian official said an American plan to end the war was under review. Israel struck targets near Beirut.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
+          "originalTitle": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
+          "content": "Shivon Zilis worked closely with Elon Musk while she was on OpenAI’s board of directors. Her ties to the world’s richest man were detailed in a landmark trial on Wednesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Michigan’s Combative Democratic Senate Primary Heats Up",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/us/politics/michigan-senate-primary-democrats.html",
+          "originalTitle": "Michigan’s Combative Democratic Senate Primary Heats Up",
+          "content": "Attacks are flying, prominent Democrats are taking sides and the fight is just getting started.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
+          "originalTitle": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
+          "content": "Three people with possible symptoms of the disease were evacuated on Wednesday morning from the MV Hondius before it headed to the Canary Islands.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Indiana Victory Shows His Enduring Grip on Core Republican Supporters",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/us/politics/trump-indiana-republican-base.html",
+          "originalTitle": "Trump’s Indiana Victory Shows His Enduring Grip on Core Republican Supporters",
+          "content": "Low approval ratings? MAGA divisions? The president was able to turn out party loyalists in an Indiana primary to help him oust Republican state lawmakers who had crossed him.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Illinois State Police to Investigate Fatal ICE Shooting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/us/illinois-state-police-ice-shooting-suburban-chicago.html",
+          "originalTitle": "Illinois State Police to Investigate Fatal ICE Shooting",
+          "content": "Officials said they were examining the shooting of Silverio Villegas-Gonzalez last summer during a Chicago-area crackdown on illegal immigration.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+          "content": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html",
+          "originalTitle": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
+          "content": "The commerce secretary appeared for hours in a closed-door session on Wednesday with the House Oversight Committee",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Air-Conditioning Is in Short Supply as Asia Swelters",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/world/asia/asia-heatwave-air-conditioning-fuel-crisis.html",
+          "originalTitle": "Air-Conditioning Is in Short Supply as Asia Swelters",
+          "content": "From classrooms to crowded buses, people across South and Southeast Asia are adjusting to life with less cooling — or none at all — as the war in Iran drives an energy crunch.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-07",
+  "generatedAtKst": "2026. 5. 7. AM 7:44",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
