@@ -59,7 +59,11 @@ if (articles.length === 0) {
   throw new Error("No source articles were collected. Check RSS source availability.");
 }
 
-const briefing = await createBriefing(articles);
+const briefing = await createBriefing(articles).catch((error) => {
+  console.warn(error.message);
+  console.warn("Falling back to source article list so the site can still update.");
+  return createFallbackBriefing(articles);
+});
 briefing.date = dateKst;
 briefing.generatedAtKst = generatedAtKst;
 briefing.sources = [...new Set(articles.map((article) => article.source))];
@@ -122,7 +126,7 @@ async function createBriefing(articles) {
         type: "json_schema",
         json_schema: {
           name: "daily_global_news_briefing",
-          strict: true,
+          strict: false,
           schema: briefingSchema()
         }
       }
@@ -186,7 +190,6 @@ function briefingSchema() {
       overallSummary: { type: "string" },
       sections: {
         type: "array",
-        minItems: 1,
         items: {
           type: "object",
           additionalProperties: false,
@@ -195,14 +198,13 @@ function briefingSchema() {
             heading: { type: "string" },
             items: {
               type: "array",
-              minItems: 1,
               items: {
                 type: "object",
                 additionalProperties: false,
                 required: ["title", "importance", "source", "url", "originalTitle", "content", "impact"],
                 properties: {
                   title: { type: "string" },
-                  importance: { type: "integer", minimum: 1, maximum: 5 },
+                  importance: { type: "integer" },
                   source: { type: "string", enum: ["Reuters", "AP", "BBC", "NYT"] },
                   url: { type: "string" },
                   originalTitle: { type: "string" },
