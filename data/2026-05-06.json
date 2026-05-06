@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-06 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 OPENAI_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+          "content": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Falls as Trump Changes Course in Strait of Hormuz, but Gas Prices Keep Rising",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html",
+          "originalTitle": "Oil Falls as Trump Changes Course in Strait of Hormuz, but Gas Prices Keep Rising",
+          "content": "Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+          "originalTitle": "Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission",
+          "content": "The president made the announcement in a social media post just hours after Secretary of State Marco Rubio had affirmed the newly created mission, which bore little connection to the original justification for war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What We Know About ‘Project Freedom’ in the Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html",
+          "originalTitle": "What We Know About ‘Project Freedom’ in the Strait of Hormuz",
+          "content": "President Trump on Tuesday abruptly paused an American initiative to help guide stranded ships through the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Campaigners call for ban on use of weedkiller glyphosate at harvest time",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgz420ee0zo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Campaigners call for ban on use of weedkiller glyphosate at harvest time",
+          "content": "Campaigners are calling for a ban on the use of the weedkiller over health concerns.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil prices drop after reports of deal to end Iran war",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Oil prices drop after reports of deal to end Iran war",
+          "content": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+          "originalTitle": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
+          "content": "A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+          "content": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s U-turn and hopes of a deal ease tensions in energy markets.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/us-iran-hormuz-pause",
+          "originalTitle": "Trump’s U-turn and hopes of a deal ease tensions in energy markets.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 OPENAI_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html",
+          "originalTitle": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
+          "content": "China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-06",
+  "generatedAtKst": "2026. 5. 6. PM 8:04",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}

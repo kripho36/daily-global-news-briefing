@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>국제 정세 데일리 브리핑</title>
+    <meta
+      name="description"
+      content="Reuters, AP, BBC, The New York Times 기반 국제 정세 뉴스 요약 아카이브"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">KST 07:00 Daily Update</p>
+        <h1>국제 정세 데일리 브리핑</h1>
+      </div>
+      <div class="status" id="updatedAt">업데이트 확인 중</div>
+    </header>
+
+    <main class="layout">
+      <aside class="dates" aria-label="날짜별 뉴스 요약본">
+        <div class="section-title">지난 브리핑</div>
+        <nav id="dateList" class="date-list"></nav>
+      </aside>
+
+      <section class="briefing" aria-live="polite">
+        <div class="briefing-head">
+          <div>
+            <p class="eyebrow" id="briefingSource">Trusted sources</p>
+            <h2 id="briefingTitle">브리핑을 불러오는 중입니다</h2>
+          </div>
+          <a class="download" id="rawJsonLink" href="#" target="_blank" rel="noreferrer">JSON</a>
+        </div>
+
+        <div id="summary" class="summary"></div>
+        <div id="sections" class="sections"></div>
+      </section>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

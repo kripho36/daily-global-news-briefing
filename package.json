@@ -1,0 +1,13 @@
+{
+  "name": "daily-global-news-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-news.mjs",
+    "serve": "node scripts/dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
