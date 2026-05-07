@@ -1,0 +1,44 @@
+{
+  "title": "2026년 5월 8일 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘 오전 7시 기준, 미국과 이란의 군사적 교착 상태가 가중되면서 유가 변동이 이어지고, 미국과 브라질 간의 무역·정치 대화가 진행 중이며, 미국 내부에서는 관세 부과가 불법 판결을 받는 등 여러 사안이 겹쳐 국제 정세가 복잡하게 전개되고 있다. 한편, 세계적으로는 바이러스 감염 우려가 있는 크루즈 배, 멕시코에서 발생한 화재 사고 등도 주목된다.",
+  "sections": [
+    {
+      "heading": "미국 정세",
+      "items": [
+        {
+          "title": "이란과 미국, 호르무즈 해협에서 교전",
+          "originalTitle": "Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce",
+          "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
+          "source": "NYT",
+          "importance": 5,
+          "content": "이란이 호르무즈 해협에서 미국 군함을 공격한 후 미국이 이란 군사시설과 기타 목표를 폭격했다. 양국은 휴전 선언을 했으나, 실제 군사 교전은 계속되며 지역 안보와 해상 운송에 직접적인 위협이 되고 있다.",
+          "impact": "전쟁이 확대될 경우 에너지 가격이 급등하고, 국제 해상 운송망에 대한 불확실성이 심화될 전망이다."
+        },
+        {
+          "title": "트럼프 미국 관세 부과가 불법 판결을 받다",
+          "originalTitle": "Trade Court Rules Trump’s 10% Global Tariff Is Illegal",
+          "url": "https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html",
+          "source": "NYT",
+          "importance": 4,
+          "content": "연방법원 패널이 트럼프 대통령이 대부분 수입에 대해 부과한 10% 관세를 법적으로 부과할 수 없다고 판결했다. 이로써 미국의 무역 정책과 기업 경영에 큰 변동이 예상된다.",
+          "impact": "관세 부과가 취소되면서 미국 기업의 수입 비용이 줄어들고, 무역 분쟁이 잠정적으로 완화될 가능성이 있다."
+        },
+        {
+          "title": "트럼프 대통령, 브라질 루라 대통령과 정상회담 개최",
+          "originalTitle": "Trump Hosts Brazil’s President Lula at White House After Months of Ups and Downs",
+          "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
+          "source": "NYT",
+          "importance": 4,
+          "content": "트럼프 대통령은 브라질 루라 대통령을 백악관에 초대해 무역과 기타 이슈를 논의했다. 양국은 공동 외교 발표를 건너뛴 것으로 보인다.",
+          "impact": "양국 관계가 강화되면서 남미 무역 협정이 가속화될 수 있고, 미국-브라질 경제 협력이 재점화될 전망이다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-08",
+  "generatedAtKst": "2026. 5. 8. AM 7:53",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
