@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Alabama Asks Supreme Court to Allow it to Use New Voting Map",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html",
+          "originalTitle": "Alabama Asks Supreme Court to Allow it to Use New Voting Map",
+          "content": "State officials urged the justices to allow them to jettison Alabama’s congressional district map, citing the Supreme Court’s recent decision that dealt a blow to the Voting Rights Act.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
+          "originalTitle": "Iran War Live Updates: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+          "content": "Iran’s foreign minister accused Washington of undermining diplomacy. Secretary of State Marco Rubio said the U.S. expected to hear from Tehran on Friday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
+          "originalTitle": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
+          "content": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran’s oil infrastructure.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Trump Is Prioritizing White People as Refugees",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/100000010886550/how-trump-is-prioritizing-white-people-as-refugees.html",
+          "originalTitle": "How Trump Is Prioritizing White People as Refugees",
+          "content": "President Trump has upended the U.S. refugee program to prioritize mainly white Afrikaners. Our White House correspondent Zolan Kanno-Youngs reports he is now is now considering doubling the amount he allows into the country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
+          "originalTitle": "Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue",
+          "content": "President Trump handpicked a firm he said had worked on his swimming pool to repair the iconic site near the Lincoln Memorial.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+          "originalTitle": "Live Updates: Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+          "content": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democratic Candidates and Voters Challenge Tennessee’s New Map",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/08/us/tennessee-redistricting-lawsuit.html",
+          "originalTitle": "Democratic Candidates and Voters Challenge Tennessee’s New Map",
+          "content": "A lawsuit, filed in federal court, argues that the new map is unconstitutional because it was approved too close to the August primaries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+          "content": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lawmakers May Continue to Inspect ICE Detention Centers, Appeals Court Rules",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html",
+          "originalTitle": "Lawmakers May Continue to Inspect ICE Detention Centers, Appeals Court Rules",
+          "content": "A federal appeals court declined, for now, to halt an order requiring D.H.S. to permit unannounced visits to immigration detention centers by Democrats in Congress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-09",
+  "generatedAtKst": "2026. 5. 9. AM 7:46",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
