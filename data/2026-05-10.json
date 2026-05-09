@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Hiker Killed by Bear at Glacier National Park, Officials Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html",
+          "originalTitle": "Hiker Killed by Bear at Glacier National Park, Officials Say",
+          "content": "The man was found with injuries “consistent with those sustained by a bear encounter” three days after leaving for a hike, the National Park Service said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At Least 13 Injured in ‘Possible Boat Explosion’ in Florida, Officials Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/boat-explosion-miami-beach.html",
+          "originalTitle": "At Least 13 Injured in ‘Possible Boat Explosion’ in Florida, Officials Say",
+          "content": "Those injured were taken to area hospitals, Miami-Dade Fire Rescue said. Emergency crews responded Saturday near the Haulover Sandbar, north of Miami Beach.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Redistricting Ruling in Virginia Adds to Gov. Abigail Spanberger’s Headaches",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/politics/virginia-redistricting-democrats-abigail-spanberger.html",
+          "originalTitle": "Redistricting Ruling in Virginia Adds to Gov. Abigail Spanberger’s Headaches",
+          "content": "Gov. Abigail Spanberger had initially been skeptical of the push for new maps, but as the state’s leading Democrat she had a political stake in its fate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+          "originalTitle": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+          "content": "The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the narrows.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+          "content": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lebanon says Israeli strikes killed 39",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Lebanon says Israeli strikes killed 39",
+          "content": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
+          "originalTitle": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
+          "content": "The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+          "originalTitle": "All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.",
+          "content": "A trendy productivity hack, A.I. note takers are capturing every joke and offhand comment in many meetings. They could also potentially waive attorney-client privilege.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
+          "originalTitle": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
+          "content": "He led the Atlanta Braves to victory in the 1990s and was later inducted into the Baseball Hall of Fame for his leadership.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
+          "originalTitle": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+          "content": "The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said. All of the passengers will then be evacuated to their home countries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-10",
+  "generatedAtKst": "2026. 5. 10. AM 7:34",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
