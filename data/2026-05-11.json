@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+          "originalTitle": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+          "content": "Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/business/oil-prices-rise-as-prospects-for-us-iran-peace-deal-fizzle.html",
+          "originalTitle": "Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle",
+          "content": "Oil prices rose and stock futures ticked down as investors reacted after the two sides failed to agree on a U.S.-Iran peace deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Nebraska’s ‘Blue Dot’ Roiled a Democratic House Primary",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/us/politics/nebraska-blue-dot-democrats-house.html",
+          "originalTitle": "How Nebraska’s ‘Blue Dot’ Roiled a Democratic House Primary",
+          "content": "A speck of blue on an otherwise red area in some presidential elections, the dot is now dividing candidates in a key midterm contest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Keir Starmer Says No, He Won’t Resign",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/world/europe/starmer-west-resign.html",
+          "originalTitle": "Keir Starmer Says No, He Won’t Resign",
+          "content": "But if his opponents mounted a challenge, how would it unfold?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A One-Party India",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/world/india-modi-elections-trump-iran-proposal.html",
+          "originalTitle": "A One-Party India",
+          "content": "A recent victory in a key state has put Narendra Modi at the helm of a country in which opponents hold almost no power.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "BBC speaks with civilians inside Iran struggling with impact of war",
+          "content": "Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+          "content": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "content": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
+          "originalTitle": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
+          "content": "The two countries have been discussing a 30-day extension to the cease-fire and a reopening of the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hiker Killed by Bear at Glacier National Park, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html",
+          "originalTitle": "Hiker Killed by Bear at Glacier National Park, Officials Say",
+          "content": "The victim was a seasoned outdoorsman who “had no problem being alone in the woods,” his father said. He was found with injuries “consistent with those sustained by a bear encounter,” the National Park Service said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-11",
+  "generatedAtKst": "2026. 5. 11. AM 7:37",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
