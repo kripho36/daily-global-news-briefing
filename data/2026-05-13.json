@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Jason Collins, First Active N.B.A. Player to Come Out as Gay, Dies at 47",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html",
+          "originalTitle": "Jason Collins, First Active N.B.A. Player to Come Out as Gay, Dies at 47",
+          "content": "His achievements on the court were eclipsed by an essay he wrote in Sports Illustrated in 2013 in which he declared: “I’m a 34-year-old N.B.A. center. I’m Black and I’m gay.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Obama Enters Texas Senate Fight With Support for Talarico",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html",
+          "originalTitle": "Obama Enters Texas Senate Fight With Support for Talarico",
+          "content": "The former president, who has looked to elevate a new generation of Democrats, met with James Talarico and a candidate for governor, Gina Hinojosa, who are trying to flip Texas.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
+          "originalTitle": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+          "content": "A two-year investigation by a team of researchers in Israel concluded that sexual violence by Hamas and its allies was widespread during and after the Oct. 7, 2023, attack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Raffensperger Campaign Event at Georgia Airport Is Disrupted by ‘Active Threat,’ Bomb Squad on Site",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/politics/raffensperger-bomb-georgia-campaign-governor.html",
+          "originalTitle": "Raffensperger Campaign Event at Georgia Airport Is Disrupted by ‘Active Threat,’ Bomb Squad on Site",
+          "content": "A four-page ‘manifesto’ targeted Brad Raffensperger, the Republican secretary of state, and featured his photo with the word “Boom” written across his forehead, his campaign said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz",
+          "originalTitle": "Iran War Live Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks",
+          "content": "Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says Americans’ Economic Pain Is Not a Consideration for the Iran War",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/politics/trump-iran-war-americans-economy.html",
+          "originalTitle": "Trump Says Americans’ Economic Pain Is Not a Consideration for the Iran War",
+          "content": "Asked whether Americans’ financial situation was motivating him to make a deal, President Trump said bluntly, “Not even a little bit.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Secret Service Makes Case for Security Funding Amid G.O.P. Unease on Ballroom",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/politics/secret-service-ballroom.html",
+          "originalTitle": "Secret Service Makes Case for Security Funding Amid G.O.P. Unease on Ballroom",
+          "content": "The presidential protection agency detailed how it would use a proposed $1 billion as Republicans asked for more detail and Democrats went on the attack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html",
+          "originalTitle": "Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding",
+          "content": "The estimate from the Defense Department’s top budget official was $4 billion higher than two weeks ago. Secretary Pete Hegseth declined to say when the administration would request extra money for the Iran conflict.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Person Fatally Struck by Frontier Airlines Jet at Denver Airport Is Identified",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/frontier-denver-airport-fatality-identification.html",
+          "originalTitle": "Person Fatally Struck by Frontier Airlines Jet at Denver Airport Is Identified",
+          "content": "The individual, a 41-year-old man, made it through several layers of security at the airport on Friday minutes before being struck by a Frontier Airlines jet, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Expected to Tap Longtime ICE Official to Lead Agency",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html",
+          "originalTitle": "Trump Administration Expected to Tap Longtime ICE Official to Lead Agency",
+          "content": "David Venturella’s expected appointment is in line with a push by Markwayne Mullin, the homeland security secretary, to keep his department under the radar and out of headlines.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-13",
+  "generatedAtKst": "2026. 5. 13. AM 7:52",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
