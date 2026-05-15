@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Clavicular Gets Plea Deal After Alligator Shooting in Florida",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/us/clavicular-plea-deal-alligator-shooting.html",
+          "originalTitle": "Clavicular Gets Plea Deal After Alligator Shooting in Florida",
+          "content": "The social media personality pleaded no contest and was sentenced to six months of probation. The deal allows him to avoid jail time.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Claudine Longet, Entertainer Who Shot Olympian Boyfriend, Dies at 84",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/us/claudine-longet-dead.html",
+          "originalTitle": "Claudine Longet, Entertainer Who Shot Olympian Boyfriend, Dies at 84",
+          "content": "A singer and actress, she drew wide attention for the fatal 1976 shooting of Spider Sabich. She was convicted of negligent homicide.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Push to Indict Raúl Castro, Cuba’s Former President",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
+          "originalTitle": "The Push to Indict Raúl Castro, Cuba’s Former President",
+          "content": "Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ex-Texas Lottery Commission Leader Charged in Guaranteed Jackpot Scheme",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/us/texas-lottery-commission-jackpot-charges.html",
+          "originalTitle": "Ex-Texas Lottery Commission Leader Charged in Guaranteed Jackpot Scheme",
+          "content": "Prosecutors in Travis County, Texas, filed charges against Gary Grief and the disbanded Texas Lottery Commission in connection with a 2023 plan that arranged a surefire jackpot.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Navy Aircraft Carrier to Complete Longest Deployment Since Vietnam",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/us/uss-ford-long-deployment.html",
+          "originalTitle": "Navy Aircraft Carrier to Complete Longest Deployment Since Vietnam",
+          "content": "After being diverted for combat with Venezuela and Iran, the U.S.S. Gerald R. Ford will return to Norfolk, Va., on Saturday after nearly a year at sea.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html",
+          "originalTitle": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+          "content": "Gov. Jared Polis, a Democrat, commuted the sentence of Ms. Peters, a former county clerk serving a nine-year sentence for her role in a plot to examine voting machines after the 2020 election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "content": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
+          "originalTitle": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+          "content": "After months of avoiding confrontation, the Trump administration has taken recent steps to call out China on Iran, artificial intelligence and spying.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump and Boeing Announce China Will Purchase 200 Planes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
+          "originalTitle": "Trump and Boeing Announce China Will Purchase 200 Planes",
+          "content": "The deal, which Beijing has not commented on, would be a major win for Boeing, which has lost ground to Airbus in one of the world’s largest aviation markets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
+          "originalTitle": "Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say",
+          "content": "Izz al-Din al-Haddad, the target of an Israeli strike in Gaza City, took over the group’s military wing in Gaza last year. Israeli officials said he was also an architect of the Oct. 7 attack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-16",
+  "generatedAtKst": "2026. 5. 16. AM 7:44",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
