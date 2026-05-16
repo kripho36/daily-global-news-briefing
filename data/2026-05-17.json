@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+          "content": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html",
+          "originalTitle": "Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet",
+          "content": "The influential polling analysis site was shut down last year, but an earlier archived version, fivethirtyeight.com, had lived on. Now the site is redirecting users to ABC News.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kansas Judge Blocks Law Banning Gender-Transition Treatments for Youths",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/us/kansas-transgender-lawsuit.html",
+          "originalTitle": "Kansas Judge Blocks Law Banning Gender-Transition Treatments for Youths",
+          "content": "Two transgender teenagers claimed that the ban, enacted last year over the Democratic governor’s veto, violated the Kansas Constitution.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
+          "originalTitle": "Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide",
+          "content": "One of his country’s richest businessmen, he fled arrest and escaped prosecution for allegedly financing and directing the bloodletting that cost 800,000 lives in 1994.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rival Protests Take Place in London, With a Major Security Effort",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
+          "originalTitle": "Rival Protests Take Place in London, With a Major Security Effort",
+          "content": "The police have deployed thousands of officers, partly to keep far-right and pro-Palestinian marchers apart. The events drew tens of thousands to London.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Train Crashes Into Bangkok Traffic, Killing at Least 8",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html",
+          "originalTitle": "Train Crashes Into Bangkok Traffic, Killing at Least 8",
+          "content": "A freight train plowed into traffic on train tracks, starting a fire. The authorities did not immediately give a cause but said a barrier had not come down.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
+          "originalTitle": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+          "content": "Abu Bilal al-Minuki, said to be the Islamic State’s second-ranking leader, was killed after a helicopter-borne assault by commandos from both countries on Friday night, two U.S. officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canadian from hantavirus-hit cruise ship tests positive",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Canadian from hantavirus-hit cruise ship tests positive",
+          "content": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man drives car into pedestrians in Italy, injuring eight",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Man drives car into pedestrians in Italy, injuring eight",
+          "content": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
+          "originalTitle": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+          "content": "Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-17",
+  "generatedAtKst": "2026. 5. 17. AM 7:37",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
