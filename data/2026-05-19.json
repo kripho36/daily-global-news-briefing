@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+          "originalTitle": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+          "content": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "TrumpRx Adds Generic Drugs, With Mark Cuban, GoodRx and Amazon",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/business/trumprx-generic-drugs-mark-cuban.html",
+          "originalTitle": "TrumpRx Adds Generic Drugs, With Mark Cuban, GoodRx and Amazon",
+          "content": "President Trump announced the addition of 600 medicines to his online drugstore as he appeals to Americans concerned about high drug prices and affordability.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html",
+          "originalTitle": "ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota",
+          "content": "The agent is the second federal officer to face felony charges in Minnesota stemming from Operation Metro Surge, the Trump administration’s immigration crackdown.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Josh Shapiro Isn’t Acting Like Other Potential 2028 Candidates",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/us/politics/josh-shapiro-pennsylvania-2028.html",
+          "originalTitle": "Why Josh Shapiro Isn’t Acting Like Other Potential 2028 Candidates",
+          "content": "The Pennsylvania governor’s in-state focus is a contrast with other possible presidential hopefuls.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
+          "originalTitle": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
+          "content": "The arrangement was denounced by critics as a slush fund for supporters of President Trump, possibly including Jan. 6 rioters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says he called off new Iran attack at request of Gulf states",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says he called off new Iran attack at request of Gulf states",
+          "content": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump told Taiwan not to 'go independent' - but does it want to?",
+          "content": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nancy Pelosi Endorses Connie Chan to Succeed Her",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/us/nancy-pelosi-endorses-connie-chan.html",
+          "originalTitle": "Nancy Pelosi Endorses Connie Chan to Succeed Her",
+          "content": "Representative Nancy Pelosi, the first woman to serve as speaker of the House, broke her silence on Monday about the race to succeed her and endorsed Connie Chan, a San Francisco official.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/18/us/san-diego-islamic-center-shooting/san-diego-mosque-shooting",
+          "originalTitle": "Here’s the latest.",
+          "content": "The police said that the threat had been “neutralized,” but did not confirm the report that the attack had been fatal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html",
+          "originalTitle": "Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet",
+          "content": "The influential polling analysis site was shut down last year, but an earlier archived version, fivethirtyeight.com, had lived on. Now the site is redirecting users to ABC News.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-19",
+  "generatedAtKst": "2026. 5. 19. AM 7:50",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
