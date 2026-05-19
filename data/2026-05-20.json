@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-20 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Victims of San Diego Mosque Shooting Remembered as Heroes and Leaders",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html",
+          "originalTitle": "Victims of San Diego Mosque Shooting Remembered as Heroes and Leaders",
+          "content": "The three men killed in the shooting at the Islamic Center of San Diego were instrumental in delaying the attackers, the city’s police chief said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Mike Collins, Republican Senate Candidate in Georgia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/mike-collins-georgia-republican-senate-election.html",
+          "originalTitle": "5 Things to Know About Mike Collins, Republican Senate Candidate in Georgia",
+          "content": "The congressman is a Trump acolyte who has a history of incendiary social media posts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Derek Dooley, Republican Senate Candidate in Georgia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/derek-dooley-georgia-republican-senate-election.html",
+          "originalTitle": "5 Things to Know About Derek Dooley, Republican Senate Candidate in Georgia",
+          "content": "Mr. Dooley is a former football coach running in the Republican primary with the support of Gov. Brian Kemp.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Buddy Carter, Republican Senate Candidate in Georgia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/buddy-carter-georgia-republican-senate-election.html",
+          "originalTitle": "5 Things to Know About Buddy Carter, Republican Senate Candidate in Georgia",
+          "content": "The congressman is a Trump acolyte who has found some common ground with Democrats on energy issues.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I.R.S. to Drop Audits of Trump and Family",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html",
+          "originalTitle": "I.R.S. to Drop Audits of Trump and Family",
+          "content": "As part of the Justice Department’s compensation fund deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Jon Ossoff, Democratic Senate Candidate in Georgia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/jon-ossoff-georgia-democrat-senate-election.html",
+          "originalTitle": "5 Things to Know About Jon Ossoff, Democratic Senate Candidate in Georgia",
+          "content": "He is the youngest member of the Senate and once volunteered for the civil rights leader John Lewis’s congressional office.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Under a Cloud of Uncertainty, Alabama Voters Head to the Polls",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/uncertainty-alabama-voters.html",
+          "originalTitle": "Under a Cloud of Uncertainty, Alabama Voters Head to the Polls",
+          "content": "Voters in Alabama cast their ballots, unsure about whether a recent Supreme Court decision would change their congressional districts going forward.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Duffy Defends Road Trip Reality Show In Tense Senate Hearing",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/sean-duffy-senate-testimony.html",
+          "originalTitle": "Duffy Defends Road Trip Reality Show In Tense Senate Hearing",
+          "content": "Democrats called the transportation secretary’s reality-show-like series unethical.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What the Senate Primary Polls Tell Us in Georgia, Alabama and Kentucky",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/19/us/elections/republican-senate-primaries-georgia-alabama-kentucky.html",
+          "originalTitle": "What the Senate Primary Polls Tell Us in Georgia, Alabama and Kentucky",
+          "content": "The Republican primaries in all three states are expected to be competitive, with two of them likely to advance to runoff elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+          "originalTitle": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+          "content": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-20",
+  "generatedAtKst": "2026. 5. 20. AM 7:57",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
