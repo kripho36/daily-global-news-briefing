@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-22 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Cuban Pilot in Florida Is a Defendant in Raúl Castro Indictment",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/world/americas/pilot-charged-raul-castro-indictment.html",
+          "originalTitle": "Cuban Pilot in Florida Is a Defendant in Raúl Castro Indictment",
+          "content": "The pilot, Luis González-Pardo, was one of the defendants in the indictment that included former Cuban President Raúl Castro.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Charges Dismissed for Ex-Assistant Principal After Shooting by 6-Year-Old",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/us/ebony-parker-virginia-child-shooting-teacher.html",
+          "originalTitle": "Charges Dismissed for Ex-Assistant Principal After Shooting by 6-Year-Old",
+          "content": "Prosecutors had argued that Ebony Parker, a former assistant principal at a Virginia elementary school, had failed to act on warnings that a child had a gun in his backpack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html",
+          "originalTitle": "Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon",
+          "content": "Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
+          "originalTitle": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It",
+          "content": "House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Elon Musk and Other CEOs on Trump’s Trip to China Sought Relief",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html",
+          "originalTitle": "Elon Musk and Other CEOs on Trump’s Trip to China Sought Relief",
+          "content": "Elon Musk and other powerful executives who accompanied President Trump to China are hoping to clear roadblocks put up by Beijing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html",
+          "originalTitle": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
+          "content": "“Go away!” demonstrators yelled outside the newly opened diplomatic outpost, as guests inside nibbled on musk ox hot dogs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Appears Hesitant to Order Work Stopped on Reflecting Pool",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/us/politics/reflecting-pool-lawsuit-trump.html",
+          "originalTitle": "Judge Appears Hesitant to Order Work Stopped on Reflecting Pool",
+          "content": "Judge Carl J. Nichols seemed skeptical that the changes President Trump has rushed to make would irreversibly deface the pool if he later found them illegal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inside the Senate G.O.P. Meltdown Over Trump’s Fund",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html",
+          "originalTitle": "Inside the Senate G.O.P. Meltdown Over Trump’s Fund",
+          "content": "Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Invests $2 Billion and Takes Stake in Quantum Firms",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/21/business/trump-quantum-computers-stake.html",
+          "originalTitle": "U.S. Invests $2 Billion and Takes Stake in Quantum Firms",
+          "content": "The Trump administration said it had signed preliminary deals for equity stakes in nine quantum computing companies.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+          "content": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-22",
+  "generatedAtKst": "2026. 5. 22. AM 7:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
