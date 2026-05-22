@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-23 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Maryland Democrats Plan to Eliminate State’s Lone Republican Seat in Time for 2028",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/us/politics/maryland-redistricting.html",
+          "originalTitle": "Maryland Democrats Plan to Eliminate State’s Lone Republican Seat in Time for 2028",
+          "content": "A top state lawmaker who opposed drawing new districts for the fall election now says he supports a constitutional amendment that could pave the way to an all-Democrat map for the next cycle.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Ford Truck, Home to Newborn Robins, Is Stuck at a Kansas Car Dealer",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/us/ford-f-250-robin-nest-kansas.html",
+          "originalTitle": "A Ford Truck, Home to Newborn Robins, Is Stuck at a Kansas Car Dealer",
+          "content": "Employees of a dealership in Olathe, Kan., found the nest, which is protected under federal law, on top of one of the truck’s tires.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/22/us/chemical-leak-evacuation-orange-county/california-chemical-leak-evacuation-orange-county",
+          "originalTitle": "Here’s the latest.",
+          "content": "Officials warned of a possible explosion or spill in Orange County on Friday after a tank that leaked a toxic substance grew more unstable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Dissecting 2024 Loss, Democrats’ Report Ignores Gaza, Biden’s Age",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/us/democrats-autopsy-gaza-biden.html",
+          "originalTitle": "In Dissecting 2024 Loss, Democrats’ Report Ignores Gaza, Biden’s Age",
+          "content": "The nearly 200-page draft autopsy indicated that the party had failed to fully grapple with why Kamala Harris had lost to Donald J. Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+          "content": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html",
+          "originalTitle": "Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia",
+          "content": "The move deals an embarrassing blow to the Trump administration, which made the Maryland man, Kilmar Armando Abrego Garcia, the face of its deportation campaign.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html",
+          "originalTitle": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
+          "content": "President Trump said he would send 5,000 troops to Poland, part of a back-and-forth that has left European leaders reeling.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tulsi Gabbard Resigns as Director of National Intelligence. Trump Names Aaron Lukas Acting Chief.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html",
+          "originalTitle": "Tulsi Gabbard Resigns as Director of National Intelligence. Trump Names Aaron Lukas Acting Chief.",
+          "content": "Ms. Gabbard had a difficult tenure in the Trump administration and was seldom seen in the room when the president made important national-security moves.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UK sees hottest day of year as bank holiday travellers face queues",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "UK sees hottest day of year as bank holiday travellers face queues",
+          "content": "Temperatures hit 28.4C in parts of England on Friday, while delays have been reported at the Port of Dover and Birmingham Airport ahead of the bank holiday weekend.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+          "content": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-23",
+  "generatedAtKst": "2026. 5. 23. AM 7:51",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
