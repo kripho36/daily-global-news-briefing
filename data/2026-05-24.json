@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-24 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html",
+          "originalTitle": "Here’s the latest.",
+          "content": "President Trump provided few details about the preliminary agreement, which he said was “largely negotiated.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+          "content": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Lull in Fighting Gave Time to Bury Their Dead",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
+          "originalTitle": "A Lull in Fighting Gave Time to Bury Their Dead",
+          "content": "In the relative calm of the early days of a cease-fire, there were heart-rending scenes as people exhumed their loved ones from temporary graves and reburied them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
+          "originalTitle": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+          "content": "The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Garden Grove Chemical Tank Could Be Inching Toward Explosion, Authorities Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html",
+          "originalTitle": "Garden Grove Chemical Tank Could Be Inching Toward Explosion, Authorities Say",
+          "content": "Firefighters still have few options to prevent a tank of toxic chemicals in Garden Grove, Calif., from leaking or exploding.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+          "content": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "content": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to Stay Safe Around Jellyfish This Beach Season",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/us/jellyfish-facts-beach-sting-safety.html",
+          "originalTitle": "How to Stay Safe Around Jellyfish This Beach Season",
+          "content": "Jellyfish myths and misconceptions abound. Here’s how to stay safe this beach season around these gelatinous wonders.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html",
+          "originalTitle": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+          "content": "Kinshasa residents continue to pack markets, bars and public transportation, despite growing international concern about the spread of the virus.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Is Setting His Sights on Restricting Legal Immigration",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html",
+          "originalTitle": "Trump Is Setting His Sights on Restricting Legal Immigration",
+          "content": "After a year focused on immigrants here illegally, the Trump administration is now making it harder for legal migrants to stay in the country. It is a risky pivot.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-24",
+  "generatedAtKst": "2026. 5. 24. AM 7:43",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
