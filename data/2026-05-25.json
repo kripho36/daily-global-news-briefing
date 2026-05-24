@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Firefighters Still Working to Cool Garden Grove Chemical Tank",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html",
+          "originalTitle": "Firefighters Still Working to Cool Garden Grove Chemical Tank",
+          "content": "The tank in Southern California has been building in temperature and pressure for days, which could lead to an explosive release. The crack may reduce some of that pressure, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
+          "originalTitle": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
+          "content": "The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html",
+          "originalTitle": "To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later",
+          "content": "President Trump is hailing is agreement with Iran as groundbreaking, even as he admits is “isn’t even fully negotiated.” But the nuclear stockpile, enrichment and missiles have not been discussed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Prices Fall on News of Possible Iran Deal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/business/oil-stocks-gas.html",
+          "originalTitle": "Oil Prices Fall on News of Possible Iran Deal",
+          "content": "S&P 500 futures were up slightly in what may be a sign that investors and analysts are waiting to see if a deal is finalized.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Blast targeting train kills at least 20 in Pakistan",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Blast targeting train kills at least 20 in Pakistan",
+          "content": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rubio Says Details on Iran Nuclear Program Still to Be Negotiated",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/world/middleeast/rubio-iran-nuclear.html",
+          "originalTitle": "Rubio Says Details on Iran Nuclear Program Still to Be Negotiated",
+          "content": "The Secretary of State said the United States was prepared to begin those talks if Iran opens the Strait of Hormuz as part of an apparently emerging deal on the war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About the Citizenship Lists Trump Wants to Create",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/us/politics/trump-lists-noncitizens-states.html",
+          "originalTitle": "What to Know About the Citizenship Lists Trump Wants to Create",
+          "content": "President Trump is trying to create individual lists of citizens by state to determine who can vote, even as his administration acknowledges they would be unreliable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bystander Wounded in White House Shooting Is in Stable Condition",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/us/politics/white-house-bystander-shooting-secret-service.html",
+          "originalTitle": "Bystander Wounded in White House Shooting Is in Stable Condition",
+          "content": "The Metropolitan Police Department is investigating to determine who shot the bystander, who underwent surgery, and how many bullets were fired.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Reopening of Strait of Hormuz Still a Question Mark",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/business/strait-of-hormuz-reopen-iran.html",
+          "originalTitle": "Reopening of Strait of Hormuz Still a Question Mark",
+          "content": "Without the details of a formal agreement, it is unclear how soon normal shipping will resume and when oil prices will start to come down.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Oscars Start at Cannes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html",
+          "originalTitle": "The Oscars Start at Cannes",
+          "content": "Glamorous and a touch old-fashioned, the French film festival increasingly defines what Hollywood celebrates each year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-25",
+  "generatedAtKst": "2026. 5. 25. AM 7:48",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
