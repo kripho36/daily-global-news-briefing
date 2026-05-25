@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-26 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump to undergo annual medical exam ahead of 80th birthday",
+          "content": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Negotiations to End the War Resume in Qatar",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+          "originalTitle": "Iran War Live Updates: Negotiations to End the War Resume in Qatar",
+          "content": "Top Iranian officials arrived in Doha. President Trump gave conflicting signals over how much progress had been made. Prime Minister Benjamin Netanyahu said Israel intends to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Deal with US not imminent, Iran says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Deal with US not imminent, Iran says",
+          "content": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
+          "originalTitle": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+          "content": "After the prime minister made the announcement, the Israeli military said it had struck more than 70 Hezbollah sites in the past day.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Prices Fall Sharply on News of Possible Iran Deal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/24/business/oil-stocks-gas.html",
+          "originalTitle": "Oil Prices Fall Sharply on News of Possible Iran Deal",
+          "content": "The cost of crude hit a one-month low and S&P 500 futures were up as investors assessed the prospects for a lasting peace deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ride-Share Drivers in Massachusetts Formally Unionize",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/25/business/uber-lyft-app-drivers-union-massachusetts.html",
+          "originalTitle": "Ride-Share Drivers in Massachusetts Formally Unionize",
+          "content": "The App Drivers Union said it was the first organization in the country to be formally certified to represent drivers for apps such as Uber and Lyft.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "content": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Are We Pandemic Ready?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html",
+          "originalTitle": "Are We Pandemic Ready?",
+          "content": "Hantavirus and Ebola are reminders that outbreaks are inevitable, and that the world must work together to contain them and prevent the next pandemic.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Main Takeaways From Pope Leo’s Encyclical on A.I.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html",
+          "originalTitle": "Main Takeaways From Pope Leo’s Encyclical on A.I.",
+          "content": "In his letter, the first American pontiff called for putting care for humans at the heart of technological change.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-26",
+  "generatedAtKst": "2026. 5. 26. AM 7:51",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
