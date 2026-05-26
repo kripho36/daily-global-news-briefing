@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-27 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Runoff Polls in Texas Senate Contest Have Favored Ken Paxton",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/us/politics/runoff-polls-texas-paxton-cornyn.html",
+          "originalTitle": "Runoff Polls in Texas Senate Contest Have Favored Ken Paxton",
+          "content": "Mr. Paxton, a Texas Senate candidate, has led Senator John Cornyn in all but one independent poll in the Republican primary runoff.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/26/us/texas-primary-runoff-elections/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/science/space/nasa-rovers-moon-base-contracts.html",
+          "originalTitle": "NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts",
+          "content": "The contracts, announced on Tuesday, are part of the space agency’s efforts to establish a moon base.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
+          "originalTitle": "Iran War Live Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said",
+          "content": "Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html",
+          "originalTitle": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
+          "content": "In past outbreaks, Americans exposed to the virus were sent home to be treated in state-of-the-art facilities. The Trump administration has already flown some U.S. citizens to Europe for treatment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Factors Shaping the 2026 Midterm Elections",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/us/politics/midterm-primaries-primer.html",
+          "originalTitle": "The Factors Shaping the 2026 Midterm Elections",
+          "content": "President Trump has sought revenge in G.O.P. primaries. Democrats have turned out to vote in large numbers. Republicans have gained a redistricting advantage.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Better WiFi for hundreds of trains under government plans",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2d22929ww0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Better WiFi for hundreds of trains under government plans",
+          "content": "Campaigners welcome the move but say passengers are mostly worried about train fares and delays.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "South Carolina Redistricting: Senate Passes on New Map, Defying Trump",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html",
+          "originalTitle": "South Carolina Redistricting: Senate Passes on New Map, Defying Trump",
+          "content": "With early voting already underway, it became clear there was no longer enough support to use new lines before the November midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
+          "originalTitle": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+          "content": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democratic Incumbents Run Against Each Other After Republican Redistricting in Texas",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-al-green-christian-menefee.html",
+          "originalTitle": "Democratic Incumbents Run Against Each Other After Republican Redistricting in Texas",
+          "content": "A Republican-led redistricting effort forced Representative Al Green, who has served 11 terms, and Christian Menefee, one of the newest members of Congress, into a battle for the same seat.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-27",
+  "generatedAtKst": "2026. 5. 27. AM 8:01",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
