@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "9 Missing After Tank Implosion at a Paper Mill in Longview, Washington",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/us/longview-washington-paper-mill-implosion.html",
+          "originalTitle": "9 Missing After Tank Implosion at a Paper Mill in Longview, Washington",
+          "content": "Officials said they did not believe anyone was still alive inside the facility. The explosion has left at least two people dead and several others injured.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: As Talks Drag On, Trump Says ‘I Don’t Care’ About Midterms Pressure",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
+          "originalTitle": "Iran War Live Updates: As Talks Drag On, Trump Says ‘I Don’t Care’ About Midterms Pressure",
+          "content": "President Trump said U.S. politics would not affect his strategy in the unpopular war and was open to protracted peace talks. He also insisted that Iran would not control the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+          "originalTitle": "After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online",
+          "content": "The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Uganda Closes Border With Congo as Ebola Fears Rise",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html",
+          "originalTitle": "Uganda Closes Border With Congo as Ebola Fears Rise",
+          "content": "Seven confirmed cases of the virus have already been reported in Kampala, the capital, but officials say the country has robust disease surveillance.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html",
+          "originalTitle": "Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’",
+          "content": "President Trump said there would be serious repercussions if Iran and Oman move forward with a deal to open the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Former Judges Urge Inquiry Into Deal Trump Struck With I.R.S.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/us/politics/judges-trump-deal-irs.html",
+          "originalTitle": "Former Judges Urge Inquiry Into Deal Trump Struck With I.R.S.",
+          "content": "The motion was particularly significant because it asked the judge overseeing the initial suit against the I.R.S. to examine the terms of the deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ferrari’s First Electric Car Runs Into Backlash in Italy and Beyond",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/business/ferrari-luce-electric-ev-backlash.html",
+          "originalTitle": "Ferrari’s First Electric Car Runs Into Backlash in Italy and Beyond",
+          "content": "Memes mocked the new model, analysts questioned its appeal and investors sold the automaker’s stock. A former Ferrari chairman warned of “the destruction of a legend.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jill Biden’s Reaction to Biden’s 2024 Debate: ‘He’s Having a Stroke’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html",
+          "originalTitle": "Jill Biden’s Reaction to Biden’s 2024 Debate: ‘He’s Having a Stroke’",
+          "content": "“I had never, ever seen Joe like that,” the former first lady told CBS News. “Before or since.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The world's carmakers are struggling to compete with China",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The world's carmakers are struggling to compete with China",
+          "content": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html",
+          "originalTitle": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
+          "content": "Senators are angry President Trump turned on a respected former leader whom they consider a loyal Republican. Now Mr. Trump faces resistance from his own embittered ranks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-28",
+  "generatedAtKst": "2026. 5. 28. AM 8:10",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
