@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-29 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "After an Explosion at a Washington Paper Mill, Mourning Mixes With Dread",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/28/us/longview-washington-paper-mill-chemical-explosion.html",
+          "originalTitle": "After an Explosion at a Washington Paper Mill, Mourning Mixes With Dread",
+          "content": "The disaster at the mill in Longview, Wash., which took at least eight lives, was greeted with sadness but not surprise by a community that knew cutbacks and other pressures had raised risks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+          "originalTitle": "Iran War Live Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
+          "content": "President Trump has not signed off on the emerging framework, according to U.S. officials. But it could set the table for extending the cease-fire and more substantive negotiations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The spelling bee takes a game show approach to combat declining viewership.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/28/us/scripps-spelling-bee/the-spelling-bee-takes-a-game-show-approach-to-combat-declining-viewership",
+          "originalTitle": "The spelling bee takes a game show approach to combat declining viewership.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How did this novel about food win a Booker Prize this year?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How did this novel about food win a Booker Prize this year?",
+          "content": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ABC Accuses Media Regulator of Threatening Its Licenses",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/28/business/media/abc-licenses-fcc-brendan-carr.html",
+          "originalTitle": "ABC Accuses Media Regulator of Threatening Its Licenses",
+          "content": "The TV network on Thursday slammed the Federal Communications Commission, saying it was targeting its station licenses in a campaign of “unconstitutional retaliation.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html",
+          "originalTitle": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
+          "content": "President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "From ‘clickbait’ to ‘nerfing,’ modern slang is shaking up the bee.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/05/28/us/scripps-spelling-bee/from-clickbait-to-nerfing-modern-slang-is-shaking-up-the-bee",
+          "originalTitle": "From ‘clickbait’ to ‘nerfing,’ modern slang is shaking up the bee.",
+          "content": "Internet slang and non-European terms are appearing more and more in the competition while words with Greek and Latin words are being used less.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+          "originalTitle": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+          "content": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two Papers Named ‘Star’ Will Duel in D.C. to Win Readers From The Washington Post",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html",
+          "originalTitle": "Two Papers Named ‘Star’ Will Duel in D.C. to Win Readers From The Washington Post",
+          "content": "First, The Star was born. Now, The Washington Star is reborn. Both are hoping to win readers ceded by recent layoffs at The Washington Post.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-29",
+  "generatedAtKst": "2026. 5. 29. AM 8:07",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
