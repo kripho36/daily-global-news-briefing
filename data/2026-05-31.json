@@ -1,0 +1,107 @@
+{
+  "title": "2026-05-31 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Boom in Boston Area Puzzles Residents. There Are ‘Hints’ It Was a Meteorite.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/30/us/boston-area-boom.html",
+          "originalTitle": "Boom in Boston Area Puzzles Residents. There Are ‘Hints’ It Was a Meteorite.",
+          "content": "A fireball reached 75,000 miles per hour before breaking up miles above New England, NASA said, causing a boom that alarmed residents. The incident followed a similar event in South Carolina.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "C.I.A. Officer Arrested With Gold Once Worked With No. 2 Pentagon Official",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html",
+          "originalTitle": "C.I.A. Officer Arrested With Gold Once Worked With No. 2 Pentagon Official",
+          "content": "David Rush, a longtime C.I.A. officer, appears to have first had contact with Stephen A. Feinberg during President Trump’s first term. Some officials said the two men were not close.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senator Dan Sullivan Has a New Challenger in Alaska: Dan Sullivan",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html",
+          "originalTitle": "Senator Dan Sullivan Has a New Challenger in Alaska: Dan Sullivan",
+          "content": "Two candidates with the same name will be on the ballot seeking the same seat in the state’s primary. “It’s going to be confusing,” one Republican said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+          "content": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html",
+          "originalTitle": "Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began",
+          "content": "The wife of Graham Platner, the Democratic candidate in Maine, told the campaign he had sent sexual messages to other women.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About the Ebola Outbreak",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+          "originalTitle": "What to Know About the Ebola Outbreak",
+          "content": "Aid agencies are racing to help underequipped health workers in the Democratic Republic of Congo. More than 245 people are now suspected to have died from the virus.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+          "content": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'It's like a decaying body': Australian farmers battle mouse plague",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'It's like a decaying body': Australian farmers battle mouse plague",
+          "content": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Ecuador accused of meddling in Colombian election with tariff vow",
+          "content": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html",
+          "originalTitle": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
+          "content": "The Iranian soccer players, still awaiting visas to the U.S., are practicing in Turkey and making backup plans.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-31",
+  "generatedAtKst": "2026. 5. 31. AM 7:49",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
