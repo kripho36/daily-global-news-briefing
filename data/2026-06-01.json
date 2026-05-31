@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-01 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "content": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Young Moviegoers Power ‘Backrooms’ to $82 Million in Ticket Sales",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
+          "originalTitle": "Young Moviegoers Power ‘Backrooms’ to $82 Million in Ticket Sales",
+          "content": "The horror film, which cost $10 million and came from a 20-year-old filmmaker, added to evidence that young people will go to theaters for the right offering.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "China Exports Surveillance",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html",
+          "originalTitle": "China Exports Surveillance",
+          "content": "The country has spent decades perfecting a surveillance state at home. Now it’s promoting its ideology of state control, and the technology to enforce it, abroad.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Release of Tina Peters, Election Denier and Former County Clerk, Divides Colorado City",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/us/tina-peters-release-election-tampering-colorado.html",
+          "originalTitle": "Release of Tina Peters, Election Denier and Former County Clerk, Divides Colorado City",
+          "content": "The former clerk of Mesa County is scheduled to be set free on Monday, after her nine-year prison sentence was commuted by Gov. Jared Polis.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nicaraguan indigenous leader dies after three years in prison",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Nicaraguan indigenous leader dies after three years in prison",
+          "content": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Notre Dame Students Abused by Priest in ‘Weighing Scheme,’ Report Finds",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/us/notre-dame-students-abused-by-priest-in-weighing-scheme-report-finds.html",
+          "originalTitle": "Notre Dame Students Abused by Priest in ‘Weighing Scheme,’ Report Finds",
+          "content": "An investigation commissioned by Notre Dame found that the Catholic university could have done more to respond to allegations of sexual misconduct.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Colombia Presidential Election: What to Know About the Candidates and Main Issues",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
+          "originalTitle": "Colombia Presidential Election: What to Know About the Candidates and Main Issues",
+          "content": "The election tests the legacy of the country’s first leftist leader against a rising far-right outsider and a traditional conservative.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Havoc in Hawaii’s Coffee Fields After an Earthquake Destroyed Water Collection Tanks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/us/kona-hawaii-coffee-fields-water.html",
+          "originalTitle": "Havoc in Hawaii’s Coffee Fields After an Earthquake Destroyed Water Collection Tanks",
+          "content": "An earthquake destroyed many water catchment systems on Hawaii’s Big Island, capping a spring filled with devastating floods.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Polls close in Colombia presidential election that may reshape relations with US",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Polls close in Colombia presidential election that may reshape relations with US",
+          "content": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/31/business/us-military-guides-strait-of-hormuz.html",
+          "originalTitle": "U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz",
+          "content": "U.S. Central Command has helped around 70 commercial ships pass through the strait in the last three weeks, an official said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-01",
+  "generatedAtKst": "2026. 6. 1. AM 7:51",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
