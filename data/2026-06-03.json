@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-03 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Tom Steyer: 5 Facts About the Candidate for California Governor",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/politics/tom-steyer-california-governor.html",
+          "originalTitle": "Tom Steyer: 5 Facts About the Candidate for California Governor",
+          "content": "He is a billionaire who appeals to many progressive groups in California.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How a Republican Switcheroo Stifled Competition to Succeed Steve Daines in Montana",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/politics/montana-republican-senate-primary-daines-alme.html",
+          "originalTitle": "How a Republican Switcheroo Stifled Competition to Succeed Steve Daines in Montana",
+          "content": "Senator Steve Daines withdrew his candidacy for re-election moments before the filing deadline, and then endorsed Kurt Alme in what appeared to be a coordinated swap to preclude competition.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Polls of California Governor’s Race Show a Clear Top 3",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/elections/california-governor-primary-election-polls.html",
+          "originalTitle": "Polls of California Governor’s Race Show a Clear Top 3",
+          "content": "Xavier Becerra, Tom Steyer and Steve Hilton have consistently led the field in California’s nonpartisan primary, where the top two finishers advance.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "NOTUS Cannot Be ‘The Star’: Judge Blocks D.C. New Outlet’s Rebranding",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/business/media/notus-washington-star-trademark-dispute.html",
+          "originalTitle": "NOTUS Cannot Be ‘The Star’: Judge Blocks D.C. New Outlet’s Rebranding",
+          "content": "NOTUS, a political news website, must temporarily suspend its plans to rebrand, a judge ruled in a trademark dispute brought by The Washington Star.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+          "content": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+          "content": "The Bank of England is asking the public which animals should appear on future banknotes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Do you find yourself aimlessly scrolling? You're not alone",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Do you find yourself aimlessly scrolling? You're not alone",
+          "content": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Billionaires and Silicon Valley Have Flooded California’s Races With Cash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/politics/california-primary-midterms-election-spending.html",
+          "originalTitle": "Billionaires and Silicon Valley Have Flooded California’s Races With Cash",
+          "content": "Tom Steyer has spent a staggering $216 million on his campaign for governor. Tech titans have lined up behind one of his rivals. And in other races, rich donors are spending big.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Order Shielding Trump Family From I.R.S. Audits Will Remain, Blanche Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html",
+          "originalTitle": "Order Shielding Trump Family From I.R.S. Audits Will Remain, Blanche Says",
+          "content": "The acting attorney general said the administration was preserving a broad order shielding the president and his family from audits of already filed returns, despite dropping a $1.8 billion payout fund.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Roman Catholic Priest Sentenced to Life in Prison for Sexual Assault",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/02/us/waco-texas-priest-sexual-assault-sentence.html",
+          "originalTitle": "Roman Catholic Priest Sentenced to Life in Prison for Sexual Assault",
+          "content": "Father Anthony Odiong, who served in Texas and Louisiana, had been found guilty of abusing multiple women. Prosecutors say the abuse almost certainly resulted in the birth of a child.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-03",
+  "generatedAtKst": "2026. 6. 3. AM 8:27",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
