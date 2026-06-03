@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html",
+          "originalTitle": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump",
+          "content": "A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "SpaceX says its worth $1.75tn as it nears stock market debut",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "SpaceX says its worth $1.75tn as it nears stock market debut",
+          "content": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "G.O.P. Revives Immigration Bill, Weighing Ban on Trump’s Fund",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html",
+          "originalTitle": "G.O.P. Revives Immigration Bill, Weighing Ban on Trump’s Fund",
+          "content": "Several Republicans suggested they would insist on adding a measure to bar the president from creating a fund to pay people who claim to be victims of government persecution.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Agitates Brazil’s Politics, Again",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/world/americas/trump-brazil-flavio-bolsonaro.html",
+          "originalTitle": "Trump Agitates Brazil’s Politics, Again",
+          "content": "President Trump appears ready to lend a hand to a new right-wing ally ahead of a crucial election this year that will be the biggest test for Latin America’s left.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US House votes to halt Iran war, in rebuke to Trump",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US House votes to halt Iran war, in rebuke to Trump",
+          "content": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'It is by the grace of God that you find a diamond'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'It is by the grace of God that you find a diamond'",
+          "content": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Obscure Group With Trump Ties Plans to Route Funds to His Allies for Legal Fights",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/us/politics/trump-lawfare-defense-fund.html",
+          "originalTitle": "Obscure Group With Trump Ties Plans to Route Funds to His Allies for Legal Fights",
+          "content": "A nonprofit called the Lawfare Defense Fund has raised $36 million to support those who consider themselves unjust victims of the legal system with grants to pay for litigation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "House Advances New Sanctions on Russia and Aid to Ukraine",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html",
+          "originalTitle": "House Advances New Sanctions on Russia and Aid to Ukraine",
+          "content": "After G.O.P. leaders blocked additional aid to Ukraine, six Republicans and an independent joined Democrats to force the measure to the floor against the wishes of the speaker.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
+          "originalTitle": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
+          "content": "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor laws is merely a pretext for protectionism.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘I Love It’: Trump Is Still in Favor of $1.8 Billion Payout Fund",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html",
+          "originalTitle": "‘I Love It’: Trump Is Still in Favor of $1.8 Billion Payout Fund",
+          "content": "Todd Blanche, the acting attorney general, said on Tuesday that the administration was “not moving forward with the fund, period,” after the plan drew bipartisan backlash.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-04",
+  "generatedAtKst": "2026. 6. 4. AM 8:26",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
