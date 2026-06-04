@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-05 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Planning Commission Votes to Advance Trump’s Arch Project",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/us/politics/trump-arch-dc-planning-meeting.html",
+          "originalTitle": "Planning Commission Votes to Advance Trump’s Arch Project",
+          "content": "The National Capital Planning Commission received nearly 1,700 comments about President Trump’s plans to build a 250-foot arch in the nation’s capital. Almost all opposed the idea.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Agent Charged in Minnesota Shooting Will Not Waive Extradition",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/us/ice-agent-minnesota-shooting-extradition.html",
+          "originalTitle": "ICE Agent Charged in Minnesota Shooting Will Not Waive Extradition",
+          "content": "Christian Castro, who is jailed in Texas, was charged with assault in connection with a January shooting that wounded a man.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Several Women Who Dated Graham Platner Recall ‘Unsettling’ Behavior",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html",
+          "originalTitle": "Several Women Who Dated Graham Platner Recall ‘Unsettling’ Behavior",
+          "content": "The Democratic candidate for Senate in Maine could be charming, women said in interviews, but some found his actions intimidating and disturbing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nick Bilton, New ‘60 Minutes’ Chief, Pledges Independence",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/business/nick-bilton-60-minutes-memo.html",
+          "originalTitle": "Nick Bilton, New ‘60 Minutes’ Chief, Pledges Independence",
+          "content": "Nick Bilton said he had consulted with the program’s remaining correspondents: Lesley Stahl, Jon Wertheim and Bill Whitaker. All three were deliberating whether to stay with the show, two people said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls",
+          "content": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here's why election results in the second largest US city are so slow",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Here's why election results in the second largest US city are so slow",
+          "content": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+          "content": "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Priest Who Said Aliens Were Demons Removed as Exorcist for Washington",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/us/catholic-exorcist-demon-ufo.html",
+          "originalTitle": "Priest Who Said Aliens Were Demons Removed as Exorcist for Washington",
+          "content": "Cardinal Robert McElroy, archbishop of Washington, said recent statements by the exorcist “undermine the Church’s very precise teaching on the devil.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+          "originalTitle": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+          "content": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ohio State Agrees to $100 Million Payout Over Sexual Abuse Claims",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/04/us/ohio-state-sexual-abuse-settlement.html",
+          "originalTitle": "Ohio State Agrees to $100 Million Payout Over Sexual Abuse Claims",
+          "content": "The deal with 279 former students is the latest in the long running case at the university. In all, nearly 600 people who said they were abused by an athletic department doctor have settled.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-05",
+  "generatedAtKst": "2026. 6. 5. AM 8:01",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
