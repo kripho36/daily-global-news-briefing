@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-06 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html",
+          "originalTitle": "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied",
+          "content": "After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Patel Said to Have Fired Five F.B.I. Analysts Over Memo on Catholic Extremists",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/politics/patel-firings-richmond-memo.html",
+          "originalTitle": "Patel Said to Have Fired Five F.B.I. Analysts Over Memo on Catholic Extremists",
+          "content": "It is the administration’s latest effort to force out law enforcement personnel it accuses of “weaponizing” the government against President Trump and his supporters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "James Handy, Actor in ‘Top Gun: Maverick,’ Is Found Stabbed to Death",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html",
+          "originalTitle": "James Handy, Actor in ‘Top Gun: Maverick,’ Is Found Stabbed to Death",
+          "content": "The 81-year-old had parts in films including “Top Gun: Maverick” and “Arachnophobia.” The son of his girlfriend was arrested and charged with murder.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html",
+          "originalTitle": "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned.",
+          "content": "Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Arch Will Need Red Lights, F.A.A. Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/politics/trump-arch-lights-faa.html",
+          "originalTitle": "Trump Arch Will Need Red Lights, F.A.A. Says",
+          "content": "The Federal Aviation Administration advised that if the Trump administration adds red obstruction lights to the arch design, it is likely to pose no risk to local aviation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ebola Cases May Top 20,000 in Three Months, C.D.C. Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html",
+          "originalTitle": "Ebola Cases May Top 20,000 in Three Months, C.D.C. Says",
+          "content": "Still, the risk to people in the United States remains low, the Centers for Disease Control and Prevention said in a report Friday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/world/europe/pamela-hicks-dead.html",
+          "originalTitle": "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97",
+          "content": "The queen’s third cousin, she was a bridesmaid at the royal wedding in 1947, and witnessed firsthand pivotal moments in British history.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Promises to Drop Trump’s $1.8 Billion Fund",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/politics/trump-fund-doj.html",
+          "originalTitle": "Justice Dept. Promises to Drop Trump’s $1.8 Billion Fund",
+          "content": "It was the department’s clearest statement to date that it was pulling back from a plan to use taxpayer money to make payments to people who claimed to have been politically persecuted.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html",
+          "originalTitle": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
+          "content": "New revelations about Graham Platner have left Democrats anxious.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pentagon Cuts 180 Religious Identities From Military Personnel Records",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/pentagon-religions-faith-military.html",
+          "originalTitle": "Pentagon Cuts 180 Religious Identities From Military Personnel Records",
+          "content": "The new policy, which the Pentagon framed as a largely administrative action, leaves just 31 religious categories to choose from, 22 of which are Christian.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-06",
+  "generatedAtKst": "2026. 6. 6. AM 7:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
