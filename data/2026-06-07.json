@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-07 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Iran says staff blocked from entering US after players given World Cup visas",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran says staff blocked from entering US after players given World Cup visas",
+          "content": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
+          "originalTitle": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
+          "content": "A federal judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bob Packwood, Senator Forced to Quit in Sex Scandal, Dies at 93",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/us/politics/bob-packwood-dead.html",
+          "originalTitle": "Bob Packwood, Senator Forced to Quit in Sex Scandal, Dies at 93",
+          "content": "An unorthodox Republican, he helped shape tax policy and women’s rights legislation before resigning in 1995 amid accusations by more than 20 women of sexual misconduct.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Alan Riding, Times Correspondent in Latin America and Paris, Dies at 82",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/business/media/alan-riding-dead.html",
+          "originalTitle": "Alan Riding, Times Correspondent in Latin America and Paris, Dies at 82",
+          "content": "He was a cosmopolitan observer and interpreter of societies he knew firsthand, whether writing about war in Nicaragua or the history and cultural salons of France.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
+          "originalTitle": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+          "content": "It was the second such attack in days and came just hours after President Vladimir V. Putin spoke at an economic forum in the city.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Barge Hits Maryland Rail Bridge Along Northeast Corridor",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/us/maryland-bridge-amtrak-northeast-corridor.html",
+          "originalTitle": "Barge Hits Maryland Rail Bridge Along Northeast Corridor",
+          "content": "Amtrak said crews were conducting a safety assessment for the bridge, which crosses the Susquehanna River in Maryland. The U.S. Coast Guard reported no injuries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Lebanese general among three soldiers killed in Israeli attack on car",
+          "content": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+          "content": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html",
+          "originalTitle": "Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say",
+          "content": "Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Park Ranger Dies After Falling Into a Crevasse on Mt. McKinley",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/05/us/national-park-service-ranger-dead-mount-mckinley.html",
+          "originalTitle": "Park Ranger Dies After Falling Into a Crevasse on Mt. McKinley",
+          "content": "Robin Pendery, 33, who was part of a climbing patrol, was near a camp at about 14,000 feet on the mountain in Alaska when she fell, the National Park Service said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-07",
+  "generatedAtKst": "2026. 6. 7. AM 7:55",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
