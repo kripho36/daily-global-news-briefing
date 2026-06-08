@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Could humanoid robots be heading for the battlefield?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Could humanoid robots be heading for the battlefield?",
+          "content": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html",
+          "originalTitle": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
+          "content": "The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Three Questions About the Maine and South Carolina Primaries",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/us/politics/maine-south-carolina-primaries.html",
+          "originalTitle": "Three Questions About the Maine and South Carolina Primaries",
+          "content": "Graham Platner and Lindsey Graham are both hoping for comfortably big victories.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "OpenAI plans to go public, intensifying investment race with Anthropic",
+          "content": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+          "content": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html",
+          "originalTitle": "A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary",
+          "content": "Once one of President Trump’s fiercest critics, the South Carolina senator has dramatically shifted his posture over the years. Will it pay off on Tuesday in his primary?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pentagon Again Revises Religious Categories for Troops",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/us/pentagon-religious-list-troops.html",
+          "originalTitle": "Pentagon Again Revises Religious Categories for Troops",
+          "content": "The Defense Department made the change after lawmakers objected to its original list, which did not include the Latter-day Saints among traditions labeled Christian.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
+          "originalTitle": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
+          "content": "The company hopes to raise billions in a highly anticipated public offering that could unlock a new generation of tech industry wealth.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
+          "originalTitle": "Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
+          "content": "Prime Minister Benjamin Netanyahu said that Israel’s “fire is on hold” after a phone call with President Trump. Iran also said it would cease its attacks but, like Israel, warned it was ready to resume.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
+          "originalTitle": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
+          "content": "President Trump is grappling with his own version of the sort of Middle East crisis that beset his predecessors, and that he promised to avoid.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-09",
+  "generatedAtKst": "2026. 6. 9. AM 8:08",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
