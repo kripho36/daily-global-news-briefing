@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Many Feared Trapped Under Earthquake Rubble in Philippines",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/09/world/asia/philippines-earthquake-trapped.html",
+          "originalTitle": "Many Feared Trapped Under Earthquake Rubble in Philippines",
+          "content": "Families hope to recover their loved ones after the most powerful earthquake in 50 years to hit the Philippines.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bill debt soars but many don't know help is available",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Bill debt soars but many don't know help is available",
+          "content": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
+          "content": "The mask is not \"clinically proven to reduce wrinkles in four weeks\", the advertising watchdog finds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to enjoy the World Cup - and keep your boss on side",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How to enjoy the World Cup - and keep your boss on side",
+          "content": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Launches Strikes on Iran to Retaliate for Downed Helicopter",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+          "originalTitle": "Iran War Live Updates: U.S. Launches Strikes on Iran to Retaliate for Downed Helicopter",
+          "content": "The president said earlier Iranian forces had shot down a U.S. Apache helicopter near the Strait of Hormuz and the United States “must, of necessity, respond to this attack.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Federal Judge Faces Battery Charge After Parking Lot Confrontation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/09/us/ryan-nelson-judge-criminal-charges-battery.html",
+          "originalTitle": "Federal Judge Faces Battery Charge After Parking Lot Confrontation",
+          "content": "Judge Ryan Nelson of the U.S. Court of Appeals for the Ninth Circuit tossed a man’s glasses and appeared to stomp on them during an argument in Idaho that was captured on video.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About the Sea Drone That Rescued Downed Apache Crew",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/09/world/middleeast/sea-drone-apache-rescue.html",
+          "originalTitle": "What to Know About the Sea Drone That Rescued Downed Apache Crew",
+          "content": "It was the first U.S. rescue carried out by an autonomous surface vessel and remotely piloted by a human operator, according to a military spokesperson.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Strikes Iran After Army Helicopter Is Downed",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/09/us/politics/trump-helicopter-iran-war.html",
+          "originalTitle": "U.S. Strikes Iran After Army Helicopter Is Downed",
+          "content": "President Trump vowed to retaliate for what he said was Iran’s downing of an Apache helicopter. near the Strait of Hormuz. The pilot and gunner were rescued.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Air Canada Pilot Accused of Flying for 17 Years Without Proper License",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/09/world/canada/air-canada-pilot-fraud.html",
+          "originalTitle": "Air Canada Pilot Accused of Flying for 17 Years Without Proper License",
+          "content": "The pilot, who retired last year before the investigation, held some valid flight credentials, officials said, but not the one required to be a captain.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/09/us/elections-maine-sc-nv-nd-primaries/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-10",
+  "generatedAtKst": "2026. 6. 10. AM 8:12",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
