@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "The furious dispute over what caused Air India flight 171 to crash",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The furious dispute over what caused Air India flight 171 to crash",
+          "content": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Strikes Iran Again After Trump Says Talks Are Taking Too Long",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+          "originalTitle": "Iran War Live Updates: U.S. Strikes Iran Again After Trump Says Talks Are Taking Too Long",
+          "content": "Secretary of Defense Pete Hegseth said just before the attack: “If we need to negotiate with bombs, we’ll negotiate with bombs.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+          "content": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Catholic Mayor Commissioned Statues of Saints. Residents Revolted.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/10/us/quincy-mass-statues-koch-mayor.html",
+          "originalTitle": "A Catholic Mayor Commissioned Statues of Saints. Residents Revolted.",
+          "content": "The mayor of Quincy, Mass., is being sued over 10-foot statues of two Catholic saints that he wants to install in front of a new public safety complex.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'A little goes a long way': New York's candy stores sweeten economic gloom",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'A little goes a long way': New York's candy stores sweeten economic gloom",
+          "content": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+          "content": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inflation Accelerates to Fastest Pace in 3 Years as Energy Prices Bite",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/10/business/economy/inflation-consumer-price-index.html",
+          "originalTitle": "Inflation Accelerates to Fastest Pace in 3 Years as Energy Prices Bite",
+          "content": "Companies appear hesitant to pass those price increases on to weary consumers, whose wages aren’t keeping up.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada Moves to Ban Social Media Use for Youth Under 16",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html",
+          "originalTitle": "Canada Moves to Ban Social Media Use for Youth Under 16",
+          "content": "The country’s previous attempt to get tech companies to shelter young users failed amid heavy criticism from civil liberty groups.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pro-Palestinian Activists at U. of Michigan Indicted on Federal Conspiracy Charges",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/10/us/university-michigan-pro-palestinian-activists-indicted.html",
+          "originalTitle": "Pro-Palestinian Activists at U. of Michigan Indicted on Federal Conspiracy Charges",
+          "content": "The new charges appeared to signify an escalation in the federal government’s approach to campus activism.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Strikes Iran for Second Day, as War Heats Back Up",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/10/world/middleeast/us-iran-strikes.html",
+          "originalTitle": "U.S. Strikes Iran for Second Day, as War Heats Back Up",
+          "content": "President Trump said that the Iranians were taking “too long to negotiate” a deal to end the conflict launched by the United States and Israel four months ago.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-11",
+  "generatedAtKst": "2026. 6. 11. AM 8:19",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
