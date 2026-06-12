@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+          "content": "The BBC breaks down how the tech mogul's fortune has grown.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+          "originalTitle": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+          "content": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Afghans Hold Rare Public Protests Against Taliban Rules",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/world/asia/taliban-protests-afghanistan.html",
+          "originalTitle": "Afghans Hold Rare Public Protests Against Taliban Rules",
+          "content": "The United Nations said it was “deeply concerned” about the arrests of dozens of women, and reported that two people were killed in protests organized to support them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Says It Will Restart Asylum and Immigration Processing",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html",
+          "originalTitle": "Trump Administration Says It Will Restart Asylum and Immigration Processing",
+          "content": "The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Clears Way for Paramount-Warner Bros. Merger",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
+          "originalTitle": "Justice Dept. Clears Way for Paramount-Warner Bros. Merger",
+          "content": "The $111 billion deal would unite two major movie studios and put CNN under the same roof as CBS News.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Suspect in Fatal Shooting Is Dead After a Standoff in Midland, Texas, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html",
+          "originalTitle": "Suspect in Fatal Shooting Is Dead After a Standoff in Midland, Texas, Officials Say",
+          "content": "The man was confirmed to be dead after he had barricaded himself in a building in Midland, following an earlier shooting on Friday that killed one person and injured 10 others.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
+          "originalTitle": "Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say",
+          "content": "U.S. and Iranian officials said final details were still being worked out, but President Trump and Iran’s foreign minister both said they were close to an agreement. Previous potential deals have evaporated at the last minute.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html",
+          "originalTitle": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+          "content": "A senior administration official said the two sides were “not quite at the finish line yet.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What the SpaceX I.P.O. Means for OpenAI and Anthropic",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html",
+          "originalTitle": "What the SpaceX I.P.O. Means for OpenAI and Anthropic",
+          "content": "Strong investor interest in SpaceX could be good news for the A.I. rivals, which have signaled that they, too, intend to go public this year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-13",
+  "generatedAtKst": "2026. 6. 13. AM 8:08",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
