@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Yosemite Ranger’s Suit Over Trans Flag at El Capitan Is Dismissed",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/politics/yosemite-ranger-lawsuit-transgender-flag-judge-ruling.html",
+          "originalTitle": "Yosemite Ranger’s Suit Over Trans Flag at El Capitan Is Dismissed",
+          "content": "The ranger, who was fired after hanging the flag, sued the government on free speech grounds. On Friday, a judge dismissed the case, saying the court lacked the authority to rule.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+          "content": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+          "content": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Children Are Killed After Van and S.U.V. Collide in Rural Ontario",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/world/canada/five-children-killed-crash-ontario-canada.html",
+          "originalTitle": "5 Children Are Killed After Van and S.U.V. Collide in Rural Ontario",
+          "content": "The children — four girls and one boy — were among 10 people in the van at the time of the crash. An infant was seriously injured, the police said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html",
+          "originalTitle": "Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery",
+          "content": "The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/mystery-potato-hovering-over-colorado-is-reported-in-latest-ufo-files.html",
+          "originalTitle": "Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files",
+          "content": "Potatoes have featured in sightings before, and in real and fictional space travel.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At the Kennedy Center, a Name Change Shrouded in Uncertainty",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/politics/trump-kennedy-center-name.html",
+          "originalTitle": "At the Kennedy Center, a Name Change Shrouded in Uncertainty",
+          "content": "President Trump’s name was removed from the arts institution’s facade overnight on Saturday. Many questions remain, including whether or not it stays off.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Threats, Free Speech and the Case Against U. of Michigan Activists",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/pro-palestinian-university-michigan-activists.html",
+          "originalTitle": "Threats, Free Speech and the Case Against U. of Michigan Activists",
+          "content": "Prosecutors accused eight pro-Palestinian activists with ties to the university of conspiring to threaten campus leaders and others.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+          "originalTitle": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
+          "content": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Witness’ Tree Outside Abraham Lincoln’s Former Home Irreparably Damaged",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/abraham-lincoln-witness-tree-destroyed-storm.html",
+          "originalTitle": "‘Witness’ Tree Outside Abraham Lincoln’s Former Home Irreparably Damaged",
+          "content": "Storms damaged the American linden tree, which was alive when Lincoln lived at the home in Springfield, Ill. He left it in 1861 for the White House.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-14",
+  "generatedAtKst": "2026. 6. 14. AM 7:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
