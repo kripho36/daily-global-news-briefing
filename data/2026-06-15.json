@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+          "originalTitle": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
+          "content": "The deal would halt fighting for 60 days, officials said, and open the Strait of Hormuz, while leaving the thorniest nuclear issues for another day.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/us/politics/trump-mike-collins-georgia-senate-runoff.html",
+          "originalTitle": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
+          "content": "Mr. Trump backed Mr. Collins over Derek Dooley, a former football coach supported by Gov. Brian Kemp, a Republican whose relationship with the president is strained.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Prices Tumble After Trump Announces Deal With Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
+          "originalTitle": "Oil Prices Tumble After Trump Announces Deal With Iran",
+          "content": "Oil prices fell and stocks gained on Sunday evening on the hope that a deal would allow more energy and other goods to flow through the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
+          "originalTitle": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
+          "content": "Israelis across the political spectrum have said the deal appears to leave fundamental security threats posed by Iran unaddressed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Again Picks Personal Lawyer for a Top Job, as U.S. Attorney in Manhattan",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/13/us/politics/trump-lawyer-us-attorney-manhattan.html",
+          "originalTitle": "Trump Again Picks Personal Lawyer for a Top Job, as U.S. Attorney in Manhattan",
+          "content": "James M. McDonald, a veteran former federal prosecutor and regulator, has more recently been part of President Trump’s legal team, appealing his criminal conviction.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "War and the World Cup",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html",
+          "originalTitle": "War and the World Cup",
+          "content": "The Iranian government has always used the national team to project soft power. That puts players and fans who oppose the regime in a tough spot.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to Watch the U.F.C. 250 Freedom Fights at the White House",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/us/politics/how-to-watch-ufc-freedom-250.html",
+          "originalTitle": "How to Watch the U.F.C. 250 Freedom Fights at the White House",
+          "content": "Seven bouts will take place in an arena created on the South Lawn for the Ultimate Fighting Championship event, which coincides with President Trump’s 80th birthday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jean Ziegler, Swiss Gadfly Who Provoked His Countrymen, Dies at 92",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/14/obituaries/jean-ziegler-dead.html",
+          "originalTitle": "Jean Ziegler, Swiss Gadfly Who Provoked His Countrymen, Dies at 92",
+          "content": "In a nation that sees itself as a tranquil oasis of prosperity and business virtue, he drew death threats for pointing out a dark underside.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UK and Japan agree £18bn investment deal",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "UK and Japan agree £18bn investment deal",
+          "content": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-15",
+  "generatedAtKst": "2026. 6. 15. AM 7:59",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
