@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "B-52 Bomber Crashes at Edwards Air Force Base in California",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html",
+          "originalTitle": "B-52 Bomber Crashes at Edwards Air Force Base in California",
+          "content": "The crash occurred shortly after takeoff this morning from Edwards Air Force Base in California. Initial indications were that the accident was “not survivable,” officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+          "content": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UK Announces Social Media Ban for Children Under 16",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+          "originalTitle": "UK Announces Social Media Ban for Children Under 16",
+          "content": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Montana Democrats Are Divided Over How to Win a Republican-held Senate Seat",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html",
+          "originalTitle": "Montana Democrats Are Divided Over How to Win a Republican-held Senate Seat",
+          "content": "A rift in Montana between the Democratic nominee and an independent candidate could boost Republican hopes of holding on to an open seat in conservative territory.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Investigators Look for Electronic Devices of Victims in Skydiving Crash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/skydiving-plane-crash-missouri.html",
+          "originalTitle": "Investigators Look for Electronic Devices of Victims in Skydiving Crash",
+          "content": "The aircraft that went down in Butler, Mo., on Sunday was not required to have had a voice recorder, a National Transportation Safety Board official said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+          "originalTitle": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
+          "content": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gov. Gavin Newsom Says Trump Is Investigating Him and His Wife",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html",
+          "originalTitle": "Gov. Gavin Newsom Says Trump Is Investigating Him and His Wife",
+          "content": "Aides to Gov. Gavin Newsom of California say several people associated with the couple have been contacted by federal agents in the past week. He criticized the move as politically motivated.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Thanks China and Russia, Partners of Iran, for Diplomatic Help",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/trump-thanks-china-russia.html",
+          "originalTitle": "Trump Thanks China and Russia, Partners of Iran, for Diplomatic Help",
+          "content": "China and Russia have both given support to Iran during the war that the United States and Israel started. But President Trump has made no mention of that.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Scorching Heat or Scorching Lightning? Miami’s Match Could Have Both.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/us/miami-world-cup-heat.html",
+          "originalTitle": "Scorching Heat or Scorching Lightning? Miami’s Match Could Have Both.",
+          "content": "South Florida was under a severe heat advisory as fans arrived in the hours before kickoff. Scattered thunderstorms are also in the forecast.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html",
+          "originalTitle": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
+          "content": "The short-term truce hasn’t been made public, and the long-term peace deal it is supposed to yield doesn’t exist yet, so there is much still unknown about any agreement between the adversaries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-16",
+  "generatedAtKst": "2026. 6. 16. AM 8:29",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
