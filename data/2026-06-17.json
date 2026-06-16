@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
+          "originalTitle": "Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations",
+          "content": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Trump Says He Hopes to Put War in ‘Rearview Mirror’",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal",
+          "originalTitle": "Iran War Live Updates: Trump Says He Hopes to Put War in ‘Rearview Mirror’",
+          "content": "Iran’s foreign minister said new talks on nuclear arms and sanctions relief would start on Friday, right after an initial agreement is signed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Internal Emails Raise Questions About D.H.S. Ending Haiti Protections",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/us/politics/haiti-tps-supreme-court.html",
+          "originalTitle": "Internal Emails Raise Questions About D.H.S. Ending Haiti Protections",
+          "content": "Newly released documents could complicate deliberations by the Supreme Court over whether the Trump administration can immediately cancel deportation protections for some migrants.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+          "content": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Areas to Watch in Georgia’s Republican Primary Runoffs",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/us/elections/georgia-primary-runoffs-areas-to-watch.html",
+          "originalTitle": "Areas to Watch in Georgia’s Republican Primary Runoffs",
+          "content": "Georgia’s Republican runoffs are expected to follow urban-rural divides, with an open question of how recent endorsements will shift support.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/16/us/georgia-oklahoma-alabama-elections/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Beijing’s New Message to Its Citizens: Your Money Belongs at Home",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/business/chinese-investors-restrictions.html",
+          "originalTitle": "Beijing’s New Message to Its Citizens: Your Money Belongs at Home",
+          "content": "Eager to keep capital within its borders, China is restricting the ways individuals can engage with global markets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who Are the Leaders at the G7 Summit in France?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html",
+          "originalTitle": "Who Are the Leaders at the G7 Summit in France?",
+          "content": "On a roll or against a wall, Group of 7 leaders bring sharply different agendas. The leaders of some other nations are also attending to press their own interests.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At Least 5 Charged in Alleged Plot to Attack White House During U.F.C. Event",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/us/politics/white-house-ufc-attack-plot.html",
+          "originalTitle": "At Least 5 Charged in Alleged Plot to Attack White House During U.F.C. Event",
+          "content": "Charging documents outlined an ambitious plan involving explosive-laden drones and rifles, but left less clear that the conspirators had the means to carry it out.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Mike Collins, Republican Senate Candidate in Georgia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/16/us/politics/mike-collins-republican-senate-georgia.html",
+          "originalTitle": "5 Things to Know About Mike Collins, Republican Senate Candidate in Georgia",
+          "content": "An immigration hard-liner, Mr. Collins has President Trump’s endorsement in the runoff.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-17",
+  "generatedAtKst": "2026. 6. 17. AM 8:17",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
