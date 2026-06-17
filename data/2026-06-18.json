@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-18 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "ChatGPT can be made to generate sexualised and violent images, researchers find",
+          "content": "But researchers say its still possible to trick the AI chatbot into producing graphic content.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'We had to get out of the way': The backlash over delivery robots",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'We had to get out of the way': The backlash over delivery robots",
+          "content": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Interest rates expected to be held by Bank of England",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Interest rates expected to be held by Bank of England",
+          "content": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+          "content": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
+          "originalTitle": "Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit",
+          "content": "A U.S. official provided what was described as the text of the preliminary agreement, which outlined a $300 billion plan for Iran’s reconstruction and 60 days of talks on its nuclear program.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hot Mics Catch Trump, Carney and Other Leaders Off-Guard at G7",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html",
+          "originalTitle": "Hot Mics Catch Trump, Carney and Other Leaders Off-Guard at G7",
+          "content": "Snippets of conversations picked up on microphones at the annual Group of 7 summit in France offered a glimpse behind the scenes, as leaders chatted about issues great and small.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Georgia Republicans Shelve Redistricting Amid Mounting Protests",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/17/us/politics/georgia-republicans-redistricting.html",
+          "originalTitle": "Georgia Republicans Shelve Redistricting Amid Mounting Protests",
+          "content": "The leaders of the Georgia legislature pulled the plug on gerrymandering away U.S. House seats held by Black Democrats just hours before a special session was to begin.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "France Assembled an African Dream Team. Senegal Could Not Stop Them.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/17/world/africa/france-senegal-world-cup-africa.html",
+          "originalTitle": "France Assembled an African Dream Team. Senegal Could Not Stop Them.",
+          "content": "Many see the rivalry between France and Senegal as a result of colonial heritage. But at the same time, European teams are more African than ever.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Florida Appeals Court Strikes Down Ban on Concealed Carry for Young Adults",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/17/us/florida-concealed-carry-young-adults.html",
+          "originalTitle": "Florida Appeals Court Strikes Down Ban on Concealed Carry for Young Adults",
+          "content": "The state attorney general, James Uthmeier, had declined to defend the nearly 40-year-old ban on 18- to 20-year-olds carrying concealed weapons. He celebrated the ruling on Wednesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Does Trump’s Deal With Iran Compare to Obama’s?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-obama-iran-deals.html",
+          "originalTitle": "How Does Trump’s Deal With Iran Compare to Obama’s?",
+          "content": "The two agreements are difficult to compare, because the current memorandum of understanding is an interim arrangement meant to outline a negotiating path to a fuller deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-18",
+  "generatedAtKst": "2026. 6. 18. AM 8:16",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
