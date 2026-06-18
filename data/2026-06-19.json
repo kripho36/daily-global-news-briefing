@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "James Talarico Attacks Ken Paxton Over Child Abuse Case",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/us/talarico-paxton-child-sex-abuse-case.html",
+          "originalTitle": "James Talarico Attacks Ken Paxton Over Child Abuse Case",
+          "content": "The case, which resulted in a short jail sentence despite years of alleged abuse, has drawn outcry in Texas. So have the attempts to politicize it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
+          "originalTitle": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal",
+          "content": "The vice president delivered a rebuke to Israeli critics of the agreement, warning them not to alienate their most important ally, as the administration sought to rebut mounting criticism of the deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html",
+          "originalTitle": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+          "content": "The vice president said the United States had leverage to dictate the outcome of the next round of negotiations. But he claimed incorrectly that Iran got no new benefit from the lifting of oil sanctions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "During Trump’s Immigration Crackdown, Minnesota Protester Remained Shackled in Hospital for Days",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/us/minnesota-protester-isolation-trump-immigration-crackdown.html",
+          "originalTitle": "During Trump’s Immigration Crackdown, Minnesota Protester Remained Shackled in Hospital for Days",
+          "content": "The story of one progressive activist arrested in Minnesota in January shows what critics say is the aggressive nature of the Trump administration’s response to those who have protested its immigration crackdown.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The artificial ice pyramids saving India's mountain villages",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The artificial ice pyramids saving India's mountain villages",
+          "content": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'He hid the a la carte menu': Who should pay on the first date",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'He hid the a la carte menu': Who should pay on the first date",
+          "content": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Five ways the Iran peace deal could affect you and your money",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Five ways the Iran peace deal could affect you and your money",
+          "content": "With fuel and gas prices having fallen in recent days, we look at how the end of hostitlities might affect you - in five charts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+          "content": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html",
+          "originalTitle": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era",
+          "content": "Big tech companies and small start-ups are using social media to hype new tools that allow students to trick teachers and A.I. detectors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Report Tallies 39 Adults Who Could Have Helped Save Girls at Camp Mystic",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/us/texas-flooding-evacuation-camp-mystic.html",
+          "originalTitle": "Report Tallies 39 Adults Who Could Have Helped Save Girls at Camp Mystic",
+          "content": "The finding was part of a growing case against the camp’s leadership, which state investigators said did not organize an evacuation in time “despite ample opportunity.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-19",
+  "generatedAtKst": "2026. 6. 19. AM 8:28",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
