@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-20 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Critics of Russia Say This Critic Isn’t Critical Enough",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
+          "originalTitle": "Critics of Russia Say This Critic Isn’t Critical Enough",
+          "content": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
+          "originalTitle": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+          "content": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/us/james-bradley-dead.html",
+          "originalTitle": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
+          "content": "His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Shifts Stance in South Carolina After Losses in Governor’s Races",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/us/trump-shifts-endorsement-south-carolina-governor.html",
+          "originalTitle": "Trump Shifts Stance in South Carolina After Losses in Governor’s Races",
+          "content": "On Friday the president made the unusual move of endorsing both candidates in the Republican runoff for South Carolina governor, after initially supporting one of them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
+          "originalTitle": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
+          "content": "At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+          "content": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+          "originalTitle": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+          "content": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
+          "originalTitle": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
+          "content": "Shipping companies had hoped to get their vessels out after this week’s U.S.-Iran deal but faced uncertainty on Friday as violence flared again in the region.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "California Sheriff’s Deputy Is Charged in Fatal On-Duty Crash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/us/california-deputy-charged-manslaughter-crash.html",
+          "originalTitle": "California Sheriff’s Deputy Is Charged in Fatal On-Duty Crash",
+          "content": "The deputy was responding to a call, driving at about 100 miles per hour, when he struck a Tesla, killing its driver and severely injuring his fiancée, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Scots Have Invaded Boston’s Bars for the World Cup",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/19/us/boston-scotland-soccer-tartan-army.html",
+          "originalTitle": "Scots Have Invaded Boston’s Bars for the World Cup",
+          "content": "Thousands of Scottish soccer fans have been spotted across the city. The locals are charmed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-20",
+  "generatedAtKst": "2026. 6. 20. AM 7:44",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
