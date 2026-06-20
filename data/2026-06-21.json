@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-21 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+          "originalTitle": "Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension",
+          "content": "Vice President JD Vance said he would prioritize nuclear issues and renewed fighting in Lebanon in talks with an Iranian delegation in Switzerland. Shipping in the Strait of Hormuz faced new disruption after Iran’s military said it was closing the waterway.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html",
+          "originalTitle": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
+          "content": "For a quarter century, Ms. Khalil ran a guesthouse and worked to protect endangered sea turtles who every summer lay their eggs on a stretch of beach near Tyre, Lebanon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. and Iranian Officials to Meet for Peace Talks in Switzerland",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-peace-talks-switzerland.html",
+          "originalTitle": "U.S. and Iranian Officials to Meet for Peace Talks in Switzerland",
+          "content": "The next phase of talks to end the war in Iran is expected to begin on Sunday amid fighting in Lebanon and renewed confusion over the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+          "content": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+          "content": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Is Arrested in Scotland After Rampage Leaves 5 Hurt",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html",
+          "originalTitle": "Man Is Arrested in Scotland After Rampage Leaves 5 Hurt",
+          "content": "An advocacy group identified some of the victims as Muslims. Counterterrorism authorities are leading the investigation, but a motive for the attacks is so far unknown.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Huge Blaze Ravages Dominican Republic Beach Resort",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html",
+          "originalTitle": "Huge Blaze Ravages Dominican Republic Beach Resort",
+          "content": "The fire on Friday forced the emergency evacuation of nearly 1,700 guests. Authorities said at least one person, an Italian tourist, was killed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
+          "originalTitle": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+          "content": "Begoña Gómez faces charges of embezzlement, corruption, misappropriation of funds and influence peddling for helping favored companies win public contracts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/business/cottage-cheese-shortage.html",
+          "originalTitle": "Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’",
+          "content": "TikTok and “protein-maxxing” are driving a cottage cheese squeeze that’s left some consumers desperate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-21",
+  "generatedAtKst": "2026. 6. 21. AM 7:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
