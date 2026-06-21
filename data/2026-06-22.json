@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-22 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html",
+          "originalTitle": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
+          "content": "A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be a rebuke to the left and another win for the right in Latin America.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mideast Live Updates: Strains Emerge on First Day of U.S.-Iran Talks",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+          "originalTitle": "Mideast Live Updates: Strains Emerge on First Day of U.S.-Iran Talks",
+          "content": "Iranian negotiators insisted on an end to the war in Lebanon as a condition for further talks, state media reported. And President Trump renewed threats against Iran, even as Vice President JD Vance was hailing progress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
+          "originalTitle": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
+          "content": "Modest reactions in the oil and financial markets as Iran and the U.S. met in Switzerland for a first round of talks aimed at making a temporary cease-fire permanent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Man Trumpifying FIFA",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html",
+          "originalTitle": "The Man Trumpifying FIFA",
+          "content": "Gianni Infantino, the FIFA president, has unabashedly courted the U.S. president’s favor.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html",
+          "originalTitle": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
+          "content": "It was not clear whether the new directive would resolve the friction that led to deadly clashes on Friday and Saturday and threatened to derail a preliminary U.S.-Iran peace deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+          "originalTitle": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+          "content": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+          "content": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What We Know About the Los Angeles Warehouse Fire",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/20/us/what-we-know-about-the-los-angeles-warehouse-fire.html",
+          "originalTitle": "What We Know About the Los Angeles Warehouse Fire",
+          "content": "The fire began in a cold-storage facility in the Boyle Heights neighborhood and was still burning on Sunday. Gov. Gavin Newsom declared it an emergency, enabling state resources to be used to fight the fire.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html",
+          "originalTitle": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
+          "content": "No cases associated with the outbreak on the MV Hondius cruise ship have been confirmed in the U.S., health officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-22",
+  "generatedAtKst": "2026. 6. 22. AM 8:01",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
