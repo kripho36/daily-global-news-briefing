@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-23 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "content": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mideast Live Updates: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
+          "originalTitle": "Mideast Live Updates: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
+          "content": "Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors into the country, but the Iranian side said it had made “no new commitments.” Inspections had been limited since President Trump tore up an Obama-era deal in 2018.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+          "content": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Do you know your 'sweat score'? The rise of hydration tech",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Do you know your 'sweat score'? The rise of hydration tech",
+          "content": "Hydration tracking gadgets are flooding the market but is it too much information?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+          "originalTitle": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+          "content": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran Team Leaves Locker Room Note: The ‘Spirit of Iran Remains Alive and Steadfast’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/22/world/middleeast/iran-world-cup-locker-room-note.html",
+          "originalTitle": "Iran Team Leaves Locker Room Note: The ‘Spirit of Iran Remains Alive and Steadfast’",
+          "content": "After fighting Belgium to a draw for one of Iran’s best World Cup results, the Iranians had a note for their fans and the world.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html",
+          "originalTitle": "Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.",
+          "content": "Keir Starmer, the British prime minister, could be replaced through a full leadership contest. But if the top contender, Andy Burnham, is the only candidate, the process will be much faster.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ramiro Valdés Menéndez, Architect of Cuba’s Surveillance State, Dies at 94",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/22/world/americas/ramiro-valdes-menendez-dead.html",
+          "originalTitle": "Ramiro Valdés Menéndez, Architect of Cuba’s Surveillance State, Dies at 94",
+          "content": "Considered the country’s most powerful leader after the Castro brothers, he was the first director of the Interior Ministry, keeping a close eye on dissent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Suspect and a Civilian Are Among Three Killed in Montreal Shooting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html",
+          "originalTitle": "Suspect and a Civilian Are Among Three Killed in Montreal Shooting",
+          "content": "A police officer and a civilian also died in a gun battle that prompted a citywide shelter-in-place alert.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tesla crash that killed a woman under US federal investigation",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tesla crash that killed a woman under US federal investigation",
+          "content": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-23",
+  "generatedAtKst": "2026. 6. 23. AM 8:12",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
