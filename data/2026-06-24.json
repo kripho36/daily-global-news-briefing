@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-24 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "When to Expect Results in Maryland, New York, South Carolina and Utah",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/us/elections/when-to-expect-election-results-maryland-ny-south-carolina-utah.html",
+          "originalTitle": "When to Expect Results in Maryland, New York, South Carolina and Utah",
+          "content": "Voters have been casting ballots in several primaries and runoff elections. Unofficial results will probably be known late Tuesday or early Wednesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+          "content": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Google's YouTube settles social media addiction case with teen",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Google's YouTube settles social media addiction case with teen",
+          "content": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meta Has Created a Prediction Markets App",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+          "originalTitle": "Meta Has Created a Prediction Markets App",
+          "content": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ferraris and Shell Companies: Justice Dept. Unveils Medicare Fraud Charges",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html",
+          "originalTitle": "Ferraris and Shell Companies: Justice Dept. Unveils Medicare Fraud Charges",
+          "content": "The department is taking aim at pricey “skin substitutes,” an overused wound care treatment that cost the government nearly $15 billion in 2025.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Eases Travel Restrictions on Iran’s World Cup Team",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/us/iran-world-cup-travel-restrictions.html",
+          "originalTitle": "U.S. Eases Travel Restrictions on Iran’s World Cup Team",
+          "content": "The Iranians will be allowed to enter the United States two days, instead of one, before a pivotal game in Seattle on Friday, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+          "originalTitle": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+          "content": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says Vandals Sabotaged the Reflecting Pool. Internal Documents Raise Doubts.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html",
+          "originalTitle": "Trump Says Vandals Sabotaged the Reflecting Pool. Internal Documents Raise Doubts.",
+          "content": "The documents do not indicate that the peeling blue coating and algae blooms were caused intentionally.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "E-commerce giant Alibaba sues US government over defence blacklist",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "E-commerce giant Alibaba sues US government over defence blacklist",
+          "content": "The e-commerce giant is suing the US defence department after it was added to a blacklist of firms with ties to the Chinese military.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Is Making Big Claims About the Iran Talks. Iran Keeps Contradicting Him.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html",
+          "originalTitle": "Trump Is Making Big Claims About the Iran Talks. Iran Keeps Contradicting Him.",
+          "content": "President Trump appears to be describing his preferences as fully negotiated deals, in hopes of locking the Iranians in. The question is whether a succession of such disputes will sink the whole venture.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-24",
+  "generatedAtKst": "2026. 6. 24. AM 8:00",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
