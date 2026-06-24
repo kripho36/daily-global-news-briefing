@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "From ‘Terrible People’ to ‘Smart People’: The Trump-Led Right Rethinks Iran",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html",
+          "originalTitle": "From ‘Terrible People’ to ‘Smart People’: The Trump-Led Right Rethinks Iran",
+          "content": "The president has sought to recast the Iranian government as he pursues a peace deal. But there are signs that a softening on Iran in the Republican Party goes well beyond him.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Federal Appeals Panel Rejects Trump’s Effort to Gather Voting Data From States",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html",
+          "originalTitle": "Federal Appeals Panel Rejects Trump’s Effort to Gather Voting Data From States",
+          "content": "The ruling of a three-judge appeals panel in Michigan was the most significant rebuke yet to the Department of Justice’s effort to find ineligible voters in state voter rolls.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Support Builds on the Right for Prosecuting Women Who Get Abortions",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/abortion-prosecution-women.html",
+          "originalTitle": "Support Builds on the Right for Prosecuting Women Who Get Abortions",
+          "content": "Sentiment is shifting amid frustration in the antiabortion movement that more abortions are happening now than when Roe v. Wade fell.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gay Marriage Is Dividing Republicans, Again",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/gay-marriage-backlash-republicans-trans-rights.html",
+          "originalTitle": "Gay Marriage Is Dividing Republicans, Again",
+          "content": "A look at the backlash to same-sex marriage — its strength, seriousness and the reasons behind it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Utah Senate President Loses Republican Primary After Data Center Backlash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/j-stuart-adams-utah-senate-data-center.html",
+          "originalTitle": "Utah Senate President Loses Republican Primary After Data Center Backlash",
+          "content": "The upset of J. Stuart Adams represented one of the strongest examples of how the data center issue has affected elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Refuses to Sign Housing Bill Until Divisive ‘SAVE’ Voting Act Passes Congress",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-housing-bill-voting-restrictions.html",
+          "originalTitle": "Trump Refuses to Sign Housing Bill Until Divisive ‘SAVE’ Voting Act Passes Congress",
+          "content": "The president’s announcement declared the bill to be “of minor importance” at the same time that House Republican leaders were heralding it as a major accomplishment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Stokes Chaos in Congress as He Huddles With the G.O.P.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html",
+          "originalTitle": "Trump Stokes Chaos in Congress as He Huddles With the G.O.P.",
+          "content": "Hours before visiting the Capitol, the president scrapped plans to sign a major housing bill, condemning “bad Republicans” for resisting his demands to ram through new voting restrictions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
+          "originalTitle": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+          "content": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "content": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Clashes With Senate Republicans Over Iran in Heated Closed-Door Meeting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html",
+          "originalTitle": "Trump Clashes With Senate Republicans Over Iran in Heated Closed-Door Meeting",
+          "content": "The president had a lengthy and angry exchange with Senator Bill Cassidy of Louisiana and lit into other Republicans who voted to check his war powers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-25",
+  "generatedAtKst": "2026. 6. 25. AM 7:59",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
