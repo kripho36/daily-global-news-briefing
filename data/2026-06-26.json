@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-26 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "The abundant but expensive energy source that's under your feet",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The abundant but expensive energy source that's under your feet",
+          "content": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Yes, there have been rows but here's how I've made moving back home work",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Yes, there have been rows but here's how I've made moving back home work",
+          "content": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
+          "originalTitle": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
+          "content": "President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Obama Says He Occupies a ‘Suite’ in Trump’s Head",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/us/politics/obama-trump-podcast-interview.html",
+          "originalTitle": "Obama Says He Occupies a ‘Suite’ in Trump’s Head",
+          "content": "Former President Barack Obama says President Trump has an obsession with him and that Mr. Trump “knows better” than to say “crazy stuff” to his face.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Venezuela Live Updates: Search for Survivors Grows More Urgent 24 Hours After Quakes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+          "originalTitle": "Venezuela Live Updates: Search for Survivors Grows More Urgent 24 Hours After Quakes",
+          "content": "Back-to-back earthquakes left at least 188 dead and injured more than 1,500 people, the authorities said. Residents of the port city of La Guaira estimated that hundreds of people were trapped in rubble. The toll was expected to rise.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Venezuela Earthquakes, La Guaira Residents Search for Loved Ones in the Rubble",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/world/americas/la-guaira-venezuela-earthquakes-rescue-survivors.html",
+          "originalTitle": "After Venezuela Earthquakes, La Guaira Residents Search for Loved Ones in the Rubble",
+          "content": "A missing child. A boyfriend in the rubble. Venezuelans on Thursday were still trying to understand the scope of the devastation in this hard-hit city.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
+          "originalTitle": "Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn",
+          "content": "Most of the people testing positive for Ebola in the Democratic Republic of Congo are not on health workers’ radar, suggesting that contact tracing is lagging dangerously behind.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Long Can a Person Survive Under Rubble?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/world/americas/earthquake-rubble-survival-venezuela-rescue.html",
+          "originalTitle": "How Long Can a Person Survive Under Rubble?",
+          "content": "It depends on water, air and how quickly rescuers are able to find people.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Military Leaders Sought Flu Vaccination Program Weeks Before Outbreak Hit Base",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/us/politics/military-flu-vaccine-policy.html",
+          "originalTitle": "Military Leaders Sought Flu Vaccination Program Weeks Before Outbreak Hit Base",
+          "content": "Officials anticipated a problem soon after Defense Secretary Pete Hegseth lifted the vaccine requirement in April.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "John Stockwell, Who Wrote a Tell-All Book About the C.I.A., Dies at 88",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/25/us/john-stockwell-dead.html",
+          "originalTitle": "John Stockwell, Who Wrote a Tell-All Book About the C.I.A., Dies at 88",
+          "content": "A former covert operative, he published his resignation letter in The Washington Post and went on to write “In Search of Enemies,” a book the agency sought to suppress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-26",
+  "generatedAtKst": "2026. 6. 26. AM 8:08",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
