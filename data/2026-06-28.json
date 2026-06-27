@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "At Least 4 Dead in Kentucky Flooding, Governor Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html",
+          "originalTitle": "At Least 4 Dead in Kentucky Flooding, Governor Says",
+          "content": "Gov. Andy Beshear of Kentucky said emergency crews were rescuing people from flooded homes and vehicles on Saturday. Rain was expected to continue into the night.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+          "originalTitle": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
+          "content": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, after Bahrain said it had been targeted by Iranian drones and a ship came under attack in the Strait of Hormuz for the second time in recent days.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Michigan Couple Are Charged With Murder After Death of Morbidly Obese Son",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/27/us/michgan-parents-charged-murder-obesity.html",
+          "originalTitle": "Michigan Couple Are Charged With Murder After Death of Morbidly Obese Son",
+          "content": "Seven-year-old Casper O’Brien weighed 255 pounds when he died last year. Prosecutors said he was bedridden and subsisted on little more than snack foods.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html",
+          "originalTitle": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
+          "content": "As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+          "originalTitle": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
+          "content": "International teams were joining search efforts on Saturday after twin earthquakes devastated northern Venezuela, leaving many people trapped under rubble.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html",
+          "originalTitle": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
+          "content": "The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+          "content": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+          "content": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-28",
+  "generatedAtKst": "2026. 6. 28. AM 7:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
