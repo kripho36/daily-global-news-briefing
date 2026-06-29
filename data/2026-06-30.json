@@ -1,0 +1,107 @@
+{
+  "title": "2026-06-30 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Another Trump Administration Payment to Stop Offshore Wind Farm",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html",
+          "originalTitle": "Another Trump Administration Payment to Stop Offshore Wind Farm",
+          "content": "It was the fourth such deal struck by the administration to get companies to forfeit their offshore wind leases.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kean Set to Speak at the Capitol After Mysterious Absence",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html",
+          "originalTitle": "Kean Set to Speak at the Capitol After Mysterious Absence",
+          "content": "After months of silence, Representative Tom Kean Jr. was expected to deliver a speech explaining his 116-day absence from Congress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Clash Unfolds as Trump Administration Pushes Intelligence Agencies to Share Foreign Espionage Targets",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html",
+          "originalTitle": "Clash Unfolds as Trump Administration Pushes Intelligence Agencies to Share Foreign Espionage Targets",
+          "content": "The clash reflects increasing skepticism of the Office of the Director of National Intelligence, which has been willing to pursue President Trump’s priorities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inmates Take Guards Hostage in Hourslong Standoff at North Carolina Jail",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/north-carolina-jail-standoff.html",
+          "originalTitle": "Inmates Take Guards Hostage in Hourslong Standoff at North Carolina Jail",
+          "content": "It is not yet clear what ignited the takeover, but the county sheriff said it started when at least one inmate got access to keys used to unlock cell doors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
+          "originalTitle": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
+          "content": "A pilot in the Afghan Air Force, he was recruited for the Soviet space program. His 1988 flight took place as the Soviets were fighting a war in his country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html",
+          "originalTitle": "Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny",
+          "content": "The Arizona senator used campaign money to fly his family to Nantucket and the Caribbean. The Justice Department has said it is investigating his campaign finance activity.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html",
+          "originalTitle": "Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’",
+          "content": "Time and again, President Trump has brushed off Americans’ concerns about the economy and their financial situations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+          "originalTitle": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+          "content": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Watch in Colorado Primary Elections: Will Left-Wing Energy Keep Rising?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html",
+          "originalTitle": "What to Watch in Colorado Primary Elections: Will Left-Wing Energy Keep Rising?",
+          "content": "Primaries on Tuesday will be the latest test of Democrats’ anti-establishment mood.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html",
+          "originalTitle": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+          "content": "The death toll has risen to over 1,700, which is likely an undercount.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-30",
+  "generatedAtKst": "2026. 6. 30. AM 7:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
