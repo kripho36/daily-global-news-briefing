@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-01 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Plea for households to read energy meter as prices rise",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Plea for households to read energy meter as prices rise",
+          "content": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html",
+          "originalTitle": "G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda",
+          "content": "A Republican blockade derailed a Pentagon policy bill and other legislation as the far right pressed for action on a voting bill championed by President Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
+          "originalTitle": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
+          "content": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
+          "originalTitle": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
+          "content": "A bid by María Corina Machado, the Nobel Peace Prize winner, to return to earthquake-battered Venezuela has angered U.S. officials focused on recovery and stability.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html",
+          "originalTitle": "Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race",
+          "content": "After a salacious report about Ken Paxton, the Republican nominee for Senate in Texas, his Democratic rival, James Talarico, seized on the news — but focused on corruption and affordability.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "content": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "China’s Plan to Save Jobs From A.I.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html",
+          "originalTitle": "China’s Plan to Save Jobs From A.I.",
+          "content": "As it embeds the technology in every industry, China is thinking about how to keep humans employed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "NPR Retracts Article That Mistakenly Said Justice Alito Would Retire",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html",
+          "originalTitle": "NPR Retracts Article That Mistakenly Said Justice Alito Would Retire",
+          "content": "The news outlet quickly removed the article, which was written by NPR’s seasoned Supreme Court reporter, Nina Totenberg, from its website.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Beaver Statue Honoring the United States Is Smashed in Toronto",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/world/canada/world-cup-toronto-beaver-destroyed.html",
+          "originalTitle": "Beaver Statue Honoring the United States Is Smashed in Toronto",
+          "content": "One of dozens of statues of Canada’s national animal, part of a public art installation for the World Cup, was destroyed. It was the one wearing stars and stripes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "C.I.A. Reorganization Prioritizes Cyberoperations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html",
+          "originalTitle": "C.I.A. Reorganization Prioritizes Cyberoperations",
+          "content": "John Ratcliffe, the C.I.A. director, said that the agency would take “smart risks,” but that people would have oversight of artificial intelligence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-01",
+  "generatedAtKst": "2026. 7. 1. AM 8:03",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
