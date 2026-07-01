@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-02 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+          "content": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "World Cup Success Is Giving Americans ‘Permission to Be Patriotic’",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/us/world-cup-american-pride.html",
+          "originalTitle": "World Cup Success Is Giving Americans ‘Permission to Be Patriotic’",
+          "content": "Heading into the World Cup, many Americans had mixed feelings about the tournament and their nation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Colorado Governor Fires Officials Who Opposed Freeing Tina Peters",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/us/jared-polis-tina-peters-clemency-board-fired.html",
+          "originalTitle": "Colorado Governor Fires Officials Who Opposed Freeing Tina Peters",
+          "content": "Gov. Jared Polis commuted the sentence of Tina Peters, who tampered with voting machines in an attempt to show that the 2020 election had been rigged against President Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'We had to use a food bank after university’",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/crel0y74dr9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'We had to use a food bank after university’",
+          "content": "Steven Crichton and his partner Kat skipped meals to make sure their children \"had full lunch boxes\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "content": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Blocks Postal Service From Imposing Restrictions on Mail-In Ballots",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/us/politics/judge-trump-postal-service.html",
+          "originalTitle": "Judge Blocks Postal Service From Imposing Restrictions on Mail-In Ballots",
+          "content": "The ruling, based on agreements the service made in a 2021 legal settlement, was the second time a judge has blocked new curbs by President Trump on voting by mail.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "¿Y Si Sí? The World Cup Delivers Hope to Mexico",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
+          "originalTitle": "¿Y Si Sí? The World Cup Delivers Hope to Mexico",
+          "content": "Mexico’s World Cup run has electrified the nation, drawing hundreds of thousands into the streets in celebrations of collective joy, resilience and hope.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html",
+          "originalTitle": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
+          "content": "The traditionalist Society of St. Pius X went ahead with the ceremony, even after the Vatican warned it would result in the bishops’ excommunication.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "America Rings In 250th Birthday Amid Deep Polarization and Political Rifts",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/us/politics/usa-america-250-trump.html",
+          "originalTitle": "America Rings In 250th Birthday Amid Deep Polarization and Political Rifts",
+          "content": "How does a deeply polarized country come together to have a birthday party?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "4 People Die During World Cup Celebrations in Mexico City",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+          "originalTitle": "4 People Die During World Cup Celebrations in Mexico City",
+          "content": "A man and two women died from asphyxiation, the authorities said, as crowds celebrated the Mexican team’s victory over Ecuador. Another man died after having epileptic seizures.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-02",
+  "generatedAtKst": "2026. 7. 2. AM 8:03",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
