@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-03 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "F.B.I. Assigns Scores of Analysts to Examine Election Records in Georgia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+          "originalTitle": "F.B.I. Assigns Scores of Analysts to Examine Election Records in Georgia",
+          "content": "The expansion of an investigation into Fulton County’s election office reflects President Trump’s desire to prove his baseless claims that the 2020 election in Georgia was rigged.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
+          "originalTitle": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+          "content": "The 44-year-old security guard was pulled alive from a pancaked basement, offering a fleeting moment of hope amid a soaring death toll.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html",
+          "originalTitle": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says",
+          "content": "The rodent-borne virus, which sickened passengers on the MV Hondius, killed three people, led to a race to find its origin and a global health alert.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Louisiana Attorney General Charged With Bullying New Orleans Officials",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/louisiana-attorney-general-indicted-new-orleans.html",
+          "originalTitle": "Louisiana Attorney General Charged With Bullying New Orleans Officials",
+          "content": "Liz Murrill, a Republican, was indicted on charges of malfeasance and intimidation after sending warning letters to the city’s Democratic leaders over actions they took.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UPS Did Not Tell Inspectors to Check Failed Part in Louisville Crash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/politics/ups-louisville-crash.html",
+          "originalTitle": "UPS Did Not Tell Inspectors to Check Failed Part in Louisville Crash",
+          "content": "Inspectors were not instructed to check a bearing that they had been told was faulty, but the shipping company says Boeing, the plane’s manufacturer, is to blame.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Texas Governor Appoints Former Hard Right Critic to Key Post",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/don-huffines-texas-comptroller.html",
+          "originalTitle": "Texas Governor Appoints Former Hard Right Critic to Key Post",
+          "content": "Gov. Greg Abbott appointed a firebrand former opponent, Don Huffines, to be state comptroller, underscoring a G.O.P. push for unity ahead of the midterms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+          "originalTitle": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
+          "content": "At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+          "originalTitle": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+          "content": "The latest deadly night in Ukraine, more than four years after Russia’s full-scale invasion, showed how the toll for civilians continues to mount.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jury Deadlocks on Felony Count for Golden Gate Bridge Protesters",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/golden-gate-bridge-protests-verdict.html",
+          "originalTitle": "Jury Deadlocks on Felony Count for Golden Gate Bridge Protesters",
+          "content": "Seven activists shut down the bridge in 2024 to protest American-backed military attacks in Gaza. They avoided a conviction on the most serious charge but were found guilty of misdemeanors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Less Than 10 Percent of Eligible Children Have Trump Accounts",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html",
+          "originalTitle": "Less Than 10 Percent of Eligible Children Have Trump Accounts",
+          "content": "More than six million have been signed up for the investment accounts, which open for contributions July 4, but there are barriers to uptake.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-03",
+  "generatedAtKst": "2026. 7. 3. AM 7:57",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
