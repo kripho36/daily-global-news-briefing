@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Celebrating America’s 250th Anniversary Across the Country",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html",
+          "originalTitle": "Celebrating America’s 250th Anniversary Across the Country",
+          "content": "Even as an oppressive heat wave stifled much of the United States, the nationwide party continued.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Once the Centerpiece of Celebration, a Faded Declaration Recedes",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/politics/once-the-centerpiece-of-celebration-a-faded-declaration-recedes.html",
+          "originalTitle": "Once the Centerpiece of Celebration, a Faded Declaration Recedes",
+          "content": "Sunlight and abuse have taken a toll on the document, encased in bulletproof glass. But the Trump administration “hasn’t put much emphasis on it,” a former archivist notes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "America Unites for a Day of Grand 250th Celebrations",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/america-250-fourth-july.html",
+          "originalTitle": "America Unites for a Day of Grand 250th Celebrations",
+          "content": "From large events in the biggest cities to small-town gatherings to backyard barbecues, a divided America is finding many ways to salute itself.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Targets Not Just Georgia’s Vote, but Also Trust in Elections",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html",
+          "originalTitle": "Trump Targets Not Just Georgia’s Vote, but Also Trust in Elections",
+          "content": "The president has sent 260 F.B.I. analysts to Georgia, repeating his baseless claims of fraud in 2020. But critics say the intention is to undermine overall confidence in the electoral process.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UPS Did Not Tell Inspectors to Check Failed Part in Louisville Crash",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/02/us/politics/ups-louisville-crash.html",
+          "originalTitle": "UPS Did Not Tell Inspectors to Check Failed Part in Louisville Crash",
+          "content": "Inspectors were not instructed to check a bearing that Boeing, the plane’s manufacturer, had identified as faulty, but the shipping company says Boeing never required the enhanced checks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+          "content": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Security staff strikes averted at Aberdeen Airport",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Security staff strikes averted at Aberdeen Airport",
+          "content": "The strikes, involving baggage screening staff, were due begin on Monday with the Unite union warning of \"significant delays\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Enraptured by the World Cup, Countries Rewrite Rules for Fans",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/world/world-cup-countries-fans-holidays.html",
+          "originalTitle": "Enraptured by the World Cup, Countries Rewrite Rules for Fans",
+          "content": "From pubs open until dawn to abruptly declared national holidays, it seems regulations everywhere are bending to accommodate the tournament.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pilot Was Bitten by Bat After Swarm Invaded Hotel Room, Lawsuit Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/bats-rabies-marriott-lawsuit.html",
+          "originalTitle": "Pilot Was Bitten by Bat After Swarm Invaded Hotel Room, Lawsuit Says",
+          "content": "A pilot, who was treated for possible rabies exposure, sued Marriott International, claiming his Denver hotel failed to offer him a new room after he woke up to a swarm of bats last year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump to Speak at Mount Rushmore at 250th Anniversary Event",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/03/us/trump-mount-rushmore-america-250.html",
+          "originalTitle": "Trump to Speak at Mount Rushmore at 250th Anniversary Event",
+          "content": "It’s not the first time the president has made a big speech at the monument.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-04",
+  "generatedAtKst": "2026. 7. 4. AM 7:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
