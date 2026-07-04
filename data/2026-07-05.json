@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-05 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Clash With Trump, as Political Tensions Rise on America’s 250th",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html",
+          "originalTitle": "Democrats Clash With Trump, as Political Tensions Rise on America’s 250th",
+          "content": "Gavin Newsom and Wes Moore, potential 2028 contenders, cast President Trump’s record as a betrayal of American ideals, while the president disparaged their party as extreme.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For new citizens, it’s about having their voices heard. And about pizza.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/naturalization-ceremony-monticello",
+          "originalTitle": "For new citizens, it’s about having their voices heard. And about pizza.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White Nationalists March in Washington Amid 250th Anniversary Celebrations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html",
+          "originalTitle": "White Nationalists March in Washington Amid 250th Anniversary Celebrations",
+          "content": "The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Denmark’s century-old Fourth of July party looks different this year.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
+          "originalTitle": "Denmark’s century-old Fourth of July party looks different this year.",
+          "content": "Overshadowed by President Trump’s threats to seize Greenland, a Danish territory, the event removed U.S. officials from the program and saw protests arrive.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada Has a New Obsession: Soccer",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
+          "originalTitle": "Canada Has a New Obsession: Soccer",
+          "content": "A surprising World Cup run ended on Saturday against Morocco, but the Canadian successes, as a team and a host, are likely to endure.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+          "originalTitle": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+          "content": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+          "originalTitle": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+          "content": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "TV coverage of the Fourth of July will emphasize holiday festivities, not Trump’s speech",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/tv-coverage-of-the-fourth-of-july-will-emphasize-holiday-festivities-not-trumps-speech",
+          "originalTitle": "TV coverage of the Fourth of July will emphasize holiday festivities, not Trump’s speech",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Prince Harry Will Travel to London, but Without His Family",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+          "originalTitle": "Prince Harry Will Travel to London, but Without His Family",
+          "content": "The prince’s wife, Meghan, and their children could still join him for other parts of his trip outside the capital, a person close to the family said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-05",
+  "generatedAtKst": "2026. 7. 5. AM 7:48",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
