@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-06 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Israel’s Government Threatens to Ignore a Top Court Ruling",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/world/middleeast/israel-court-netanyahu-clash.html",
+          "originalTitle": "Israel’s Government Threatens to Ignore a Top Court Ruling",
+          "content": "A resolution by the country’s cabinet escalated a long-running conflict between Prime Minister Benjamin Netanyahu and the country’s judiciary. A senior government official later walked that back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+          "originalTitle": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
+          "content": "The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "8 Wounded in Coney Island Shooting on Fourth of July",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html",
+          "originalTitle": "8 Wounded in Coney Island Shooting on Fourth of July",
+          "content": "The victims included two young boys and a woman who remained in critical condition, the police said. In a separate incident, a detective was shot but was protected by his bulletproof vest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "content": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Shootings in Nine States Mar Fourth of July Celebrations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/us/shootings-fourth-of-july-weekend.html",
+          "originalTitle": "Shootings in Nine States Mar Fourth of July Celebrations",
+          "content": "Shootings occurred across the country, including in New York, Florida, Texas, Illinois and Tennessee. More than 50 people were shot, and at least five people have died.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Can Iran Keep Its Edge?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/world/iran-strait-hormuz-ali-khamenei.html",
+          "originalTitle": "Can Iran Keep Its Edge?",
+          "content": "Closing the Strait of Hormuz was a huge source of leverage during the war. But playing the same card over and over is risky.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Rolls Back Dozens of Gun Regulations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+          "originalTitle": "Trump Administration Rolls Back Dozens of Gun Regulations",
+          "content": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What We Saw at Ayatollah Khamenei’s Funeral",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html",
+          "originalTitle": "What We Saw at Ayatollah Khamenei’s Funeral",
+          "content": "Our Middle East correspondent Abdi Latif Dahir attended the first day of funeral ceremonies for Ayatollah Ali Khamenei, the former supreme leader of Iran who was killed by U.S. and Israeli air strikes in February.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump thanks Fifa for spending USA striker's ban",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump thanks Fifa for spending USA striker's ban",
+          "content": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+          "originalTitle": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+          "content": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, who was killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in Iran’s recent history.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-06",
+  "generatedAtKst": "2026. 7. 6. AM 7:53",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
