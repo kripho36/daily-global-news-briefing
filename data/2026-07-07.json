@@ -1,0 +1,76 @@
+{
+  "title": "2026년 7월 7일 국제 정세 브리핑",
+  "overallSummary": "오늘 미국 대통령 트럼프가 터키에 F-35 전투기를 재개통할 준비가 되어 있다는 발표와 러시아가 키이프를 타격한 사건이 동시다발적으로 발생해 국제 안보에 큰 파장을 일으켰다. 동시에 NATO가 터키의 전략적 중요성을 재확인하고, 아시아와 유럽에서는 해양 안전·해군력 강화, 자연재해 대응, 중동 유가 변동 등 지역별 이슈가 주목받았다.",
+  "sections": [
+    {
+      "heading": "미국 정치",
+      "items": [
+        {
+          "title": "트럼프, 터키에 F-35 전투기 재개통 선언",
+          "originalTitle": "Trump Expected to Tell Turkey He Is Ready to Restore Access to F-35 Jets",
+          "content": "트럼프 대통령이 터키와의 NATO 정상회의를 앞두고 F-35 전투기 재개통 의사를 표명했다. 이 조치는 터키가 러시아가 첨단 무기 기술을 습득할 우려를 줄이려는 미국의 입장을 반영하며, 터키의 방위 역량을 강화한다.",
+          "impact": "정치·안보",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/us/politics/trump-turkey-f35.html"
+        },
+        {
+          "title": "트럼프, Walmart 가격 인하를 자신의 성과로 주장",
+          "originalTitle": "Trump Tries to Take Credit for Walmart Price Cuts of Beef and Other Products",
+          "content": "트럼프가 Walmart의 육류 및 기타 상품 가격 인하를 자신의 경제정책 성과로 과시했다. 이는 정치적 이미지 제고를 위한 시도로 해석된다.",
+          "impact": "정치·경제",
+          "importance": 2,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/us/politics/walmart-price-cuts-beef-trump.html"
+        },
+        {
+          "title": "NATO가 터키의 필요성 재확인",
+          "originalTitle": "NATO Needs Turkey",
+          "content": "러시아와의 전쟁, 트럼프의 동맹 무시 등으로 인해 NATO는 터키의 전략적 가치를 재평가한다. 이는 터키가 동맹에서 차지하는 핵심 역할을 강조한다.",
+          "impact": "정치·안보",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html"
+        }
+      ]
+    },
+    {
+      "heading": "유럽·중동",
+      "items": [
+        {
+          "title": "러시아, 키이프에 탄도 미사일 공격",
+          "originalTitle": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+          "content": "러시아가 NATO 정상회담 전날 밤 키이프에 다수의 탄도 미사일을 발사했다. 이 공격은 전쟁이 격화되는 가운데 NATO의 통합과 우크라이나의 방어 능력에 직결된다.",
+          "impact": "안보·정치",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
+        },
+        {
+          "title": "캐나다, NATO 파트너와 잠수함 구축 협력",
+          "originalTitle": "Canada Bets on NATO Partners for Its Expanded Submarine Fleet",
+          "content": "캐나다는 독일·노르웨이와의 공동 입찰을 통해 잠수함 함대를 강화해 미국 의존도를 줄이고자 한다. 이는 북미 안보 협력의 변화를 시사한다.",
+          "impact": "안보·경제",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html"
+        },
+        {
+          "title": "중동 유가 흐름 완화, 석유 가격 하락",
+          "originalTitle": "Ships Are Moving In and Out of the Persian Gulf, Easing Oil Prices",
+          "content": "페르시아만에서 선박 흐름이 증가하고 OPEC Plus가 유량을 늘리면서 에너지 시장에 하방 압력이 가해졌다.",
+          "impact": "경제·에너지",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html"
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-07",
+  "generatedAtKst": "2026. 7. 7. AM 7:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
