@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-08 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+          "content": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Officer Kills a Mexican Man in Houston",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html",
+          "originalTitle": "ICE Officer Kills a Mexican Man in Houston",
+          "content": "The agency said the man was an “illegal alien” who had tried to run over the agent, though no evidence was immediately offered.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Quashes Justice Dept. Subpoena in 2020 Election Inquiry",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/us/politics/2020-election-inquiry-trump-georgia.html",
+          "originalTitle": "Judge Quashes Justice Dept. Subpoena in 2020 Election Inquiry",
+          "content": "The ruling cast serious doubts on the department’s efforts to reinvestigate the race, finding that it was too late to bring criminal charges in the case.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Maryland Moves Toward Redistricting Ahead of 2028",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/us/politics/maryland-redistricting.html",
+          "originalTitle": "Maryland Moves Toward Redistricting Ahead of 2028",
+          "content": "Lawmakers at a special legislative session next month will try to pass an amendment to the state constitution that should ensure new congressional maps survive a legal challenge.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Loss to Belgium Is Gut Punch, but Bright Future Remains for Soccer Here",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/06/us/world-cup-usmnt-soccer.html",
+          "originalTitle": "U.S. Loss to Belgium Is Gut Punch, but Bright Future Remains for Soccer Here",
+          "content": "While the team failed to meet the hopes of many fans, this World Cup highlighted the game’s decades-long climb into the national consciousness. What comes next?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Platner Supporters Struggle to Come to Terms With Campaign’s Death Knell",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html",
+          "originalTitle": "Platner Supporters Struggle to Come to Terms With Campaign’s Death Knell",
+          "content": "Many voters said they expected Graham Platner, the state’s Democratic nominee for Senate, to exit the race after a former girlfriend publicly accused him of sexual assault.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/07/us/charlie-kirk-shooting-hearing/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+          "originalTitle": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
+          "content": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Zimbabwe’s President Signs Law Extending His Term",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
+          "originalTitle": "Zimbabwe’s President Signs Law Extending His Term",
+          "content": "The measure will allow the president, Emmerson Mnangagwa, to stay in office until 2030. Critics say the move tightens his autocratic grip on power and erodes the nation’s democracy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Utah Moves to Close Teen Treatment Center Accused of Abusing Girls",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/07/us/utah-boarding-school-abuse-paris-hilton.html",
+          "originalTitle": "Utah Moves to Close Teen Treatment Center Accused of Abusing Girls",
+          "content": "Paris Hilton helped lead a campaign to shut down the Provo Canyon School, where she said she was beaten and spat on when she was 17.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-08",
+  "generatedAtKst": "2026. 7. 8. AM 7:52",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
