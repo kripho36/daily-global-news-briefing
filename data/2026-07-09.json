@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+          "originalTitle": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+          "content": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
+          "originalTitle": "As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine",
+          "content": "Fearful that officials would tear down damaged buildings without accounting for any remaining bodies, Venezuelans are desperately digging for their relatives’ remains.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran Truce ‘Over,’ Trump Says, as He Threatens More Strikes",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html",
+          "originalTitle": "Iran Truce ‘Over,’ Trump Says, as He Threatens More Strikes",
+          "content": "As both sides accused each other of violating a cease-fire signed three weeks ago, the temporary agreement appeared on the verge of collapse.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "When Might Graham Platner Drop Out? Here’s the State of Play.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/platner-democrats-maine-state-of-play.html",
+          "originalTitle": "When Might Graham Platner Drop Out? Here’s the State of Play.",
+          "content": "Here’s what we know about the uproar in the Democratic Party’s bid to unseat Senator Susan Collins.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Three More People Charged With Damaging Reflecting Pool",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/us/reflecting-pool-damage-misdemeanor-charges.html",
+          "originalTitle": "Three More People Charged With Damaging Reflecting Pool",
+          "content": "The three individuals face misdemeanor charges of causing damage worth less than $1,000. Experts have said that the problems could have been caused by the pool’s makeover.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+          "originalTitle": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+          "content": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Insulting Allies at NATO Summit, Trump Says They Love Him",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html",
+          "originalTitle": "After Insulting Allies at NATO Summit, Trump Says They Love Him",
+          "content": "The meeting in Turkey featured President Trump at his most mercurial, veering from scorn to praise for European countries, including some whose patience with mollifying him has worn thin.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/business/william-zabel-dead.html",
+          "originalTitle": "William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89",
+          "content": "He brokered celebrity divorces and recovered billions for victims of Bernie Madoff’s Ponzi scheme. But he was proudest of helping to legalize interracial marriage.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Hannah C. Dugan Faces Fine But No Prison Time",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/us/hannah-dugan-judge-sentencing-milwaukee.html",
+          "originalTitle": "Judge Hannah C. Dugan Faces Fine But No Prison Time",
+          "content": "The former Wisconsin judge, Hannah C. Dugan, was accused of ushering an undocumented immigrant out a side door as federal agents waited for him near her Milwaukee courtroom.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-09",
+  "generatedAtKst": "2026. 7. 9. AM 7:56",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
