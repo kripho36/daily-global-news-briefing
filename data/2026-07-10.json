@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "US and Iran trade attacks as Khamenei is buried",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US and Iran trade attacks as Khamenei is buried",
+          "content": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pressure builds on Europe's biggest port to be greener",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Pressure builds on Europe's biggest port to be greener",
+          "content": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "We saved £6,000 on holidays by swapping homes with strangers",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "We saved £6,000 on holidays by swapping homes with strangers",
+          "content": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+          "originalTitle": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+          "content": "Attacks on ships were followed by new U.S. strikes on Iran, which responded by firing at Gulf nations. The pattern of hostilities has all but collapsed a cease-fire, with little sign that either side will step back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+          "originalTitle": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+          "content": "The Israeli military said it had struck a Hamas militant but was aware of reports that “uninvolved civilians” were harmed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How an app in South Korea will let victims track their stalkers",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How an app in South Korea will let victims track their stalkers",
+          "content": "Officials say the app will help stalking victims, but some experts question the impact it might have.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+          "originalTitle": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
+          "content": "Thousands gathered for the procession in Mashhad for the supreme leader, who was killed in the first U.S.-Israeli attacks of the war. Hours earlier, the United States and Iran traded strikes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Can Trump’s Arch Be So Tall? A Panel Led by His Allies Tentatively Says Yes.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/09/us/politics/trump-arch-height-approval.html",
+          "originalTitle": "Can Trump’s Arch Be So Tall? A Panel Led by His Allies Tentatively Says Yes.",
+          "content": "The proposed 250-foot arch would violate a height limit on Washington structures under the traditional reading of the law. But a planning commission gave it preliminary approval anyway.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inside the Implosion of Graham Platner’s Maine Senate Campaign: ‘A Slow-Rolling Disaster’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html",
+          "originalTitle": "Inside the Implosion of Graham Platner’s Maine Senate Campaign: ‘A Slow-Rolling Disaster’",
+          "content": "Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-10",
+  "generatedAtKst": "2026. 7. 10. AM 8:02",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
