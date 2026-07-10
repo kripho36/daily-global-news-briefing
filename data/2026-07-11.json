@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+          "content": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html",
+          "originalTitle": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
+          "content": "The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+          "content": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html",
+          "originalTitle": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
+          "content": "The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
+          "originalTitle": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+          "content": "An installation honoring the artist, Wim T. Schippers, features a 270-square-foot hexagon spread on the floor of a museum in Rotterdam.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Houston to Investigate How ICE Agent Came to Kill a Mexican Immigrant",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
+          "originalTitle": "Houston to Investigate How ICE Agent Came to Kill a Mexican Immigrant",
+          "content": "The agency said Lorenzo Salgado Araujo tried to ram agents with a van before one shot him dead. A lawyer for his passengers said that was untrue.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Maine Democrats Eyeing Late July Convention to Pick Platner Replacement",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html",
+          "originalTitle": "Maine Democrats Eyeing Late July Convention to Pick Platner Replacement",
+          "content": "With plans still being finalized, officials are discussing a convention some time during the weekend of July 25-26 and are weighing options for choosing delegates.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Charlie Kirk Murder Suspect Declines to Testify in Court Examination of Evidence",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/charlie-kirk-shooting-hearing.html",
+          "originalTitle": "Charlie Kirk Murder Suspect Declines to Testify in Court Examination of Evidence",
+          "content": "A weeklong hearing disclosed new details about Charlie Kirk’s assassination and the ensuing investigation. A judge will decide later this year if Tyler Robinson, 23, will stand trial for the killing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Graham Platner Files Paperwork to Withdraw From Maine Senate Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html",
+          "originalTitle": "Graham Platner Files Paperwork to Withdraw From Maine Senate Race",
+          "content": "The move paved the way for Democrats to choose a new nominee to challenge Senator Susan Collins in a race both parties see as key to the control of the Senate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html",
+          "originalTitle": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
+          "content": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-11",
+  "generatedAtKst": "2026. 7. 11. AM 7:51",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
