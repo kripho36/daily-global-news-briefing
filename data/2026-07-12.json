@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-12 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Black Hawk Helicopters Rescue Hundreds From Summer Camp During Floods",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html",
+          "originalTitle": "Black Hawk Helicopters Rescue Hundreds From Summer Camp During Floods",
+          "content": "The National Guard evacuated campers after flooding in Missouri that reminded some families of the devastating floods at Camp Mystic in central Texas last year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+          "content": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html",
+          "originalTitle": "Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.",
+          "content": "Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
+          "originalTitle": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+          "content": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
+          "originalTitle": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
+          "content": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At Vigil, Sons of Man Killed by ICE in Houston Call for Accountability",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-shooting-vigil.html",
+          "originalTitle": "At Vigil, Sons of Man Killed by ICE in Houston Call for Accountability",
+          "content": "The sons of Lorenzo Salgado Araujo recalled their father’s love of soccer and said they would “continue to keep fighting for him.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html",
+          "originalTitle": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
+          "content": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Marco Rubio Is Running Venezuela From Afar",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
+          "originalTitle": "How Marco Rubio Is Running Venezuela From Afar",
+          "content": "The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in the Trump era.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran supreme leader calls for revenge for father's killing",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran supreme leader calls for revenge for father's killing",
+          "content": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+          "originalTitle": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+          "content": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-12",
+  "generatedAtKst": "2026. 7. 12. AM 7:37",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
