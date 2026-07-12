@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "It Takes Coordination (and Many Arms) to Unfurl a World Cup Flag",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/world-cup-giant-flags.html",
+          "originalTitle": "It Takes Coordination (and Many Arms) to Unfurl a World Cup Flag",
+          "content": "Teams of stagehands work to coordinate how the giant flags are brought onto the field and displayed before each match. The prep takes days.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
+          "originalTitle": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
+          "content": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-hospital-announcement.html",
+          "originalTitle": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
+          "content": "The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+          "originalTitle": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+          "content": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+          "originalTitle": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+          "content": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
+          "originalTitle": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+          "content": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "content": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+          "originalTitle": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
+          "content": "He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "content": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+          "originalTitle": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
+          "content": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-13",
+  "generatedAtKst": "2026. 7. 13. AM 7:38",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
