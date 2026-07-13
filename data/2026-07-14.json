@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+          "originalTitle": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+          "content": "President Trump had earlier threatened “very hard” strikes, ordered the resumption of a blockade on Iranian ports to begin Tuesday and said the U.S. would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html",
+          "originalTitle": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+          "content": "The potential expense of a 20 percent charge to move oil and other goods through the strait has stirred concern among shippers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+          "content": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html",
+          "originalTitle": "After Weeks of Silence, McConnell Says He Is Recovering From a Fall",
+          "content": "The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+          "content": "The US military later said it had started the third consecutive night of strikes on Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
+          "originalTitle": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls",
+          "content": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Helicopter Pilot Dies While Fighting Wildfire in Western Colorado",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/us/colorado-wildfire-pilot-dead-crash.html",
+          "originalTitle": "Helicopter Pilot Dies While Fighting Wildfire in Western Colorado",
+          "content": "The pilot was the only person onboard when his helicopter crashed into a remote reserve during a firefighting mission.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Shot Lorenzo Salgado Araujo Through Open Passenger Window in Houston, Witnesses Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/us/houston-ice-shooting-video-witnesses.html",
+          "originalTitle": "ICE Shot Lorenzo Salgado Araujo Through Open Passenger Window in Houston, Witnesses Say",
+          "content": "A congresswoman and a lawyer relayed witness accounts that diverge from Immigration and Customs Enforcement’s version of the fatal encounter.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html",
+          "originalTitle": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
+          "content": "Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-14",
+  "generatedAtKst": "2026. 7. 14. AM 7:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
