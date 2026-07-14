@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "White House Cheers Inflation Data While Iran War Sparks New Price Surge",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html",
+          "originalTitle": "White House Cheers Inflation Data While Iran War Sparks New Price Surge",
+          "content": "The news of an improvement in consumer prices in June came as the U.S. and Iran escalated attacks, risking a return to high energy prices.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html",
+          "originalTitle": "Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says",
+          "content": "Details were unclear on Tuesday about what exactly happened at a gas station in St. Augustine before the man was killed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html",
+          "originalTitle": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+          "content": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "content": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Midnight social media curfew proposed for older UK teens",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Midnight social media curfew proposed for older UK teens",
+          "content": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
+          "originalTitle": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+          "content": "The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+          "content": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+          "originalTitle": "Bloomberg Loses Landmark Libel Case in Singapore",
+          "content": "A judge ruled in favor of two Singaporean ministers in a closely watched defamation trial seen as a significant test of the country’s libel laws and their implications for press freedom.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 New Roller Coasters to Make You Scream This Summer",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/13/travel/new-roller-coasters-six-flags-universal-legoland.html",
+          "originalTitle": "5 New Roller Coasters to Make You Scream This Summer",
+          "content": "Let the adrenaline flow on coasters that will shoot you high in the air, spin you around and turn you upside down. You’ll definitely want a second ride.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+          "originalTitle": "U.S. and Iran Reignite War Over Strait of Hormuz",
+          "content": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-15",
+  "generatedAtKst": "2026. 7. 15. AM 7:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
