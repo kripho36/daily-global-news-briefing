@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Argentina face fine for Falklands banner in semi-final win",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Argentina face fine for Falklands banner in semi-final win",
+          "content": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html",
+          "originalTitle": "For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer",
+          "content": "Wednesday’s contest for a spot in the final carries the weight of a 1986 contentious clash, a war over the Falklands and a national mythology built around Diego Maradona.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+          "originalTitle": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+          "content": "Though both sides appeared to be digging in, a top Iranian official appeared to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US military to start testosterone testing, Hegseth says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US military to start testosterone testing, Hegseth says",
+          "content": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "G.O.P. Appears to Boost Socialist’s Primary Campaign for Wisconsin Governor",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/15/us/politics/republicans-francesca-hong-wisconsin-governor.html",
+          "originalTitle": "G.O.P. Appears to Boost Socialist’s Primary Campaign for Wisconsin Governor",
+          "content": "Republicans seem to view Francesca Hong as their weakest opponent in a general election. They are spending $2.2 million in an apparent attempt to aid her primary campaign.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Video Pushed Local Police to Come Clean. D.H.S. Is Ignoring the Lessons.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/15/us/ice-public-statements.html",
+          "originalTitle": "Video Pushed Local Police to Come Clean. D.H.S. Is Ignoring the Lessons.",
+          "content": "The agency has said little about two fatal encounters in the past week. Local police departments have learned to be forthcoming.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran’s Top Negotiator Signals Door to Diplomacy Is Still Open",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-ghalibaf-us-talks.html",
+          "originalTitle": "Iran’s Top Negotiator Signals Door to Diplomacy Is Still Open",
+          "content": "Facing intense divisions within Iran, Gen. Mohammad Bagher Ghalibaf both struck a defiant tone and argued that diplomacy could defend Iran’s interests.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senators Press for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/15/us/politics/blumenthal-blanche-trump-clemency.html",
+          "originalTitle": "Senators Press for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry",
+          "content": "During his confirmation hearing, the acting attorney general refused to discuss the termination of an investigation into a commutation issued by President Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
+          "originalTitle": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+          "content": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-16",
+  "generatedAtKst": "2026. 7. 16. AM 7:50",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
