@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Judge Unseals Filings From Jack Smith Subpoena for Lawmaker’s Phone Data",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/16/us/politics/judge-unseals-jack-smith-subpoena-filings.html",
+          "originalTitle": "Judge Unseals Filings From Jack Smith Subpoena for Lawmaker’s Phone Data",
+          "content": "The Justice Department had balked at the disclosure, saying that the government had not acknowledged the special counsel’s subpoenas and that grand jury information was secret.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A 59-Year-Old Hunger Striker Joins a Gen Z Protest Movement in India",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/16/world/asia/india-sonam-wangchuk-cockroach-janata-party-hunger-strike.html",
+          "originalTitle": "A 59-Year-Old Hunger Striker Joins a Gen Z Protest Movement in India",
+          "content": "Sonam Wangchuk, a longtime activist, has fasted for 19 days, joining forces with a student-led campaign to change India’s education system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Media to sell early access to key social posts",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump Media to sell early access to key social posts",
+          "content": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ABC and NBC Will Not Take Trump’s Speech Live as Other TV Networks’ Plans Remain Uncertain",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html",
+          "originalTitle": "ABC and NBC Will Not Take Trump’s Speech Live as Other TV Networks’ Plans Remain Uncertain",
+          "content": "ABC, CNN and NBC were not planning to pre-empt regularly scheduled programming for the president’s remarks at 9 p.m. Fox News is set to carry it live.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+          "originalTitle": "Iran War Live Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
+          "content": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What It’s Like in a City With Dangerous Air Quality",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/100000011036303/wildfire-smoke-air-quality-index-toledo.html",
+          "originalTitle": "What It’s Like in a City With Dangerous Air Quality",
+          "content": "Our reporter Nicholas Bogel-Burroughs is in Toledo, Ohio, where the air quality level resulting from Canadian wildfire smoke is among the most hazardous in the United States.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html",
+          "originalTitle": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
+          "content": "A House panel approved the measure. But Republicans are divided over its size, cost and policy provisions, and many are concerned about the timing before the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/16/weather/canada-wildfire-smoke-air-quality/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada’s Wildfires Are Burning Through the Night",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+          "originalTitle": "Canada’s Wildfires Are Burning Through the Night",
+          "content": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-17",
+  "generatedAtKst": "2026. 7. 17. AM 7:49",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
