@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+          "originalTitle": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+          "content": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+          "originalTitle": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
+          "content": "The soldiers were the first U.S. troops to die from hostile fire in the region since an early April truce. The deaths came as both sides expanded the scope and intensity of their attacks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+          "originalTitle": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+          "content": "President Trump has vowed to avenge the deaths of any U.S. military personnel, and retaliatory strikes are almost certain.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+          "originalTitle": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+          "content": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+          "originalTitle": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+          "content": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "content": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
+          "originalTitle": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
+          "content": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+          "originalTitle": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+          "content": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada Wildfires: What to Know",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
+          "originalTitle": "Canada Wildfires: What to Know",
+          "content": "Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
+          "originalTitle": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
+          "content": "The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-19",
+  "generatedAtKst": "2026. 7. 19. AM 7:39",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
