@@ -1,0 +1,35 @@
+{
+  "title": "2026-07-21 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘의 국제 정세는 미국-이란 전쟁과 무역 갈등, 북미 국가 간 관세 충돌, 중동 해상 봉쇄 등으로 격화되었다. 미국은 이란에 대한 추가공격을 가해 군사적 긴장을 높였고, 동시에 캐나다 상품에 50% 관세를 부과해 무역 전쟁을 재점화했다. 한편, 예멘 후티 반군이 홍해 차단을 선언하며 국제 해운과 원유 가격 변동을 초래했고, 미국은 이를 반대하며 전략적 방어를 강화했다. 이와 함께 국내외 정치 이슈로는 영국 정계에서 Ann Widdecombe 사망 사건이 큰 이슈가 되고, 미국 내 군인 사망이 발표되면서 군사 정책 논쟁이 일고 있다. 기술 분야에서는 Paramount와 Warner Bros. 합병이 법원에 의해 일시 중단되어 미디어 산업의 미래가 불투명해졌다.",
+  "sections": [
+    {
+      "heading": "미국 정세",
+      "items": [
+        {
+          "title": "미국이 이란에 대한 추가 공습을 가해 전쟁 확대",
+          "importance": 5,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "content": "트럼프 행정부는 이란이 호르무즈 해협에서 미국 선박을 공격한 것으로 보이는 인공위성 폭격에 대응해 미국 군이 이란의 군사 기지와 해상 기지에 추가 공격을 수행했다. 미국은 이로써 이란과의 군사적 충돌을 확대하고 전면 전쟁으로 번지는 것을 방지하려는 의도를 밝혔다. 이 공격은 미국의 전략적 방위와 이란의 무력 대응 사이에서 균형을 찾으려는 시도로 해석된다.",
+          "impact": "이란에 대한 추가 공격은 지역 안보 환경을 더욱 긴장시킬 수 있으며, 미국 내에서 군사 개입에 대한 공공의 분노가 고조될 가능성이 있다."
+        },
+        {
+          "title": "트럼프 행정부, 캐나다 상품에 50% 관세 부과",
+          "importance": 5,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump imposes 50% tariff on Canadian imports",
+          "content": "트럼프 대통령은 캐나다 수입품에 대해 50% 관세를 부과하며 북미 무역 갈등을 고조시켰다. 이는 캐나다와 미국 간의 무역 불균형 및 미화 111억 달러 규모의 Paramount-Warner 합병에 대한 미국의 반독점 우려와 연결되며, 미국의 무역 정책 전환을 반영한다.",
+          "impact": "관세 부과는 캐나다와 미국 간 무역을 감소시키고, 캐나다 산업 및 소비자에게 직접적인 비용 상승을 야기할 것이며, 미국 내 일부 산업은 반발을 일으킬 수 있다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-21",
+  "generatedAtKst": "2026. 7. 21. AM 7:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
