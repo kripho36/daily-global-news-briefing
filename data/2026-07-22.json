@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-22 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Jury Deadlocks on Murder Charges Against 2 Men in California Mass Shooting",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/sacramento-mass-shooting-trial-verdict.html",
+          "originalTitle": "Jury Deadlocks on Murder Charges Against 2 Men in California Mass Shooting",
+          "content": "The defendants were convicted of weapons charges in connection with the 2022 shootout in Sacramento, which left six people dead and 13 others injured outside a downtown arena.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html",
+          "originalTitle": "Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine",
+          "content": "State Democrats released a ballot for their nominating convention on Saturday that includes Mr. Jackson and two long-shot candidates with little public support from delegates.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Small Plane Crashes Into House Near Houston",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/texas-plane-crash-home.html",
+          "originalTitle": "Small Plane Crashes Into House Near Houston",
+          "content": "The plane, a Piper J3C-65, struck the house in Fulshear, Texas, around 6:45 a.m. on Monday, the authorities said. Its pilot was in serious condition on Tuesday, a hospital spokesman said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+          "originalTitle": "Zelensky Dismisses Ukraine’s Top General After Protests",
+          "content": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html",
+          "originalTitle": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+          "content": "If the full Senate confirms him as expected, Mr. Clayton will take over the Office of the Director of National Intelligence from Bill Pulte, a housing official with little national security experience.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+          "originalTitle": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
+          "content": "The administration accused California and Minnesota of fraudulent activity in their public health insurance programs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
+          "originalTitle": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
+          "content": "Defense Secretary Pete Hegseth is requesting as much as $70 billion in emergency military spending after nearly five months of war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+          "originalTitle": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+          "content": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Roger Rogoff Files Suit Challenging Trump’s Power to Fire Him",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/us/roger-rogoff-doj-lawsuit.html",
+          "originalTitle": "Roger Rogoff Files Suit Challenging Trump’s Power to Fire Him",
+          "content": "In the first lawsuit of its kind, Roger Rogoff argues that the Trump administration cannot fire him as U.S. attorney without first winning Senate approval for another candidate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Wartime Rift in Ukraine",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html",
+          "originalTitle": "A Wartime Rift in Ukraine",
+          "content": "President Volodymyr Zelensky fired his top general after a feud between old-school officers and younger innovators spilled into the streets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-22",
+  "generatedAtKst": "2026. 7. 22. AM 7:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
