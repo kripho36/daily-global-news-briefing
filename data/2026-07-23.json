@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-23 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Watch: What we know about the US-Saudi nuclear deal",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: What we know about the US-Saudi nuclear deal",
+          "content": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tesla Profit Falls Even as Car Sales Rebound",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+          "originalTitle": "Tesla Profit Falls Even as Car Sales Rebound",
+          "content": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+          "originalTitle": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+          "content": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the province that is home to Iran’s only operating nuclear power plant had been hit in a missile strike.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Google burning through cash with spiralling AI costs",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Google burning through cash with spiralling AI costs",
+          "content": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Says Surprise Billing Law Is Being ‘Gamed’ by Doctors",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/upshot/doctors-huge-payments-trump.html",
+          "originalTitle": "Trump Administration Says Surprise Billing Law Is Being ‘Gamed’ by Doctors",
+          "content": "For the first time, officials have acknowledged problems with the No Surprises Act, which has led to huge payments.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html",
+          "originalTitle": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
+          "content": "Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html",
+          "originalTitle": "‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans",
+          "content": "The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "House Passes Defense Bill Amid Iran War Divide",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html",
+          "originalTitle": "House Passes Defense Bill Amid Iran War Divide",
+          "content": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
+          "originalTitle": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+          "content": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-23",
+  "generatedAtKst": "2026. 7. 23. AM 7:53",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
