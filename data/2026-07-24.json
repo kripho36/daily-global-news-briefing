@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-24 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+          "originalTitle": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
+          "content": "The administration announced new duties tied to countries’ imports of goods made with forced labor, replacing a global 10 percent tariff set to expire at midnight.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Peptide Showdown: F.D.A. Scientists May Clash With R.F.K.’s Agenda",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html",
+          "originalTitle": "A Peptide Showdown: F.D.A. Scientists May Clash With R.F.K.’s Agenda",
+          "content": "In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+          "content": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Red Sea Turmoil Pushes Oil Past $100 a Barrel",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+          "originalTitle": "Iran War Live Updates: Red Sea Turmoil Pushes Oil Past $100 a Barrel",
+          "content": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, but Republicans in the Senate later blocked the measure from passing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
+          "originalTitle": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
+          "content": "A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Intel Benefits From a New Shift in A.I. Spending",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
+          "originalTitle": "Intel Benefits From a New Shift in A.I. Spending",
+          "content": "The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html",
+          "originalTitle": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.",
+          "content": "Host cities, hotels, tourism boards and more had lofty expectations for the World Cup, but some struck gold, while some fizzled. Here’s the breakdown.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
+          "originalTitle": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+          "content": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kagan Says Supreme Court Has Stood Up to Trump in Key Cases",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
+          "originalTitle": "Kagan Says Supreme Court Has Stood Up to Trump in Key Cases",
+          "content": "At an annual meeting of judges and lawyers, the liberal justice defended her conservative colleagues from criticism that they have rubber-stamped President Trump’s agenda.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-24",
+  "generatedAtKst": "2026. 7. 24. AM 7:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
