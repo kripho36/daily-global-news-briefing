@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "content": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Vote to Put South Carolina First in 2028 Primary",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-south-carolina-nevada-2028-presidential-race.html",
+          "originalTitle": "Democrats Vote to Put South Carolina First in 2028 Primary",
+          "content": "Along with Nevada, New Hampshire, New Mexico, Michigan and Virginia, the state will help decide the party’s next presidential nominee.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+          "originalTitle": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+          "content": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel. Across the region, Iran and the United States continued to trade attacks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
+          "originalTitle": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+          "content": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump to Speak as White House Correspondents Dinner Returns With More Security",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/business/media/white-house-correspondents-dinner.html",
+          "originalTitle": "Trump to Speak as White House Correspondents Dinner Returns With More Security",
+          "content": "President Trump remains the evening’s keynote speaker, as relations between his administration and the press continue to deteriorate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "content": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
+          "originalTitle": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+          "content": "The company agreed to a proposed freeze until June 2027, unless a judge issues a ruling before then on a lawsuit blocking the deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+          "originalTitle": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+          "content": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has lasted nearly five months, with no end in sight.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html",
+          "originalTitle": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+          "content": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
+          "originalTitle": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
+          "content": "President Trump has said he would expand the war if the Iran-backed Houthi militants launched additional attacks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-25",
+  "generatedAtKst": "2026. 7. 25. AM 7:53",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
