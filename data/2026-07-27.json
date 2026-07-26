@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-27 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
+          "originalTitle": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
+          "content": "Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+          "originalTitle": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+          "content": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Wildfire Smoke Chokes Skies in Spain and France",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+          "originalTitle": "Wildfire Smoke Chokes Skies in Spain and France",
+          "content": "Hundreds of thousands of people, residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+          "content": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+          "originalTitle": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+          "content": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+          "content": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+          "originalTitle": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+          "content": "With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "content": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Water returns to Gatwick Airport after major outage",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Water returns to Gatwick Airport after major outage",
+          "content": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Accidental Hero Who Faced Down India’s Government",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
+          "originalTitle": "The Accidental Hero Who Faced Down India’s Government",
+          "content": "Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-27",
+  "generatedAtKst": "2026. 7. 27. AM 7:51",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
