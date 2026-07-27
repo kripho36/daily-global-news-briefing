@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+          "originalTitle": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
+          "content": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+          "originalTitle": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
+          "content": "The president also assured supporters that negotiations over ending the war in Iran, a conflict that has sent fuel and energy prices soaring, are continuing in a “friendly” fashion.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
+          "originalTitle": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+          "content": "The ‘Cockroach’ movement dispersed, saying its demands had been met, but there are larger issues about the country’s education system and the future of dissent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
+          "originalTitle": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
+          "content": "The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Some people's chats with Claude AI found publicly available online",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Some people's chats with Claude AI found publicly available online",
+          "content": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html",
+          "originalTitle": "Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole",
+          "content": "David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trial of Lindsay Clancy, Accused of Murdering Her Children, Begins With Ex-Husband’s Testimony",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/us/lindsay-clancy-husband-testimony.html",
+          "originalTitle": "Trial of Lindsay Clancy, Accused of Murdering Her Children, Begins With Ex-Husband’s Testimony",
+          "content": "The trial of a mother charged with murdering her three young children began on Monday with testimony from her former husband, Patrick Clancy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Japanese town wrestles with identity after protests over its first mosque",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "A Japanese town wrestles with identity after protests over its first mosque",
+          "content": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Number of suspects in fatal Seattle food festival shooting rises to three",
+          "content": "One suspect is in custody, while a second is being sought and a third is thought to have died at the scene, court documents show.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Tell Us Where to Look,’ Savannah Guthrie Pleads 6 Months Into Search",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/27/us/savannah-guthrie-nancy-video.html",
+          "originalTitle": "‘Tell Us Where to Look,’ Savannah Guthrie Pleads 6 Months Into Search",
+          "content": "The “Today” show host spoke directly to her mother’s apparent abductor in a new video.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-28",
+  "generatedAtKst": "2026. 7. 28. AM 7:52",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
