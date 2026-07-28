@@ -1,0 +1,53 @@
+{
+  "title": "2026년 7월 29일 국제 정세 브리핑",
+  "overallSummary": "오늘은 미국 내부 정치와 기술산업의 변동, 아시아·중동 지역의 긴장 고조가 눈에 띠는 날이다. 오하이오 상원 경선에 가정폭력 혐의가 제기돼 현직 정당의 안정성이 흔들리며, 마크 주커버그가 AI 권력 중앙집중화에 반발하는 발언이 주목받는다. 동시에 AI 지출과 중국 칩 우려로 기술주가 급락하고, 보잉이 에어포스 원 프로젝트 지연으로 2억 8천만 달러 손실을 입는다. 일본에서는 6.8 규모 지진으로 건물 붕괴가 발생해 구조가 진행 중이며, 사우디 해양선에 대한 하우티 공격 주장과 파키스탄 카시미르에서의 폭력 충돌, 이란의 시위대 처형 급증 등 중동·아시아 지역에서도 긴장이 고조되고 있다.",
+  "sections": [
+    {
+      "heading": "테크/IT",
+      "items": [
+        {
+          "title": "마크 주커버그, AI 권력 중앙집중화 비판",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+          "originalTitle": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+          "content": "Meta CEO 마크 주커버그는 인공지능 개발을 독점적으로 관리하는 Anthropic 및 OpenAI에 비판을 가하며, ‘더 큰 개방성’이 필요하다고 강조했다.",
+          "impact": "주커버그의 발언은 AI 생태계 내 기업 간 경쟁을 촉발하고, 규제 논의를 가속화할 가능성이 있다."
+        },
+        {
+          "title": "AI 지출과 중국 칩 우려로 기술주 급락",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html",
+          "originalTitle": "Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips",
+          "content": "AI 지출 확대와 중국 칩 공급 불확실성으로 나스닥 종합지수는 1% 이상 하락했다.",
+          "impact": "투자자 신뢰 하락 및 기업의 연구개발 예산 재배분에 영향을 미칠 전망이다."
+        },
+        {
+          "title": "보잉, 에어포스 원 프로그램 지연으로 2억 8천만 달러 손실",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/28/business/boeing-earnings-air-force-one.html",
+          "originalTitle": "Boeing Reports Loss on $280 Million Hit to Troubled Air Force One Program",
+          "content": "에어포스 원 항공기 프로젝트가 4년 지연돼 보잉이 2억 8천만 달러 손실을 기록했다.",
+          "impact": "보잉의 재무 건전성에 압박을 가하고, 항공우주 산업의 공급망 재검토를 촉발할 수 있다."
+        },
+        {
+          "title": "AI 개방형 가중치 논의",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+          "originalTitle": "What Is Open-Weights A.I.?",
+          "content": "시리실리콘밸리에서 AI 소프트웨어 개발 방식을 논의하며 ‘오픈 웨이트’가 주요 이슈가 되었다.",
+          "impact": "AI 기술의 투명성과 접근성을 향상시킬 수 있는 기회와 동시에 지적 재산권 갈등을 야기할 수 있다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-29",
+  "generatedAtKst": "2026. 7. 29. AM 7:51",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
