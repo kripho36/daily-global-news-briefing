@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-30 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Meta shares fall as frustration grows over AI spending plans",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Meta shares fall as frustration grows over AI spending plans",
+          "content": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
+          "originalTitle": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
+          "content": "John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Encounters a More Determined Iran as War Widens",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+          "originalTitle": "Trump Encounters a More Determined Iran as War Widens",
+          "content": "With Iran flexing its might, President Trump appears to be weighing military options again, after rejecting plans to escalate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Record Numbers of Public Document Requests Are in Limbo or Unfulfilled",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/us/politics/foia-public-document-requests.html",
+          "originalTitle": "Record Numbers of Public Document Requests Are in Limbo or Unfulfilled",
+          "content": "A Times’s analysis of 16 years of available federal data shows federal agencies lag in processing requests for government records.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
+          "originalTitle": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
+          "content": "Qantas plans to launch the world’s longest commercial flight next year from Sydney to London, using specially manufactured Airbus jets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Salman Rushdie attacker convicted of terror offenses",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Salman Rushdie attacker convicted of terror offenses",
+          "content": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Chinese robot army transforming the UK's retail industry",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The Chinese robot army transforming the UK's retail industry",
+          "content": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Has Made Billions in Office. Will His Party Pay Politically?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-personal-wealth.html",
+          "originalTitle": "Trump Has Made Billions in Office. Will His Party Pay Politically?",
+          "content": "The president took in a staggering $2.2 billion last year while in office. Democrats are hoping to make it a campaign issue in the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
+          "originalTitle": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
+          "content": "A seven-figure settlement is announced two days before a scheduled Senate committee vote on Todd Blanche’s nomination to be attorney general.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+          "originalTitle": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+          "content": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-30",
+  "generatedAtKst": "2026. 7. 30. AM 7:51",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
