@@ -1,0 +1,107 @@
+{
+  "title": "2026-07-31 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Former Lt. Gov. Mandela Barnes Exits Race for Wisconsin Governor",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html",
+          "originalTitle": "Former Lt. Gov. Mandela Barnes Exits Race for Wisconsin Governor",
+          "content": "With a democratic socialist, Francesca Hong, leading in polls, former Lt. Gov. Mandela Barnes said he was ending his campaign in the closely divided state.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "T.S.A. Finds 5 Civil War Cannonballs in Passenger’s Luggage in Alabama",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/tsa-alabama-civil-war-cannonballs.html",
+          "originalTitle": "T.S.A. Finds 5 Civil War Cannonballs in Passenger’s Luggage in Alabama",
+          "content": "The inert relics, some as big as a grapefruit, were detected when agents X-rayed checked bags.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Seattle’s Police Chief Resigns Under Pressure",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/seattle-police-chief-resigns.html",
+          "originalTitle": "Seattle’s Police Chief Resigns Under Pressure",
+          "content": "The decision follows days of criticism over how the department handled the release of information on a recent shooting that killed three people at a food festival.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+          "originalTitle": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
+          "content": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
+          "originalTitle": "Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination",
+          "content": "President Trump’s threat followed a day of fruitless negotiations with two Republican holdouts, Senators John Cornyn and Thom Tillis.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
+          "originalTitle": "Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
+          "content": "The company recently raised prices on a number of products because of component supply shortages caused by the artificial intelligence boom.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran War Is Entangling a Growing List of Mideast Nations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+          "originalTitle": "Iran War Is Entangling a Growing List of Mideast Nations",
+          "content": "As the U.S. and Iran exchange strikes, more countries are being touched — and some are joining in.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Nominee to Oversee VOA, Sarah B. Rogers, Suggests Return of Journalists on Leave",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html",
+          "originalTitle": "Trump’s Nominee to Oversee VOA, Sarah B. Rogers, Suggests Return of Journalists on Leave",
+          "content": "The statement by the nominee, Sarah B. Rogers, signaled a stark reversal of the president’s earlier efforts to shutter Voice of America and other federally funded news groups.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Texas Parents Try New Tactic to Remove Ten Commandments From Schools",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/ten-commandments-texas-schools-lawsuit.html",
+          "originalTitle": "Texas Parents Try New Tactic to Remove Ten Commandments From Schools",
+          "content": "A lawsuit filed by three parents argues that the displays violate a state religious freedom law and asks for them to be removed before school starts in August.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html",
+          "originalTitle": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
+          "content": "The rulings deepen a split across the judiciary, making it more likely that the Supreme Court will consider the legality of detaining undocumented immigrants indefinitely.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-31",
+  "generatedAtKst": "2026. 7. 31. AM 7:56",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
