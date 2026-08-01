@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-02 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tourist plane crashes in Peru, killing 13",
+          "content": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
+          "originalTitle": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
+          "content": "President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+          "originalTitle": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+          "content": "Among the victims of the explosion, which also injured 21 people, were a security guard and a woman who the authorities say had arrived with the suspicious package.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+          "originalTitle": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+          "content": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
+          "originalTitle": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
+          "content": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "content": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+          "content": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+          "originalTitle": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+          "content": "Palestinian officials said at least two people were killed. The deal announced by President Trump calls in part for Hamas to give up its weapons and Israel to stop its attacks in Gaza.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran Plotted Wider War With Help of Its Proxies",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+          "originalTitle": "Iran Plotted Wider War With Help of Its Proxies",
+          "content": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html",
+          "originalTitle": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+          "content": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-02",
+  "generatedAtKst": "2026. 8. 2. AM 7:44",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
