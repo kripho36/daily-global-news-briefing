@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-03 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+          "originalTitle": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+          "content": "The markets’ moves were the first since President Trump said late Saturday that he had halted a U.S. assault as Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Comradely’ Talks and a ‘Deer Leader’ Mascot: Scenes From the D.S.A. Summit",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
+          "originalTitle": "‘Comradely’ Talks and a ‘Deer Leader’ Mascot: Scenes From the D.S.A. Summit",
+          "content": "At a national meeting of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
+          "originalTitle": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+          "content": "Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+          "originalTitle": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+          "content": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Days After Deadly Shooting, Seattle Tightens Security on Festivities",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/01/us/seattle-festival-shooting.html",
+          "originalTitle": "Days After Deadly Shooting, Seattle Tightens Security on Festivities",
+          "content": "A recent shooting that killed three people at a food festival in Seattle did not deter crowds from the city’s Seafair Weekend Festival.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What We Know About the Shooting at an In-N-Out Burger in Idaho",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html",
+          "originalTitle": "What We Know About the Shooting at an In-N-Out Burger in Idaho",
+          "content": "Gunfire brought panic to a shopping center in Twin Falls in what the authorities described as a chaotic scene. At least three people were killed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+          "originalTitle": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+          "content": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Ultra-Rich Are Moving to Miami, and Want Their Money Managers There, Too",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/business/family-offices-miami.html",
+          "originalTitle": "The Ultra-Rich Are Moving to Miami, and Want Their Money Managers There, Too",
+          "content": "Tax incentives, among other benefits, have drawn the ultrawealthy to the city. And they need space for the firms that manage their money.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Unraveling the Chaos in Ceuta",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+          "originalTitle": "Unraveling the Chaos in Ceuta",
+          "content": "Whatever caused the migrant surge in the Spanish territory, it’s already shaking up European politics.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "content": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-03",
+  "generatedAtKst": "2026. 8. 3. AM 7:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
