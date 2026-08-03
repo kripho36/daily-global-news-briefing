@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Senate Moves Ahead on Bill to Avert a Shutdown",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/politics/senate-moves-ahead-on-bill-to-avert-a-shutdown.html",
+          "originalTitle": "Senate Moves Ahead on Bill to Avert a Shutdown",
+          "content": "Senators in both parties are eager to avoid another spending skirmish before the midterm elections, but the measure still must pass the House.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senate Moves Ahead on Bill to Avert a Shutdown",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/politics/senate-spending-bill-shutdown-midterms.html",
+          "originalTitle": "Senate Moves Ahead on Bill to Avert a Shutdown",
+          "content": "Senators in both parties are eager to avoid another spending skirmish before the midterm elections, but the measure still must pass the House.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chino Hills Murder-Kidnapping Tied to Business Dispute, Officials Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/chino-hills-kidnapping-shooting.html",
+          "originalTitle": "Chino Hills Murder-Kidnapping Tied to Business Dispute, Officials Say",
+          "content": "The fatal shooting last week stunned the city of Chino Hills, an upper-middle-class community roughly 35 miles east of downtown Los Angeles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html",
+          "originalTitle": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+          "content": "In the past week alone, President Trump’s interference has imperiled one criminal case, set the stage for sanctions in a second and hindered the confirmation chances of his pick for attorney general.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inside the Democratic Socialists of America Summit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html",
+          "originalTitle": "Inside the Democratic Socialists of America Summit",
+          "content": "Our politics reporter Kellen Browning went to the Democratic Socialists of America’s national summit in Chicago to learn more about the group’s new platform.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Blanche’s Documents Addressing Trump I.R.S. Deal Leave Loopholes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-loopholes.html",
+          "originalTitle": "Blanche’s Documents Addressing Trump I.R.S. Deal Leave Loopholes",
+          "content": "Critics say the written assurances are a political solution to a political problem, rather than a legally binding document.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html",
+          "originalTitle": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
+          "content": "Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html",
+          "originalTitle": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+          "content": "Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
+          "originalTitle": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+          "content": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+          "originalTitle": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+          "content": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-04",
+  "generatedAtKst": "2026. 8. 4. AM 7:52",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
