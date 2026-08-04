@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-05 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "When to Expect Results in Michigan, Virginia, Missouri, Washington and Kansas",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/results-timing-michigan-virginia-missouri-washington-kansas.html",
+          "originalTitle": "When to Expect Results in Michigan, Virginia, Missouri, Washington and Kansas",
+          "content": "Voters will cast ballots in several primaries. Unofficial results will most likely be known late Tuesday or early Wednesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Pained as He Grants Dismissal of Jan. 6 Charges Against Oath Keepers",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html",
+          "originalTitle": "Judge Pained as He Grants Dismissal of Jan. 6 Charges Against Oath Keepers",
+          "content": "The judge, Amit P. Mehta, blasted the administration’s request for a dismissal in the case, saying it bestowed “unearned grace” on the Oath Keepers defendants “by wiping their records clean.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html",
+          "originalTitle": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+          "content": "Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "SpaceX’s Spending on A.I. Soars in First Results After I.P.O.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+          "originalTitle": "SpaceX’s Spending on A.I. Soars in First Results After I.P.O.",
+          "content": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+          "content": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Maryland Lawmakers Back Amendment Giving Democrats 2028 Advantage",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/us/maryland-democrats-pass-2028-redistricting-amendement.html",
+          "originalTitle": "Maryland Lawmakers Back Amendment Giving Democrats 2028 Advantage",
+          "content": "The measure, which will go before voters in November, would make it easier for Democrats to redraw congressional maps and possibly pick up one seat.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White House Readies A.I. Framework to Review Security Risks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+          "originalTitle": "White House Readies A.I. Framework to Review Security Risks",
+          "content": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "content": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+          "content": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html",
+          "originalTitle": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
+          "content": "Todd Blanche’s nomination now advances to the Senate floor, where it was not immediately clear whether he would be confirmed given that he can afford to lose only two senators on a party-line vote.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-05",
+  "generatedAtKst": "2026. 8. 5. AM 7:52",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
