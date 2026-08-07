@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-07 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump imposes 15% tariff on key chip material to counter China",
+          "content": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
+          "originalTitle": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+          "content": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Spokane Arson Suspect Had History of Setting Fires, Prosecutors Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/us/spokane-arson-suspect-fire-history.html",
+          "originalTitle": "Spokane Arson Suspect Had History of Setting Fires, Prosecutors Say",
+          "content": "The man charged with setting one of the three destructive blazes in eastern Washington this month told detectives he had started two dozen fires in the last year, an affidavit said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Edgy Vanity Plates Test Limits of Free Speech",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/us/politics/the-docket-vanity-plates-speech.html",
+          "originalTitle": "Edgy Vanity Plates Test Limits of Free Speech",
+          "content": "Virginia will ask the Supreme Court to hear a dispute over a seven-character license plate message.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
+          "originalTitle": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
+          "content": "In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "One Killed in Fire Started by Man Who Said He Lit It by Accident",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/us/gann-fire-california.html",
+          "originalTitle": "One Killed in Fire Started by Man Who Said He Lit It by Accident",
+          "content": "The authorities said they found a body inside a burned home near Sacramento. A man was charged this week with causing the blaze by operating equipment that produced sparks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Meta fined $567m in largest child safety ruling against social media giant",
+          "content": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two people convicted in relation to death of French streamer",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Two people convicted in relation to death of French streamer",
+          "content": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Sudan's invisible children - born in war with no legal identity",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Sudan's invisible children - born in war with no legal identity",
+          "content": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+          "originalTitle": "French Streamers Convicted in Case Related to Kick Livestream Death",
+          "content": "The two men, users of the platform Kick, received suspended sentences and fines.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-07",
+  "generatedAtKst": "2026. 8. 7. AM 10:27",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
