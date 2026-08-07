@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-08 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "content": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "They’re Battle-Tested Democrats. Do Voters Care?",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html",
+          "originalTitle": "They’re Battle-Tested Democrats. Do Voters Care?",
+          "content": "Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "content": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html",
+          "originalTitle": "Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68",
+          "content": "After 20 years in the C.I.A., he emerged as an outspoken critic of the agency and as a leader of the election-denial movement in Pennsylvania.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Schumer, Despite Party Tensions, Forges Ahead in Fight for Senate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
+          "originalTitle": "Schumer, Despite Party Tensions, Forges Ahead in Fight for Senate",
+          "content": "In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "content": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "content": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What is birthright citizenship and how common is birth tourism in the US?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What is birthright citizenship and how common is birth tourism in the US?",
+          "content": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+          "content": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Houthis Claim Attack on Yemeni Military Camp",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
+          "originalTitle": "Houthis Claim Attack on Yemeni Military Camp",
+          "content": "Recent escalating tensions between the Iran-backed group and the Yemeni government have prompted fears that a truce in place since 2022 is nearing collapse.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-08",
+  "generatedAtKst": "2026. 8. 8. AM 7:25",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
