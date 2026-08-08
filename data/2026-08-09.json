@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
+          "originalTitle": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+          "content": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
+          "originalTitle": "Hunter Biden Says His Father’s Cancer Is Worsening",
+          "content": "In an interview with the BBC, Mr. Biden said that former President Joseph R. ⁠Biden Jr.’s prostate cancer had spread into his bones and was causing pain.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+          "originalTitle": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+          "content": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Blackbird Mountain Guides Report on Lake Tahoe Avalanche That Killed 9 Skiers Assigns No Blame.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/us/tahoe-avalanche-blackbird-report.html",
+          "originalTitle": "Blackbird Mountain Guides Report on Lake Tahoe Avalanche That Killed 9 Skiers Assigns No Blame.",
+          "content": "The report was commissioned by Blackbird Mountain Guides, which was in charge of the trip near Lake Tahoe in February.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "content": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "More Than 50 Decomposing Bodies Are Found in a Chicago Funeral Home",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/07/us/decomposing-bodies-funeral-home-chicago.html",
+          "originalTitle": "More Than 50 Decomposing Bodies Are Found in a Chicago Funeral Home",
+          "content": "The authorities said the bodies were found in various of stages of decomposition. It was not clear how long they had been there.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+          "originalTitle": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+          "content": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+          "originalTitle": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+          "content": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Paris tells e-scooter riders to wear safety gear or face fines",
+          "content": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/08/us/two-killed-wildfire-helicopter-crash.html",
+          "originalTitle": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire",
+          "content": "The aircraft was responding to the Widemouth 2 fire, which has burned more than 100,000 acres since starting last month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-09",
+  "generatedAtKst": "2026. 8. 9. AM 7:18",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
