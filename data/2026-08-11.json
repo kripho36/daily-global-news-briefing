@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
+          "originalTitle": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+          "content": "The party, Yabloko, has navigated a delicate balancing act with an increasingly heavy-handed Kremlin, but its pro-peace manifesto turned out to be the red line.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+          "originalTitle": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+          "content": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
+          "originalTitle": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+          "content": "Abelardo De La Espriella had never held public office until his inauguration on Friday. Now, he is at the helm of a major disaster response.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Images Emerge From Quake-Battered Colombia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+          "originalTitle": "Images Emerge From Quake-Battered Colombia",
+          "content": "The most powerful temblor in a decade struck in a Pacific Coast region, killing over 100 people.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html",
+          "originalTitle": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
+          "content": "President Trump’s social media platform has had double-digit declines in visitors in June and July, according to estimates from a widely cited online tracking firm.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html",
+          "originalTitle": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+          "content": "The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+          "originalTitle": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+          "content": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Turkey Moves to Advance Peace Process With P.K.K.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/europe/turkey-law-pkk-peace-framework.html",
+          "originalTitle": "Turkey Moves to Advance Peace Process With P.K.K.",
+          "content": "The government adopted a law that might prove a significant step toward ending an outlawed group’s decades-long battle with the Turkish state.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
+          "originalTitle": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+          "content": "A pair of brothers who lost their mother and other family members in Venezuela and were profiled by The New York Times have now survived deadly quakes in two countries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
+          "originalTitle": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
+          "content": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-11",
+  "generatedAtKst": "2026. 8. 11. AM 7:27",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
