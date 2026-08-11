@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-12 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html",
+          "originalTitle": "Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig",
+          "content": "The center had sued Chuck Redd when he canceled a free concert last year, citing the addition of the Trump name to the venue. But a judge dismissed the case.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "When to Expect Results in Wisconsin, Minnesota, South Carolina and Beyond",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html",
+          "originalTitle": "When to Expect Results in Wisconsin, Minnesota, South Carolina and Beyond",
+          "content": "Six states are holding elections on Tuesday. The unofficial results will be known late Tuesday or early Wednesday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+          "originalTitle": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+          "content": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+          "originalTitle": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+          "content": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
+          "originalTitle": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
+          "content": "As Muslim politicians like Abdul El-Sayed in Michigan have become more prominent, they have experienced considerable bigotry. President Trump said Democrats were electing “jihadists.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Accuse Trump Administration of Stonewalling Major Transit Projects",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html",
+          "originalTitle": "Democrats Accuse Trump Administration of Stonewalling Major Transit Projects",
+          "content": "Congressional Democrats express concern that the delays involve “political considerations.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+          "content": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Wildfire Forces Evacuations in Big Sur, Along California’s Famed Coast",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/us/california-timber-fire-big-sur.html",
+          "originalTitle": "Wildfire Forces Evacuations in Big Sur, Along California’s Famed Coast",
+          "content": "A fire near Highway 1 has spread, prompting evacuation orders across Monterey County.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
+          "originalTitle": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+          "content": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-12",
+  "generatedAtKst": "2026. 8. 12. AM 7:31",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
