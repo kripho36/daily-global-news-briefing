@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Two Killed in Military Helicopter Crash Near Fort Hood in Texas",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/us/texas-helicopter-crash.html",
+          "originalTitle": "Two Killed in Military Helicopter Crash Near Fort Hood in Texas",
+          "content": "The Apache helicopter crashed in Salado, a small town about 20 miles from the military base, and set off a fire, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Karoline Leavitt, Trump’s White House Press Secretary, Is Leaving the Role",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html",
+          "originalTitle": "Karoline Leavitt, Trump’s White House Press Secretary, Is Leaving the Role",
+          "content": "President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why are 'human fridges' being sold in Japan?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Why are 'human fridges' being sold in Japan?",
+          "content": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Crowley Eked Out a Win in the Wisconsin Governor Primary",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html",
+          "originalTitle": "How Crowley Eked Out a Win in the Wisconsin Governor Primary",
+          "content": "A shifting race and a key endorsement helped the moderate Democrat overcome his progressive challenger, Francesca Hong, voters said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "With Big Choices Ahead, Ocasio-Cortez Navigates New Territory",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html",
+          "originalTitle": "With Big Choices Ahead, Ocasio-Cortez Navigates New Territory",
+          "content": "Representative Alexandria Ocasio-Cortez’s sharing of her decision to freeze her eggs, the news that her longtime relationship had ended and talk of a presidential run have intensified the debates that swirl around her.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+          "originalTitle": "First Total Eclipse in Europe in Decades Turns Day to Night",
+          "content": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "content": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Woman Arrested After Confessing to Starting Nevada Fire, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/us/fred-mountain-fire-arson-arrest.html",
+          "originalTitle": "Woman Arrested After Confessing to Starting Nevada Fire, Officials Say",
+          "content": "The woman was arrested on suspicion of arson and possession of a controlled substance. Officials said she set multiple fires that later became part of the Bug fire, which has burned over 66,000 acres.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+          "originalTitle": "The Surprising Truth About Instagram’s VHS Dates Videos",
+          "content": "The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+          "originalTitle": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+          "content": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-13",
+  "generatedAtKst": "2026. 8. 13. AM 7:30",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
