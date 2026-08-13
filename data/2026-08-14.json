@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html",
+          "originalTitle": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
+          "content": "The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights. But the fleet has largely sat idle for months.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "content": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/us/mass-shooting-new-orleans-ex-police-released.html",
+          "originalTitle": "Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges",
+          "content": "Law enforcement officials had said that Christopher Gillum, a former police officer in North Carolina, planned to attack a large festival. He was released without charges.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+          "content": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
+          "originalTitle": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+          "content": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Appeals Court Sidesteps Key Question Over Trump’s Use of Alien Enemies Act",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
+          "originalTitle": "Appeals Court Sidesteps Key Question Over Trump’s Use of Alien Enemies Act",
+          "content": "The court dismissed a case over the Alien Enemies Act in a messy conclusion to a long-running legal battle that had seemed destined to end up before the Supreme Court.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html",
+          "originalTitle": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
+          "content": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "content": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+          "originalTitle": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+          "content": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+          "originalTitle": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
+          "content": "Decrees restricting women’s rights to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-14",
+  "generatedAtKst": "2026. 8. 14. AM 7:31",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
