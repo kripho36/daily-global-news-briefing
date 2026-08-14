@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "President Trump Takes Credit for Steep Crime Rate Declines",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
+          "originalTitle": "President Trump Takes Credit for Steep Crime Rate Declines",
+          "content": "Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Navy Carrier’s Problems Are Tied to Attacks on U.S. Base Early in War",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+          "originalTitle": "Navy Carrier’s Problems Are Tied to Attacks on U.S. Base Early in War",
+          "content": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
+          "originalTitle": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
+          "content": "Ed Markey is hoping that his progressive politics will save him in Massachusetts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+          "originalTitle": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+          "content": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
+          "originalTitle": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
+          "content": "The campaign of Mary Peltola said it was focused on issues important to Alaska and did not approve a message of support from Ms. Harris.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+          "originalTitle": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+          "content": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html",
+          "originalTitle": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+          "content": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Protein or pickled garlic? What's new in ice cream",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Protein or pickled garlic? What's new in ice cream",
+          "content": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+          "originalTitle": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role",
+          "content": "A Virginia federal court has awarded the company the rights to collect, but not sell, items from the shipwreck. But the company says its earliest retrievals are governed by a French court.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
+          "originalTitle": "Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say",
+          "content": "The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-15",
+  "generatedAtKst": "2026. 8. 15. AM 7:12",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
