@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+          "content": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "content": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Australian state to launch gun buyback after Bondi Beach attack",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Australian state to launch gun buyback after Bondi Beach attack",
+          "content": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+          "originalTitle": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+          "content": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+          "originalTitle": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+          "content": "The U.S. attorney in Chicago subpoenaed a fund-raising firm that had been co-owned by the daughter of Judge Juan Merchan, who conducted the trial that led to Donald Trump’s felony conviction.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+          "originalTitle": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+          "content": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "content": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "content": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/us/ugliest-dog-contest-winner-2026.html",
+          "originalTitle": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
+          "content": "The rescued pug, who likes to dip her protruding tongue into the food bowls of everyone at home, emerged as the winner of the World’s Ugliest Dog Contest on Friday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "content": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-16",
+  "generatedAtKst": "2026. 8. 16. AM 7:11",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
