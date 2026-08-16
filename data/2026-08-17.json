@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "content": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+          "originalTitle": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+          "content": "The president’s son-in-law met the Palestinian militant group’s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US commander says mental health a 'priority' on USS Lincoln",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US commander says mental health a 'priority' on USS Lincoln",
+          "content": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/us/ugliest-dog-contest-winner-2026.html",
+          "originalTitle": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
+          "content": "The rescued pug, who likes to dip her protruding tongue into the food bowls of everyone at home, emerged as the winner of the World’s Ugliest Dog Contest on Friday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
+          "originalTitle": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
+          "content": "Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier’s nearly nine-month deployment but said mental health issues were lower than on other vessels.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "No Way Out",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
+          "originalTitle": "No Way Out",
+          "content": "The U.S. is building an archipelago of overseas detention sites where deportees are often held indefinitely without charge.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "content": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+          "originalTitle": "Indiana Prepares for More Rain After Days of Deadly Storms",
+          "content": "Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "content": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+          "originalTitle": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+          "content": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-17",
+  "generatedAtKst": "2026. 8. 17. AM 7:11",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
