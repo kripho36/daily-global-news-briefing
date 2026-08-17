@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-18 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Welcome to The Local: Twin Cities",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/us/the-local-twin-cities-launch.html",
+          "originalTitle": "Welcome to The Local: Twin Cities",
+          "content": "We’ll be sharing neighborhood news and, today, talking with Hope Walz. We’ll also be revealing what Wirecutter is reviewing at the State Fair.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html",
+          "originalTitle": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
+          "content": "We look at the crowded race to replace Byron Donalds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+          "content": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html",
+          "originalTitle": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
+          "content": "Ms. Peltola, the Democratic Senate candidate, fired a longtime senior aide and named a new campaign manager.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After the Earthquakes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html",
+          "originalTitle": "After the Earthquakes",
+          "content": "Venezuela and Japan both experienced major quakes this summer. Their responses differed, and not just because of money.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+          "originalTitle": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+          "content": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+          "originalTitle": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
+          "content": "Scrutiny over the gifts and support provided by George Cottrell to Mr. Farage, the Reform U.K. leader, will continue even after he won last week’s special election in Clacton.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+          "originalTitle": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+          "content": "The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+          "originalTitle": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+          "content": "Paramount’s $111 billion deal to acquire Warner Bros. Discovery has been postponed until the conclusion of a trial, a delay the studio says could cost it millions of dollars.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fifa official sacked after Infantino plan criticism",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Fifa official sacked after Infantino plan criticism",
+          "content": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-18",
+  "generatedAtKst": "2026. 8. 18. AM 7:14",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
