@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "A Rescue Mission in Remote Colombia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
+          "originalTitle": "A Rescue Mission in Remote Colombia",
+          "content": "Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Theater Chains Back Paramount-Warner Deal That States Say Will Hurt Them",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/business/cinemark-paramount-warner-deal-movie-theater-chains.html",
+          "originalTitle": "Theater Chains Back Paramount-Warner Deal That States Say Will Hurt Them",
+          "content": "America’s three largest movie theater companies have lined up behind David Ellison’s $111 billion merger of Paramount and Warner Bros. Discovery.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
+          "originalTitle": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+          "content": "The arrangement is one of the largest known deals that the Trump administration has struck to expel migrants who cannot be sent back to their home countries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
+          "originalTitle": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+          "content": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html",
+          "originalTitle": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead",
+          "content": "In the hamlet of Naalehu, the floods of Hurricane Lala opened graves. One mother sought desperately for her son.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Apple Removes Some Fees for App Developers in European Union",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+          "originalTitle": "Apple Removes Some Fees for App Developers in European Union",
+          "content": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+          "originalTitle": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+          "content": "Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In a Big Pivot, Seat-Back Screens Are Returning at American Airlines",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/travel/american-airlines-seatback-screens.html",
+          "originalTitle": "In a Big Pivot, Seat-Back Screens Are Returning at American Airlines",
+          "content": "In an announcement on Tuesday, the carrier promised screens at every seat in its narrow-body fleet, along with an expansion of its premium seating.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Officials Ignored Their Own University Investigations, Lawyer Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/us/trump-administration-university-investigations-whistleblower.html",
+          "originalTitle": "Trump Officials Ignored Their Own University Investigations, Lawyer Says",
+          "content": "A former Justice Department lawyer says Trump administration leaders ignored findings that elite schools, including Brown and Columbia, hadn’t broken the law as they pressed them into deals.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "University of Michigan Names President After Prior Pick Faced Brain Cancer",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/18/us/university-michigan-president-cybele-raver.html",
+          "originalTitle": "University of Michigan Names President After Prior Pick Faced Brain Cancer",
+          "content": "The university chose a Vanderbilt academic, Cybele Raver, after a previous candidate for the role had to step down because of a brain cancer diagnosis.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-19",
+  "generatedAtKst": "2026. 8. 19. AM 7:12",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
