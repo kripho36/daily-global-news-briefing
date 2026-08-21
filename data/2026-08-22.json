@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-22 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
+          "originalTitle": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
+          "content": "The duchess’s representatives have had exploratory talks about her joining a third season of “The Gentlemen,” two people said. Netflix has not yet ordered a third season of the show.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Court Slashes Award Alex Jones Was Ordered to Pay Sandy Hook Parents",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html",
+          "originalTitle": "Court Slashes Award Alex Jones Was Ordered to Pay Sandy Hook Parents",
+          "content": "An appeals court reduced the award to the parents of one victim to $6 million from $49 million, citing a Texas damages cap. The conspiracy theorist owes over $1 billion in other cases.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "content": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Small Plane Crashes in Western Alaska, Killing Eight",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/us/alaska-plane-crash.html",
+          "originalTitle": "Small Plane Crashes in Western Alaska, Killing Eight",
+          "content": "The Cessna aircraft was carrying two pilots, two U.S. Army engineers and four contractors to Cape Newenham from Anchorage when it crashed near a U.S. military site, investigators said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
+          "originalTitle": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+          "content": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+          "originalTitle": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+          "content": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Prison Firm Donated to Trump’s PAC After ICE Gave It $165 Million a Year in Contracts",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/geo-group-maga-inc-donations-ice-contracts.html",
+          "originalTitle": "Prison Firm Donated to Trump’s PAC After ICE Gave It $165 Million a Year in Contracts",
+          "content": "The GEO Group has profited from the administration’s mass deportation campaign. A subsidiary donated more than $1.4 million to the president’s super PAC last month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+          "content": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Desperation Mounts in Indiana After 10 Days Without Power",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html",
+          "originalTitle": "Desperation Mounts in Indiana After 10 Days Without Power",
+          "content": "Floods from powerful thunderstorms devastated Gary, a city where a third of residents live below the poverty line. Full power restoration isn’t expected until next week.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Overlooked No More: Patricia Douglas, Who Challenged Hollywood’s Culture of Abuse",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html",
+          "originalTitle": "Overlooked No More: Patricia Douglas, Who Challenged Hollywood’s Culture of Abuse",
+          "content": "Eight decades before the #MeToo groundswell, she took MGM to court after alleging she was attacked at a studio party in 1937.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-22",
+  "generatedAtKst": "2026. 8. 22. AM 7:13",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
