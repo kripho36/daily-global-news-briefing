@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-23 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+          "originalTitle": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+          "content": "In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+          "originalTitle": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+          "content": "To create a new bootcamp for entrepreneurs, Harvard Business School made A.I. avatars of its instructors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Two British Historians Made a Smash Hit Podcast",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+          "originalTitle": "How Two British Historians Made a Smash Hit Podcast",
+          "content": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+          "originalTitle": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+          "content": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nancy Kassebaum, First Woman to Chair a Major Senate Panel, Dies at 94",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/us/politics/nancy-kassebaum-dead.html",
+          "originalTitle": "Nancy Kassebaum, First Woman to Chair a Major Senate Panel, Dies at 94",
+          "content": "A moderate Republican from Kansas, she served three terms before tiring of political strife. “I couldn’t get elected today,” she said in 2013.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "content": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Carney faces crucial test after walking away from Trump's deal",
+          "content": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html",
+          "originalTitle": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+          "content": "The discussions on Monday are an early effort to resolve a lawsuit that California and 11 other states filed to block Paramount’s $111 billion acquisition of Warner Bros. Discovery.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why the Lindsay Clancy Case Is Dividing Americans",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/us/lindsay-clancy-mothers-kill-children-punishment.html",
+          "originalTitle": "Why the Lindsay Clancy Case Is Dividing Americans",
+          "content": "She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+          "originalTitle": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+          "content": "Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-23",
+  "generatedAtKst": "2026. 8. 23. AM 7:12",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
