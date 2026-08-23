@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-24 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+          "originalTitle": "Trump’s Economic Approach Draws Concern From Some Republicans",
+          "content": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
+          "originalTitle": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+          "content": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "French Tourist Dies in Death Valley During 116-Degree Heat",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/us/french-tourist-dead-death-valley.html",
+          "originalTitle": "French Tourist Dies in Death Valley During 116-Degree Heat",
+          "content": "The 68-year-old tourist and his companion were driving through Death Valley National Park on a remote road last week when their car got stuck in mud, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+          "originalTitle": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+          "content": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Price of Bread",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html",
+          "originalTitle": "The Price of Bread",
+          "content": "War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump waves green flag to start IndyCar race through Washington streets",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump waves green flag to start IndyCar race through Washington streets",
+          "content": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "content": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Guinea rubbish landfill collapse kills 30",
+          "content": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+          "originalTitle": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+          "content": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About the Ebola Outbreak Centered in Congo",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+          "originalTitle": "What to Know About the Ebola Outbreak Centered in Congo",
+          "content": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-24",
+  "generatedAtKst": "2026. 8. 24. AM 7:11",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
