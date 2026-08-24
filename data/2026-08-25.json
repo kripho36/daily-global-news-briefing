@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Martha’s Vineyard Property Once Owned by Jackie Kennedy Onassis Is Now Open to All",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/100000011110027/jackie-kennedy-onassis-marthas-vineyard.html",
+          "originalTitle": "Martha’s Vineyard Property Once Owned by Jackie Kennedy Onassis Is Now Open to All",
+          "content": "Visitors to Martha’s Vineyard can now traverse a property once owned by Jackie Kennedy Onassis. Known as the Squibnocket Pond Reservation, the 330-acre reserve opened last year and added a new trail in July.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+          "content": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is the Supreme Court’s Shadow Docket Changing?",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/politics/100000011086271/is-the-supreme-courts-shadow-docket-changing.html",
+          "originalTitle": "Is the Supreme Court’s Shadow Docket Changing?",
+          "content": "The Supreme Court’s emergency docket has shrunk in recent months, and the way justices issue opinions on these cases has also changed. Our reporter Ann Marimow looks at what these shifts tell us about the justices, and what it could mean for the court.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is Trump’s Endorsement of Darline Graham Enough in South Carolina Senate Runoff?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-darline-graham-south-carolina-runoff.html",
+          "originalTitle": "Is Trump’s Endorsement of Darline Graham Enough in South Carolina Senate Runoff?",
+          "content": "The president has made a big bet on a senator’s sister.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Karen Solomon, Wife Charged in Massachusetts Officer’s Death, Is Believed Dead",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/us/karen-solomon-dead-worcester.html",
+          "originalTitle": "Karen Solomon, Wife Charged in Massachusetts Officer’s Death, Is Believed Dead",
+          "content": "Karen Solomon, 58, a longtime advocate for the mental health of emergency workers, had been missing for six days after her husband, a police officer, was found dead.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+          "originalTitle": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+          "content": "The Hawk fire has burned more than 15,000 acres since it began on Saturday in the foothills of the Sierra Nevada near Reno.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+          "content": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+          "originalTitle": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+          "content": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Suspect Was Outrunning the Police. So the Officers Jumped in an Uber.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/us/anthony-baines-houston-police-pursuit.html",
+          "originalTitle": "A Suspect Was Outrunning the Police. So the Officers Jumped in an Uber.",
+          "content": "Anthony Baines was on his way to pick up an Uber customer in Houston. Then, suddenly, he was driving two officers in a low-speed pursuit.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
+          "originalTitle": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+          "content": "Regulators sent subpoenas to major Wall Street banks seeking information about the trading of Situational Awareness, three people briefed on the outreach said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-25",
+  "generatedAtKst": "2026. 8. 25. AM 7:15",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
