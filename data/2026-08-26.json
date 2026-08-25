@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-26 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+          "originalTitle": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+          "content": "While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+          "originalTitle": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+          "content": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Conservative Gay Rights Group Ends Support for Trans Causes",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html",
+          "originalTitle": "Conservative Gay Rights Group Ends Support for Trans Causes",
+          "content": "The Log Cabin Republicans, which is dedicated to gay causes, says that trans rights advocates focus too much on minors.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Dolly Parton Was Someone We Could All Agree On. Even in Polls.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/us/dolly-parton-polls-bipartisan.html",
+          "originalTitle": "Dolly Parton Was Someone We Could All Agree On. Even in Polls.",
+          "content": "Few could match the bipartisan support that Ms. Parton received in public opinion polls. Not even Taylor Swift.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Forbes and Shook Research Suspend Rankings Amid Investigation of $6 Million Payment",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/business/media/forbes-shook-research-payment.html",
+          "originalTitle": "Forbes and Shook Research Suspend Rankings Amid Investigation of $6 Million Payment",
+          "content": "The magazine, which is reviewing a payment from the founder of Shook Research to its former top editor, also canceled a summit in Las Vegas scheduled for October.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+          "originalTitle": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
+          "content": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
+          "originalTitle": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
+          "content": "The justices are still struggling with whether and when to explain themselves to the public when the court issues temporary, but consequential, orders.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+          "originalTitle": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+          "content": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Where Does Trump’s Executive Order Restricting Mail Voting Stand?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html",
+          "originalTitle": "Where Does Trump’s Executive Order Restricting Mail Voting Stand?",
+          "content": "The Supreme Court on Monday allowed the Trump administration to continue with plans to curtail mail-in voting, but the fast-moving, high-stakes legal fight continues.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
+          "originalTitle": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+          "content": "Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-26",
+  "generatedAtKst": "2026. 8. 26. AM 7:16",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
