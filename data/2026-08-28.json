@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What we know about deadly Nepal-Tibet floods",
+          "content": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Rescuers Search for Missing and Stranded Under Threat of More Floods",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+          "originalTitle": "Live Updates: Rescuers Search for Missing and Stranded Under Threat of More Floods",
+          "content": "Officials said hundreds were killed in Nepal and Tibet, and more than 1,400 people are missing. Stunned witnesses described a torrent of debris and water carrying away villages in minutes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What do you spend too much on?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What do you spend too much on?",
+          "content": "Shoppers in central London reveal what they love to splash out on - and share their tips for not overspending.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "LA Mayor Karen Bass Eases Street Vending Crackdown After Debate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/27/us/los-angeles-street-vendors-karen-bass.html",
+          "originalTitle": "LA Mayor Karen Bass Eases Street Vending Crackdown After Debate",
+          "content": "Mayor Karen Bass said food vendors discourage restaurant patrons, mentioning them alongside homeless encampments. Her opponent, Nithya Raman, said vendors should be brought into the system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+          "content": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Nepal, Fears of a Second Flood Grow as Rescue Efforts Continue",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flash-floods-rescue.html",
+          "originalTitle": "In Nepal, Fears of a Second Flood Grow as Rescue Efforts Continue",
+          "content": "Nepali and Chinese authorities warned that a lake created by a deadly landslide could burst open soon. Another deluge would pose the most risk to rescuers, an expert said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/26/world/asia/flood-nepal-tibet.html",
+          "originalTitle": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
+          "content": "An ice avalanche that started high in the Himalayas tumbled thousands of feet, releasing vast amounts of energy that pulverized the ice into a significant volume of floodwater.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html",
+          "originalTitle": "C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit",
+          "content": "John Ratcliffe’s meeting this week with a Russian intelligence chief was aimed at pushing the Kremlin to pursue a peace deal with Ukraine.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How The New York Times Covers Harry, Meghan and the Royal Family",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
+          "originalTitle": "How The New York Times Covers Harry, Meghan and the Royal Family",
+          "content": "What led to the surprising return of Meghan and Harry to Britain? What will it mean? Our journalists, and many competitors, are seeking answers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Palestine Action Activists Accused of Vandalism at Trump Turnberry Face Terrorism Accusation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/world/europe/palestine-action-trump-golf-course.html",
+          "originalTitle": "Palestine Action Activists Accused of Vandalism at Trump Turnberry Face Terrorism Accusation",
+          "content": "Prosecutors will seek to prove that members of Palestine Action who they say painted “Gaza is not 4 sale” on the Scottish golf course last year committed acts connected to terrorism.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-28",
+  "generatedAtKst": "2026. 8. 28. PM 2:52",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
