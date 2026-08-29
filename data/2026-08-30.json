@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-30 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html",
+          "originalTitle": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
+          "content": "Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, faced criticism from Jewish Democrats after remarking, “hurt people hurt people.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+          "originalTitle": "Treasury Bars Some Reporters From G20 Finance Meeting",
+          "content": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+          "originalTitle": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+          "content": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
+          "originalTitle": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
+          "content": "The intensity of Saturday’s assault prompted condemnations from Prime Minister Benjamin Netanyahu of Israel and other officials.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+          "originalTitle": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+          "content": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I've been to Gamescom six times - here's what excited me this year",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I've been to Gamescom six times - here's what excited me this year",
+          "content": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html",
+          "originalTitle": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
+          "content": "Mr. Yiannopoulos, an early supporter of President Trump and vocal supporter of mass deportations, was himself sent back to his home country, part of a long fall from right-wing grace.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html",
+          "originalTitle": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner",
+          "content": "The administration will work with a private Venezuelan oil company that has close ties to the country’s government.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html",
+          "originalTitle": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
+          "content": "A deal giving the U.S. majority control of vast Venezuelan reserves strikes at the heart of national identity.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-30",
+  "generatedAtKst": "2026. 8. 30. AM 8:43",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
