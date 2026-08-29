@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-29 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "content": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+          "originalTitle": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil",
+          "content": "The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html",
+          "originalTitle": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
+          "content": "The turmoil has left a leadership vacuum in the Army at a moment when it is trying to find ways to defend troops against the threat posed by cheap drones.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "George Cave, C.I.A. Agent With a Role in Iran-Contra, Dies at 97",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/us/george-w-cave-dead.html",
+          "originalTitle": "George Cave, C.I.A. Agent With a Role in Iran-Contra, Dies at 97",
+          "content": "He worked throughout the Middle East before joining a secret team that tried to obtain the release of Western hostages in Lebanon in exchange for arms sent to Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
+          "originalTitle": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+          "content": "The ruling was a win for Stanford’s student newspaper, The Stanford Daily, and it followed another court victory for students targeted by the Trump administration last year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
+          "originalTitle": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+          "content": "President Trump presented the Congressional Space Medal of Honor to the Artemis II crew, which took a journey around the moon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "content": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/us/walmart-opioid-lawsuit-settlement.html",
+          "originalTitle": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says",
+          "content": "The resolution is part of an effort to hold retailers and pharmacists accountable for what the government says were their roles in the opioid epidemic.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+          "originalTitle": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+          "content": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nepal’s Hydropower Industry Was Booming. Now 900 Workers Are Missing.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/28/world/asia/nepals-hydropower-industry-was-booming-now-900-workers-are-missing.html",
+          "originalTitle": "Nepal’s Hydropower Industry Was Booming. Now 900 Workers Are Missing.",
+          "content": "Videos show rescuers pulling people out of hydropower tunnels, as hundreds of workers remain missing after a deadly flood.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-29",
+  "generatedAtKst": "2026. 8. 29. PM 12:25",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
