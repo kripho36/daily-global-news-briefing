@@ -1,0 +1,107 @@
+{
+  "title": "2026-08-31 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "content": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+          "content": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Baby Goats From a Traveling Petting Zoo Test Positive for Rabies",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html",
+          "originalTitle": "Baby Goats From a Traveling Petting Zoo Test Positive for Rabies",
+          "content": "Farm Adventures of Harmony, N.C., owned the goats, state health officials said. It was unclear how many people might have been exposed to them since late July.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
+          "originalTitle": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+          "content": "The exchange on Sunday was the first known military action between the two nations in a month, raising the risk of a renewed round of fighting.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "15 People May Be Missing at Grand Canyon After Flash Flood",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html",
+          "originalTitle": "15 People May Be Missing at Grand Canyon After Flash Flood",
+          "content": "At least 62 people were evacuated on Saturday after flooding destroyed nearly all the footbridges across Bright Angel Creek in Arizona and cut off hikers’ access, the National Park Service said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html",
+          "originalTitle": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
+          "content": "Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+          "content": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+          "originalTitle": "Treasury Bars Some Reporters From G20 Finance Meeting",
+          "content": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html",
+          "originalTitle": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race",
+          "content": "Senator Ed Markey of Massachusetts has emerged as a vocal defender of transgender rights as he tries to fend off a primary challenge from Representative Seth Moulton.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+          "originalTitle": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+          "content": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-31",
+  "generatedAtKst": "2026. 8. 31. AM 9:02",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
