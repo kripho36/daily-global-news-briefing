@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-02 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+          "originalTitle": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+          "content": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+          "originalTitle": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+          "content": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+          "originalTitle": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+          "content": "The renewed hostilities underscore how a durable solution to the conflict remains far-off.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jerome Smith, Freedom Rider Who Challenged Robert Kennedy, Dies at 87",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/us/jerome-smith-dead.html",
+          "originalTitle": "Jerome Smith, Freedom Rider Who Challenged Robert Kennedy, Dies at 87",
+          "content": "He castigated Robert F. Kennedy for failing to protect civil rights activists, forcing the attorney general to reckon with the depth of Black anger.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
+          "originalTitle": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+          "content": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Will self-flying planes transform the skies?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Will self-flying planes transform the skies?",
+          "content": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Soft launches and late sittings - six ways to get cheaper meals out",
+          "content": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Haitian Student, Despondent Over Ankle Monitor, Dies in Apparent Suicide",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/us/haiti-ankle-monitor-immigration-suicide.html",
+          "originalTitle": "Haitian Student, Despondent Over Ankle Monitor, Dies in Apparent Suicide",
+          "content": "The 20-year-old was fitted with a tracking device under a Trump administrative initiative targeting Haitians in Springfield, Ohio.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Department Sues Kansas City Schools Over Gender Policy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/us/politics/transgender-kansas-doj-lawsuit.html",
+          "originalTitle": "Justice Department Sues Kansas City Schools Over Gender Policy",
+          "content": "In the first such lawsuit, the Trump administration accused the district of hiding students’ gender transition from their parents against federal law.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Nearly 200-Year-Old Museum Known for Its T. Rex Faces Extinction",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
+          "originalTitle": "A Nearly 200-Year-Old Museum Known for Its T. Rex Faces Extinction",
+          "content": "The Academy of Natural Sciences in Philadelphia, which is affiliated with Drexel University, cited attendance struggles and higher costs in its decision to close.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-02",
+  "generatedAtKst": "2026. 9. 2. AM 8:40",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
