@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-01 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+          "originalTitle": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
+          "content": "Vice President JD Vance also told Dr. Abdul El-Sayed, Michigan’s Democratic Senate nominee, to “keep my wife’s name out of your mouth.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+          "content": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+          "originalTitle": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
+          "content": "A Kentucky farmer, he railed against agribusiness and championed small family farms and the environment, winning widespread acclaim.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "This Marine Died in the Iraq War. His Mother Asks, ‘What Was It For?’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
+          "originalTitle": "This Marine Died in the Iraq War. His Mother Asks, ‘What Was It For?’",
+          "content": "Travis Fuller was from my hometown. I went back and talked with his family about how they made sense of his death, 25 years after Sept. 11.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Expedia Fights Off Claim for Damages by Cuban Exile Families",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/world/americas/expedia-cuba-exiles-suit.html",
+          "originalTitle": "Expedia Fights Off Claim for Damages by Cuban Exile Families",
+          "content": "A jury in Florida found that in their suit against the travel booking company, the plaintiffs had failed to prove ownership over tourism properties in Cuba.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Donald Trump Jr.’s Firm Leads $1 Billion Funding Round for Polymarket",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/business/polymarket-funding-trump.html",
+          "originalTitle": "Donald Trump Jr.’s Firm Leads $1 Billion Funding Round for Polymarket",
+          "content": "The new round values the prediction market at $21 billion, up from $15 billion. Mr. Trump’s firm, 1789 Capital, will invest around $300 million.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Teen Charged With Murder After Livestreaming San Diego Mosque Shooting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/san-diego-mosque-shooting-livestream-murder-charge.html",
+          "originalTitle": "Teen Charged With Murder After Livestreaming San Diego Mosque Shooting",
+          "content": "The authorities said the 17-year-old from North Carolina had recorded the attack, which killed three people in May. “She ran with the pack — she shared in the kill,” the district attorney said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
+          "originalTitle": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
+          "content": "The giant computing sites that power A.I. are increasingly opposed by communities across the country, a signal of voters’ concern about a changing economy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+          "originalTitle": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
+          "content": "The resignation of Daniel P. Driscoll, the secretary of the Army, had been expected but comes at a tumultuous time for the service.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Defendants in Minnesota Church Protest Case Challenge Charges in Flurry of Motions",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/us/politics/minnesota-church-protest-immigration.html",
+          "originalTitle": "Defendants in Minnesota Church Protest Case Challenge Charges in Flurry of Motions",
+          "content": "In their broadest assault yet against the charges, lawyers for the defendants pointed to the unusual investigative tactics the administration deployed to make the case against them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-01",
+  "generatedAtKst": "2026. 9. 1. AM 9:54",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
