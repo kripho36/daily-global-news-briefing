@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-03 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html",
+          "originalTitle": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
+          "content": "The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+          "content": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "2 Police Officers Among 7 Shot in Minneapolis",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html",
+          "originalTitle": "2 Police Officers Among 7 Shot in Minneapolis",
+          "content": "A hospital official said one person died, but the victim’s identity was unknown. Residents were warned to stay away from the downtown apartment building where the violence erupted.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Almost half of households do not see benefits of economic growth, report says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Almost half of households do not see benefits of economic growth, report says",
+          "content": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I don't even like them': How much should you give to office gift collections?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I don't even like them': How much should you give to office gift collections?",
+          "content": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
+          "originalTitle": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
+          "content": "The Trump administration wants to bar Medicaid and the Children’s Health Insurance Program from paying for gender-transition medication and surgery for transgender adolescents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+          "originalTitle": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+          "content": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Uber and Wayve to Start Testing Robotaxis in London",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/business/uber-wayve-london.html",
+          "originalTitle": "Uber and Wayve to Start Testing Robotaxis in London",
+          "content": "Uber and the British start-up Wayve are the latest to start testing autonomous cars in one of the world’s largest markets for ride-hailing services.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In the Midterms, Will the Nepo-Baby Attack Work?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
+          "originalTitle": "In the Midterms, Will the Nepo-Baby Attack Work?",
+          "content": "A New Hampshire senator’s daughter is running for office, and finds her name being used against her.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Woman Who Killed Husband Decades Ago Is Sentenced for Killing Wife",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/02/us/yolanda-marodi-wife-killed-california-sentenced.html",
+          "originalTitle": "Woman Who Killed Husband Decades Ago Is Sentenced for Killing Wife",
+          "content": "A woman in California will face 36 years to life in prison after previously serving time for a stabbing death in 2000.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-03",
+  "generatedAtKst": "2026. 9. 3. AM 8:41",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
