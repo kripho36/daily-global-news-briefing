@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Could robots be the future of theme parks?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Could robots be the future of theme parks?",
+          "content": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Volkswagen Plans to Cut 50,000 Jobs",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html",
+          "originalTitle": "Volkswagen Plans to Cut 50,000 Jobs",
+          "content": "Facing growing competition from China and rapidly advancing technology, the German auto giant said its board had approved a “comprehensive” overhaul.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Minneapolis Shooting Began During a Custody Exchange, Officials Said",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/us/minneapolis-shooting-attacker-eviction.html",
+          "originalTitle": "Minneapolis Shooting Began During a Custody Exchange, Officials Said",
+          "content": "The gunman, who killed two people and wounded several others at an apartment building, died in an exchange of gunfire with the police, authorities said on Thursday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rogers Stadium in Toronto Is Severely Damaged in Thunderstorm",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html",
+          "originalTitle": "Rogers Stadium in Toronto Is Severely Damaged in Thunderstorm",
+          "content": "The music venue, which opened in 2025, was built specifically for large concerts. The fate of its next show, featuring AC/DC, is unclear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Is Sentenced in Explosion of Hyperbaric Chamber That Killed a 5-Year-Old",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/us/hyperbaric-chamber-child-death-michigan-sentencing.html",
+          "originalTitle": "Man Is Sentenced in Explosion of Hyperbaric Chamber That Killed a 5-Year-Old",
+          "content": "The former safety manager of a Michigan alternative health care center will spend at least 19 months in jail in connection with the January 2025 death.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+          "content": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/03/us/lindsay-clancy-trial-deadlock/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html",
+          "originalTitle": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
+          "content": "The new Cybercab embodies Elon Musk’s vision of cars that drive themselves, but it is not clear when the vehicle will be widely available.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+          "originalTitle": "Plans Announced to Break Ground on Trump’s Triumphal Arch Before Final Approval",
+          "content": "Doug Burgum, the interior secretary, announced plans to start work on the site of the 250-foot-tall triumphal arch. Final approval of the project is still pending.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+          "content": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-04",
+  "generatedAtKst": "2026. 9. 4. AM 8:42",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
