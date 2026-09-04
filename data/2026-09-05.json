@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-05 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
+          "originalTitle": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
+          "content": "The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
+          "originalTitle": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+          "content": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says He Will Spend Some of His War Chest on Republicans",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
+          "originalTitle": "Trump Says He Will Spend Some of His War Chest on Republicans",
+          "content": "President Trump said he intends to hold some money back, even as Republican candidates ask for financial support.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Germany's far-right AfD bids for first taste of power in eastern vote",
+          "content": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fake Republican Midterm Convention Website Redirects Visitors to Epstein Files",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/republican-midterm-convention-epstein-files.html",
+          "originalTitle": "Fake Republican Midterm Convention Website Redirects Visitors to Epstein Files",
+          "content": "A spoof of the G.O.P. convention site tricked people for weeks, before redirecting them to the Justice Department’s library of Epstein files.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
+          "originalTitle": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
+          "content": "The Trump administration’s effort to screen mail-in ballots for the midterms is facing numerous challenges.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html",
+          "originalTitle": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
+          "content": "The changes are almost certain to cause some votes to be tossed. They come at a time when President Trump is promoting false claims of widespread fraud in mail voting.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
+          "originalTitle": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
+          "content": "The president issued pardons or commutations to 30 people on Thursday, continuing his unorthodox and unpredictable use of clemency power.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html",
+          "originalTitle": "9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal",
+          "content": "One of two workers rescued from a hydroelectric plant said he had recited prayers over and over while trapped deep underground. “How many days has it been?” he asked.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+          "content": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-05",
+  "generatedAtKst": "2026. 9. 5. AM 8:34",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
