@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-06 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "content": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Sympathetic Plaintiff and Well-Crafted Defense Dominated Clancy Trial",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html",
+          "originalTitle": "A Sympathetic Plaintiff and Well-Crafted Defense Dominated Clancy Trial",
+          "content": "The defense lawyer for Lindsay Clancy showed empathy for his client in showcasing her mental health problems. That may have made all the difference.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html",
+          "originalTitle": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+          "content": "The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US and Iran trade retaliatory attacks on ships as conflict flares",
+          "content": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+          "originalTitle": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
+          "content": "Mike Huckabee, the U.S. ambassador to Israel, made a rare trip to meet with Palestinians after international backlash over attacks by Israeli settlers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Robin Morgan, Voice of Radical Feminism, Dies at 85",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/us/robin-morgan-dead.html",
+          "originalTitle": "Robin Morgan, Voice of Radical Feminism, Dies at 85",
+          "content": "She edited the landmark 1970 anthology “Sisterhood Is Powerful,” led Ms. magazine and helped build the institutions of the modern feminist movement.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US envoys meet Putin in Moscow for Ukraine talks",
+          "content": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "TV presenter among 11 sentenced to death in Egypt drugs case",
+          "content": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+          "originalTitle": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+          "content": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+          "originalTitle": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+          "content": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-06",
+  "generatedAtKst": "2026. 9. 6. AM 8:27",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
