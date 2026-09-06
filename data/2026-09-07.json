@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-07 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "The £70 refund letter that isn't a scam",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The £70 refund letter that isn't a scam",
+          "content": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/06/us/miami-plane-crash/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
+          "originalTitle": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+          "content": "A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections across Europe next year, analysts said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
+          "originalTitle": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+          "content": "The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+          "content": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Arrested After Pushing Toward Democratic Candidate for Ohio Governor",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html",
+          "originalTitle": "Man Arrested After Pushing Toward Democratic Candidate for Ohio Governor",
+          "content": "A spokeswoman for the campaign of Amy Acton, the Democratic nominee, said “multiple people” were injured when an “armed individual” lunged at her during a county fair.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
+          "originalTitle": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
+          "content": "Officials said 5 others were injured. Flights were halted for hours at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+          "originalTitle": "Live Updates: Germany’s Far Right Tops Key State Race, but Falls Short of Power",
+          "content": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become the first far-right party to govern a state since 1945.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+          "content": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "India's high-stakes exam system faces a crisis of trust",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "India's high-stakes exam system faces a crisis of trust",
+          "content": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-07",
+  "generatedAtKst": "2026. 9. 7. AM 8:21",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
