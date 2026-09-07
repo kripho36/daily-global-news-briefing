@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-08 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Eiffel Tower shut by staff protest after women moved for religious visit",
+          "content": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+          "originalTitle": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+          "content": "A cargo plane, operated for Amazon, plowed into two vehicles on Sunday, leaving five more injured and disrupting Labor Day weekend travel for thousands.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A food safety officer has become a social media star in India - why?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "A food safety officer has become a social media star in India - why?",
+          "content": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "content": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+          "content": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "content": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "content": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Food price cap plans giving farmer 'sleepless nights'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Food price cap plans giving farmer 'sleepless nights'",
+          "content": "East Lothian farmer Jamie Wyllie says he's worried costs will get passed down the line to the food producers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+          "originalTitle": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+          "content": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
+          "originalTitle": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+          "content": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-08",
+  "generatedAtKst": "2026. 9. 8. AM 8:51",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
