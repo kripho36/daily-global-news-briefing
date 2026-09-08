@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Diverging Court Rulings Leave Missouri’s Congressional Map Unclear",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html",
+          "originalTitle": "Diverging Court Rulings Leave Missouri’s Congressional Map Unclear",
+          "content": "After losing in two courts and winning in another, Missouri officials said they planned to forge ahead with using a congressional map that was redrawn to benefit Republicans.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+          "originalTitle": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+          "content": "Iran said it had retaliated by launching missiles at Jordan, raising the specter of still more fighting.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Meta continues to run ads promoting child sexual abuse material in India - report",
+          "content": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At 9/11 Tribute, Trump Adds New Claim to His Disputed Role After Attack",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html",
+          "originalTitle": "At 9/11 Tribute, Trump Adds New Claim to His Disputed Role After Attack",
+          "content": "President Trump has long sought to position himself close to the Sept. 11 recovery effort and has made a series of questionable and provocative statements to burnish his political brand.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada’s Carney Doubles Down on Pivot Away from the United States",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/08/world/canada/carney-trump-canada-us-trade-war.html",
+          "originalTitle": "Canada’s Carney Doubles Down on Pivot Away from the United States",
+          "content": "With tariffs on U.S. goods in effect and high-profile international engagements coming up, the Canadian leader keeps moving toward his goal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+          "content": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chinese Threat Requires a Broader Spying Mission, C.I.A. Deputy Director Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/08/us/politics/cia-deputy-director-china.html",
+          "originalTitle": "Chinese Threat Requires a Broader Spying Mission, C.I.A. Deputy Director Says",
+          "content": "China’s economic competition with the United States makes Chinese companies a legitimate target, the agency’s deputy director, Michael Ellis, said at a conference.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "content": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+          "content": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Should promotion depend on how workers use AI?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Should promotion depend on how workers use AI?",
+          "content": "More companies are tying career progression to AI use: is that fair?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-09",
+  "generatedAtKst": "2026. 9. 9. AM 8:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
