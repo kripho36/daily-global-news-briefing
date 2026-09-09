@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Fetterman Appears in Video in Opening Night of Trump’s Convention",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
+          "originalTitle": "Fetterman Appears in Video in Opening Night of Trump’s Convention",
+          "content": "Senator John Fetterman, who has become alienated from his own party, made a surprise virtual appearance, breaking with Democrats’ midterm message,",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Trump’s Republican Midterm ‘Convention’ Isn’t a Real Convention",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-gop-party.html",
+          "originalTitle": "Why Trump’s Republican Midterm ‘Convention’ Isn’t a Real Convention",
+          "content": "No nominations or formal party business will be happening, as they would at a traditional presidential convention. But the made-for-TV speeches will look much the same.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The one thing you need to do to succeed - according to top bosses",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The one thing you need to do to succeed - according to top bosses",
+          "content": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Texas Republicans Are Turning Against Data Centers. Will It Matter in November?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html",
+          "originalTitle": "Texas Republicans Are Turning Against Data Centers. Will It Matter in November?",
+          "content": "The industry’s rapid expansion has scrambled traditional political alliances and forced G.O.P. leaders to respond to a backlash from some of their most reliable rural voters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
+          "originalTitle": "Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race",
+          "content": "The proposals for 2030 are among significant changes that would upend a process for helping allot congressional seats and shape policies that address disparities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Much Does Trump Care Who Wins the Midterms?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterm-strategy.html",
+          "originalTitle": "How Much Does Trump Care Who Wins the Midterms?",
+          "content": "President Trump’s convention has kicked off in Dallas, so we asked Maggie Haberman to help make sense of his midterm strategy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "States File 2 Lawsuits Over Trump’s Cuts to Endangered Species Act",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/climate/lawsuit-trump-endangered-species-act.html",
+          "originalTitle": "States File 2 Lawsuits Over Trump’s Cuts to Endangered Species Act",
+          "content": "Two lawsuits seek to reverse the Trump administration’s moves to open the habitats of imperiled wildlife to commercial activities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+          "originalTitle": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+          "content": "As British farmers confront intense heat waves tied to climate change, some are cultivating new crops rarely grown in their country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For G.O.P. candidates in tight Senate races, attending Trump’s convention is a thorny choice.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/for-gop-candidates-in-tight-senate-races-attending-trumps-convention-is-a-thorny-choice",
+          "originalTitle": "For G.O.P. candidates in tight Senate races, attending Trump’s convention is a thorny choice.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-10",
+  "generatedAtKst": "2026. 9. 10. AM 8:40",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
