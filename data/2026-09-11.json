@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
+          "originalTitle": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
+          "content": "The owner of The Miami Herald said subscriber interest did not support its current level of investment. One employee called the layoffs a “blood bath.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Loyalist Steps Down From ‘Grand Conspiracy’ Case",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
+          "originalTitle": "Trump Loyalist Steps Down From ‘Grand Conspiracy’ Case",
+          "content": "The inquiry has long been the most fevered of the many revenge investigations that President Trump has demanded the Justice Department undertake.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/10/us/politics/kawhi-leonard-clippers-nba-justice-department.html",
+          "originalTitle": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
+          "content": "The investigation, by the U.S. attorney’s office in Brooklyn, is in its earliest stages, leaving it unclear whether criminal charges will ensue.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Can Europe recharge its battery industry?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Can Europe recharge its battery industry?",
+          "content": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I asked my husband to pay into my pension when we had a child - here's why",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I asked my husband to pay into my pension when we had a child - here's why",
+          "content": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Are interest rates on the way up again?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Are interest rates on the way up again?",
+          "content": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Watch: Three times Trump has promised money to Americans",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: Three times Trump has promised money to Americans",
+          "content": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "D.H.S. Takes Down Post Depicting Sikh Trucker and Optimus Prime",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/10/us/politics/dhs-sikh-optimus-prime.html",
+          "originalTitle": "D.H.S. Takes Down Post Depicting Sikh Trucker and Optimus Prime",
+          "content": "Critics said the post, which showed the popular Transformers character facing off against “Mr. Singh,” stigmatized Sikhs, and Hasbro objected to the use of its brand.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As tough midterms loom, the president hosts a ‘Trump-a-palooza.’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/as-tough-midterms-loom-the-president-hosts-a-trump-a-palooza",
+          "originalTitle": "As tough midterms loom, the president hosts a ‘Trump-a-palooza.’",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-11",
+  "generatedAtKst": "2026. 9. 11. AM 8:33",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
