@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-12 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html",
+          "originalTitle": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+          "content": "The plan — quickly challenged by a local court — came days after Colombia’s president and the U.S. secretary of state, Marco Rubio, discussed stronger measures against drug trafficking.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Women Special Operations Veterans Remember Their Battles",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html",
+          "originalTitle": "Women Special Operations Veterans Remember Their Battles",
+          "content": "The only fraternal organization for women special operations veterans held a gala to mark the wars that began 25 years ago. It came as the Pentagon questions women’s roles in the military.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Arrest made over the death of black woman found hanged from tree",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Arrest made over the death of black woman found hanged from tree",
+          "content": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+          "originalTitle": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+          "content": "The news briefly pushed the price of oil to $110 a barrel over heightened fears of widening clashes in the Middle East.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+          "originalTitle": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+          "content": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Will Stark Warnings About AI Shape the Midterm Elections?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
+          "originalTitle": "Will Stark Warnings About AI Shape the Midterm Elections?",
+          "content": "Stark warnings from A.I. researchers have reverberated across the country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "content": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chaos, Confusion and Court Dockets: The Fight for Missouri’s House Map",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/us/missouri-congressional-redistricting-chaos.html",
+          "originalTitle": "Chaos, Confusion and Court Dockets: The Fight for Missouri’s House Map",
+          "content": "After the U.S. Supreme Court blocked a congressional map used in the primary, election officials, candidates and voters are scrambling to adjust before November.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to Make Sense of Mayhem in the Bond Market",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
+          "originalTitle": "How to Make Sense of Mayhem in the Bond Market",
+          "content": "The stock market is easy to talk about. But bonds are a different story. Our columnist has some pointers to help make you a bond maven.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
+          "originalTitle": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
+          "content": "The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-12",
+  "generatedAtKst": "2026. 9. 12. AM 8:42",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
