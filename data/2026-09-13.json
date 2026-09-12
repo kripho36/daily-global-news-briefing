@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+          "originalTitle": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+          "content": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+          "originalTitle": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+          "content": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+          "originalTitle": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+          "content": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+          "originalTitle": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+          "content": "Even so, finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their own interests.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+          "content": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Trump Is Wielding Power to Stifle Speech",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+          "originalTitle": "How Trump Is Wielding Power to Stifle Speech",
+          "content": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to Lure the Spendy and the Thrifty? Bring On the ‘Barbell.’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/business/barbell-pricing-restaurants.html",
+          "originalTitle": "How to Lure the Spendy and the Thrifty? Bring On the ‘Barbell.’",
+          "content": "Restaurant chains are trying to draw in both kinds of consumers by offering low-cost and more-premium options at the same time.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+          "content": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "content": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-13",
+  "generatedAtKst": "2026. 9. 13. AM 8:35",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
