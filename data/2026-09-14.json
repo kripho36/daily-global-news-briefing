@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Election in Sweden Is Too Close to Call",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
+          "originalTitle": "Election in Sweden Is Too Close to Call",
+          "content": "With most of the votes counted on Sunday, it was basically a tie between the center-left and center-right coalitions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How to protect your laptop, phone and bike from thieves at uni",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "How to protect your laptop, phone and bike from thieves at uni",
+          "content": "What should new students consider to keep your belongings safe and covered by insurance?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+          "originalTitle": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+          "content": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gloomy forecast for tenants as rent rises set to speed up",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Gloomy forecast for tenants as rent rises set to speed up",
+          "content": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+          "originalTitle": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+          "content": "President Trump’s decision, announced while visiting his golf course in Ireland, was the latest shift in his trade policies.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Oil Prices Jump on Energy Supply Worries",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+          "originalTitle": "Oil Prices Jump on Energy Supply Worries",
+          "content": "Oil prices jumped and stock futures fell slightly on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Swedish party blocs tied after Sunday vote, projections say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Swedish party blocs tied after Sunday vote, projections say",
+          "content": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As Millions of Birds Migrate, Residents Are Asked to Turn Off the Lights",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/12/us/bird-seasonal-migration-lights.html",
+          "originalTitle": "As Millions of Birds Migrate, Residents Are Asked to Turn Off the Lights",
+          "content": "Birds are drawn to lights, and more than a billion die each year after crashing into buildings, experts said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Culture shift' needed in how UK does business, PM urges",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Culture shift' needed in how UK does business, PM urges",
+          "content": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+          "originalTitle": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+          "content": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-14",
+  "generatedAtKst": "2026. 9. 14. AM 8:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
