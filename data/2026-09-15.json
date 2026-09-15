@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
+          "originalTitle": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+          "content": "The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
+          "originalTitle": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
+          "content": "Judge F. Dennis Saylor IV wrote that the administration’s reasons for a rule limiting the length of stay for academics and journalists were “exceptionally weak.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I got paid $5,000 to move to a place I'd never heard of",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I got paid $5,000 to move to a place I'd never heard of",
+          "content": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "content": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Blames Ukraine for Global Diesel Shortage",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/business/trump-ukraine-diesel.html",
+          "originalTitle": "Trump Blames Ukraine for Global Diesel Shortage",
+          "content": "President Trump said Ukraine’s attacks on Russian oil refineries were “hurting the world,” amid a global energy shock driven primarily by the U.S.-Israeli war with Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why is JD Vance Campaigning in Kansas, a Red State?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-campaign-midterms.html",
+          "originalTitle": "Why is JD Vance Campaigning in Kansas, a Red State?",
+          "content": "Why is JD Vance campaigning in a red state?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gavin Newsom Says He Won’t Run in 2028 if Kamala Harris Does",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html",
+          "originalTitle": "Gavin Newsom Says He Won’t Run in 2028 if Kamala Harris Does",
+          "content": "The comments made to CNN, if taken at face value, seemed to fly in the face of the California governor’s presidential ambitions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mitch McConnell Returns to Senate After Three Month Absence",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html",
+          "originalTitle": "Mitch McConnell Returns to Senate After Three Month Absence",
+          "content": "Senator Mitch McConnell, the 84-year-old Kentucky Republican and former leader, had been absent for more than 13 weeks after a health incident, fueling questions about his ability to continue serving.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+          "originalTitle": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+          "content": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Expect at the 2026 Emmy Awards",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html",
+          "originalTitle": "What to Expect at the 2026 Emmy Awards",
+          "content": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-15",
+  "generatedAtKst": "2026. 9. 15. AM 9:04",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
