@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Melania Trump Encourages Children to Build ‘the Next Great Robot’ With A.I.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/us/politics/melania-trump-encourages-children-to-build-the-next-great-robot-with-ai.html",
+          "originalTitle": "Melania Trump Encourages Children to Build ‘the Next Great Robot’ With A.I.",
+          "content": "The first lady, who has been a champion of A.I. during her husband’s second term, said the Mountain View Elementary School students should be at the forefront of technology.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "AI app ads promoting 'objectification of women' banned by watchdog",
+          "content": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Scrutiny of Jury May Complicate Future of Lindsay Clancy Case",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/us/lindsay-clancy-jury-selection-holdout.html",
+          "originalTitle": "Scrutiny of Jury May Complicate Future of Lindsay Clancy Case",
+          "content": "The intense public focus on the jurors whose deadlock led to a mistrial could complicate any attempt to retry the case, and to seat jurors in other high-profile cases.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The extreme engineering of aircraft windows",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The extreme engineering of aircraft windows",
+          "content": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
+          "originalTitle": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+          "content": "The president’s posts about artificial intelligence on the social media platform he founded were met with an unusual volume of criticism.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "We are all new job starters - here's how we got through the first few days",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "We are all new job starters - here's how we got through the first few days",
+          "content": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Complaints to watchdog about water firms jump 84%",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Complaints to watchdog about water firms jump 84%",
+          "content": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+          "originalTitle": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
+          "content": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Federal Employees Were Paid $9.5 Billion Not to Work in 2025 Under DOGE Effort",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html",
+          "originalTitle": "Federal Employees Were Paid $9.5 Billion Not to Work in 2025 Under DOGE Effort",
+          "content": "As part of the Department of Government Efficiency’s program to shrink the federal work force, paid administrative leave costs rose by 435 percent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "McCarthy Gets a Portrait Marking His Brief, Strange Speakership",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/15/us/politics/mccarthy-speaker-portrait.html",
+          "originalTitle": "McCarthy Gets a Portrait Marking His Brief, Strange Speakership",
+          "content": "Kevin McCarthy, the first speaker to be ousted from the post, was honored at the Capitol at the unveiling of his official portrait.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-16",
+  "generatedAtKst": "2026. 9. 16. AM 8:50",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
