@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+          "originalTitle": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+          "content": "The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan’s business will continue largely unscathed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "content": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+          "originalTitle": "Why Israel Wants More One-Ton Bombs From the U.S.",
+          "content": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
+          "originalTitle": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+          "content": "The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Would you buy branded clothing from your favourite tech firm?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Would you buy branded clothing from your favourite tech firm?",
+          "content": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bo French Faces Backlash Over Posts About University of Texas Students",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/us/attack-on-university-of-texas-students-tests-texas-gop-unity.html",
+          "originalTitle": "Bo French Faces Backlash Over Posts About University of Texas Students",
+          "content": "Republican leaders brought Bo French, an anti-Muslim hard-liner, into the fold. Then he attacked Texas football fans.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I sent 200 DMs to companies - it was awkward but I got a job",
+          "content": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Interest rates hold expected but Bank of England facing tough choices",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Interest rates hold expected but Bank of England facing tough choices",
+          "content": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+          "originalTitle": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+          "content": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+          "originalTitle": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "content": "The Federal Reserve’s first increase to interest rates since July 2023 comes less than two months before the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-17",
+  "generatedAtKst": "2026. 9. 17. AM 8:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
