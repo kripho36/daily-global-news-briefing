@@ -1,0 +1,26 @@
+{
+  "title": "2026-09-18 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 미국과 중동의 군사·정치 갈등이 한층 심화되었으며, 미국의 새로운 외교·경제 정책이 국제 무대에서 큰 반향을 일으켰다. 동시에 기술·AI 분야에서는 기업 간 논쟁이 이슈가 되었고, 세계은행은 글로벌 부채 부담 속 민간 자본 유치 전략을 강조했다.",
+  "sections": [
+    {
+      "heading": "세계정세",
+      "items": [
+        {
+          "title": "예멘 전쟁, 후티 미사일이 마리브에서 가속화",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+          "originalTitle": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+          "content": "이란 지원을 받는 후티 미사일이 마리브 지방으로 진격하며 사우디 지원 정부군과 충돌이 확대됐다. 전쟁은 이미 수백 명이 사망한 가운데, 마리브는 석유 생산지로서 전략적 중요성을 지닌 지역이다.",
+          "impact": "전쟁이 지역 안보와 에너지 시장에 영향을 미칠 가능성이 커지며, 국제 사회는 인도적 지원과 군사적 압박을 동시에 검토해야 한다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-18",
+  "generatedAtKst": "2026. 9. 18. AM 8:48",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
