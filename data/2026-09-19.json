@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+          "originalTitle": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+          "content": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says he is banning CNN and Politico from White House",
+          "content": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I found love at an Irish matchmaking festival - and I want others to do the same",
+          "content": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Would Australians support a smart glasses ban?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Would Australians support a smart glasses ban?",
+          "content": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+          "content": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Grim discoveries of murdered women spark fear in South Africa",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Grim discoveries of murdered women spark fear in South Africa",
+          "content": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
+          "originalTitle": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+          "content": "The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+          "content": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "content": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html",
+          "originalTitle": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
+          "content": "Organizers of a referendum to repeal an abortion ban in deep-red Idaho are far more focused on how the ban has broadly affected health care in the state.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-19",
+  "generatedAtKst": "2026. 9. 19. AM 8:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
