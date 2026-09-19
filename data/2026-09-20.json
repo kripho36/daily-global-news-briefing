@@ -1,0 +1,57 @@
+{
+  "title": "2026년 9월 20일 국제 정세 뉴스 브리핑",
+  "overallSummary": "전날과 오늘 아침에 발생한 주요 국제 사건들을 종합한 브리핑이다. 미국 트럼프 대통령의 언론 접근 제한과 AI 관련 정책, 중동 지역에서의 무력 충돌, 그리고 글로벌 문화·인권 이슈가 중심을 이룬다. 특히 트럼프 행정부의 언론 검열과 AI 정책은 국내외 정치·언론·경제 전반에 걸친 파장으로 이어질 전망이다.",
+  "sections": [
+    {
+      "heading": "테크/IT",
+      "items": [
+        {
+          "title": "트럼프, AI 전력 부대와 인공지능 수상자 임명 발표",
+          "originalTitle": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "content": "트럼프 대통령이 AI 전력 부대를 조직하고 인공지능 수상자를 임명한다고 발표했다. 이는 AI 기술의 발전과 위험을 관리하려는 미국의 정책 방향을 시사한다.",
+          "impact": "AI 정책에 대한 국내 기업과 연구기관의 대응이 급격히 늘어나며, 인공지능 규제 및 투자 전략에 큰 변화를 가져올 것으로 예상된다.",
+          "importance": 4
+        },
+        {
+          "title": "미국 캘리포니아, 인플루언서 정치광고 비공개 규제 강화",
+          "originalTitle": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+          "url": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+          "content": "캘리포니아 주가 인플루언서가 정치 광고를 비공개로 진행하는 것을 금지하고, 미공개 시 5,000달러 벌금을 부과한다.",
+          "impact": "온라인 정치광고의 투명성이 강화되어, 디지털 마케팅 및 인플루언서 산업에 규제 강화 효과가 발생할 전망이다.",
+          "importance": 3
+        },
+        {
+          "title": "AI 위험에 대한 경고, 실리콘밸리의 시각",
+          "originalTitle": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+          "url": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
+          "content": "실리콘밸리 대표가 인공지능의 위험성을 재조명하며, 규제와 투자의 필요성을 강조했다.",
+          "impact": "AI 산업 전반에 걸친 규제 논의가 활성화될 수 있으며, 투자 방향에 변동을 줄 수 있다.",
+          "importance": 3
+        },
+        {
+          "title": "DraftKings, AI를 이용해 도박자위험자 예측",
+          "originalTitle": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+          "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+          "content": "DraftKings는 AI를 활용해 도박을 가장 많이 할 가능성이 높은 고객을 판별한다. 그러나 유사 기술을 이용해 중독 위험이 있는 사람을 보호하려는 시도는 보류됐다.",
+          "impact": "도박 산업의 데이터 활용과 규제 이슈가 부각되며, 소비자 보호와 기업의 사회적 책임이 논의될 전망이다.",
+          "importance": 3
+        },
+        {
+          "title": "AI 관련 논란, 인공지능 수상자 발표에 대한 반응",
+          "originalTitle": "Not all AI workers think the tech could kill everyone",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+          "content": "AI 분야 종사자 중 일부는 인공지능이 인류를 위협할 가능성을 의심한다는 의견을 제시했다.",
+          "impact": "AI 기술 개발자와 윤리학자 간의 논쟁이 가속화될 가능성이 있다.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-20",
+  "generatedAtKst": "2026. 9. 20. AM 8:47",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
