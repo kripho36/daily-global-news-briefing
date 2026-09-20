@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-21 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "ICE Agent Shoots Man in Austin, Local Authorities Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html",
+          "originalTitle": "ICE Agent Shoots Man in Austin, Local Authorities Say",
+          "content": "The shooting in the Texas capital is the latest by federal immigration agents as the Trump administration intensifies its deportation effort.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Will you get £13,000 a year when you stop working? Here's how to check",
+          "content": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What food items should you stock up on in case of an emergency?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What food items should you stock up on in case of an emergency?",
+          "content": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republican Who Runs South Dakota Elections Backs Democrat to Succeed Her",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/us/south-dakota-secretary-state-endorse-democrat.html",
+          "originalTitle": "Republican Who Runs South Dakota Elections Backs Democrat to Succeed Her",
+          "content": "Monae Johnson, the secretary of state, is the latest Republican incumbent to speak out against conservative candidates as President Trump loses support before midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thirty More Arrested in Jovenel Moïse Assassination",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/world/americas/haiti-assassination-trial-moise.html",
+          "originalTitle": "Thirty More Arrested in Jovenel Moïse Assassination",
+          "content": "The suspects in the 2021 assassination of President Jovenel Moïse include 18 men who were extradited from Haiti to Miami, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "On a Dot of France Off Canada, Carney and Macron Promote Shared Values",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
+          "originalTitle": "On a Dot of France Off Canada, Carney and Macron Promote Shared Values",
+          "content": "The leaders of Canada and France met just after the European Union invited Canada to become its first “associate member.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
+          "originalTitle": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+          "content": "Mr. Carlson, the far-right podcaster, has promoted Abdul El-Sayed’s comments and sharply criticized his Republican rival in Michigan. Strategists are scratching their heads.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+          "originalTitle": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+          "content": "For more than five years, U Kyaw Moe Tun has refused to give up his United Nations post and a sandstone townhouse on the Upper East Side.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "content": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+          "originalTitle": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+          "content": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-21",
+  "generatedAtKst": "2026. 9. 21. AM 8:43",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
