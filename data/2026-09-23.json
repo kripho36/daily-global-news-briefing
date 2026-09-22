@@ -1,0 +1,53 @@
+{
+  "title": "2026년 9월 23일 국제 정세 뉴스 브리핑",
+  "overallSummary": "지난 9월 22일 밤에 전개된 미국과 국제 사회의 주요 이슈가 오늘 아침에도 큰 파장을 남겼다. 트럼프 대통령이 유엔 총회에서 이란에 대한 폭발적 위협을 내세우며 세계 안보가 긴장한 가운데, 미국 내 보건·이민 정책 변화와 재정·기술 분야에서도 급변이 일어나고 있다. 특히 재정부와 데이터 센터, 자동차 산업 등에서는 대규모 구조조정이 검토되고 있다. 이러한 변화들은 세계 경제와 국제 관계에 직결되며, 한국을 포함한 각국은 새로운 대응책을 모색 중이다.",
+  "sections": [
+    {
+      "heading": "미국 정치",
+      "items": [
+        {
+          "title": "트럼프, 이란에 대한 파괴적 위협을 선언",
+          "originalTitle": "U.N. Live Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+          "content": "트럼프 대통령은 유엔 총회에서 이란에 대한 ‘전멸’ 위협을 선언하며 세계 안보를 위협했다. 반면 다른 세계 지도자들은 이란 전쟁의 영향에 대해 논의하고 협상 재개를 촉구했다.",
+          "impact": "이란과 미국 간 갈등 고조 가능성으로 국제 안보와 에너지 시장에 불확실성 증가",
+          "importance": 5
+        },
+        {
+          "title": "트럼프, 이란에 대한 전멸 위협",
+          "originalTitle": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
+          "content": "트럼프는 유엔에서 ‘전멸’ 옵션을 검토하며 이란에 대한 강경 조치를 선언했다.",
+          "impact": "국제 사회의 이란에 대한 대응 전략이 재조정될 가능성",
+          "importance": 5
+        },
+        {
+          "title": "트럼프 행정부, 오바마케어 시장에서 75만 명 탈락",
+          "originalTitle": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html",
+          "content": "부통령 JD Vance가 75만 명의 환자를 오바마케어 시장에서 탈락시키는 조치를 발표하며 정부 비용을 22억 달러 절감할 것이라고 주장했다.",
+          "impact": "미국 의료보험 시장 구조에 큰 변동, 보험료 및 보급에 영향",
+          "importance": 5
+        },
+        {
+          "title": "이민자 방어를 위한 미국 법원 판결",
+          "originalTitle": "US judge blocks deportation of DoorDash driver shot by ICE",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+          "content": "미국 연방법원은 ICE에 의해 총격을 받은 DoorDash 운전자의 강제 추방을 차단했다.",
+          "impact": "이민자 권리 보호와 ICE 정책에 대한 법적 논란이 가중될 전망",
+          "importance": 4
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-23",
+  "generatedAtKst": "2026. 9. 23. AM 8:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
