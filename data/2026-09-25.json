@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/24/us/trump-xi-summit-meeting-us-china/trump-xi-summit-china",
+          "originalTitle": "Here’s the latest.",
+          "content": "President Xi Jinping’s first visit to the White House in a decade comes as President Trump continues his unexpected turn from a hard line on China.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/24/us/fulton-sheen-catholic-saint.html",
+          "originalTitle": "‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up.",
+          "content": "Archbishop Fulton J. Sheen, who was the country’s most visible Roman Catholic clergyman of the 20th century, is one step closer to sainthood after a ceremony in St. Louis.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+          "originalTitle": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+          "content": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kyrsten Sinema’s Home Is Ransacked by an Ex-Bodyguard, Officials Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/24/us/kyrsten-sinema-affair-bodyguard-arrest.html",
+          "originalTitle": "Kyrsten Sinema’s Home Is Ransacked by an Ex-Bodyguard, Officials Say",
+          "content": "The man, Matthew Ammel, dated Ms. Sinema while he was part of her Senate campaign security detail and was married, according to court filings.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html",
+          "originalTitle": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown",
+          "content": "In a report Thursday, the Government Accountability Office said the Trump administration squandered millions of dollars to expand detention.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/australias-prime-minister-aims-to-rally-middle-powers-and-rein-in-ai",
+          "originalTitle": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Canada Goose Is Ensnared in Trump’s Tariff War With Canada",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html",
+          "originalTitle": "Canada Goose Is Ensnared in Trump’s Tariff War With Canada",
+          "content": "The United States is a key market for brands that manufacture jackets and parkas in Canada, such as Canada Goose and Moose Knuckles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+          "content": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+          "originalTitle": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
+          "content": "Prime Minister Benjamin Netanyahu of Israel lashed out at a litany of enemies but took particular verbal aim at Mayor Zohran Mamdani.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/israel-palestinians-venezuela-xi",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-25",
+  "generatedAtKst": "2026. 9. 25. AM 9:10",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
