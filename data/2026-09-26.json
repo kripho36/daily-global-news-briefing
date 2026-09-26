@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-26 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "originalTitle": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "content": "The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
+          "originalTitle": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
+          "content": "President Trump welcomed Xi Jinping of China for a state visit that was heavy on pomp and ceremony. But surprisingly little time was spent on the issues that most divide the two superpowers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "content": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Are Ethiopians marching back to war in Tigray?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Are Ethiopians marching back to war in Tigray?",
+          "content": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "30 College Students Splattered With Condiments and Liquids in Hazing, Police Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/us/hazing-madison-wisconsin-fraternity.html",
+          "originalTitle": "30 College Students Splattered With Condiments and Liquids in Hazing, Police Say",
+          "content": "Two University of Wisconsin-Madison students face charges of suspicion of hazing in the episode, which happened on Wednesday in a sweltering basement, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "content": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html",
+          "originalTitle": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
+          "content": "Federal law requires a 90-day “quiet period” before elections, likely restricting the immediate scope of a decision that allows the use of a citizenship database to examine voter rolls.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Inside iconic horror game Silent Hill's Scottish makeover",
+          "content": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Fatal Stabbing Leaves a Quiet Neighborhood Even Quieter",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/us/pittsburgh-doctor-stabbing.html",
+          "originalTitle": "A Fatal Stabbing Leaves a Quiet Neighborhood Even Quieter",
+          "content": "A 46-year-old doctor was killed and his wife was critically wounded inside their Pittsburgh-area home. A man has been arrested and charged in connection with the attack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "content": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-26",
+  "generatedAtKst": "2026. 9. 26. AM 9:16",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
