@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-27 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+          "originalTitle": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+          "content": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+          "originalTitle": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+          "content": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Sunkist Fruit Gems, Staple Candy of Bar Mitzvah Tradition, Are Discontinued",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/business/sunkist-fruit-gems-candy-discontinued.html",
+          "originalTitle": "Sunkist Fruit Gems, Staple Candy of Bar Mitzvah Tradition, Are Discontinued",
+          "content": "The jelly candies were a staple at bar and bat mitzvahs and other Jewish celebrations for generations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+          "originalTitle": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+          "content": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from a hospital bed after being removed from her apartment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "content": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "700-Pound Sea Lion Is Found to Have Been Shot at Least 12 Times",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/26/us/sea-lion-shot-dead-west-seattle-700-pounds.html",
+          "originalTitle": "700-Pound Sea Lion Is Found to Have Been Shot at Least 12 Times",
+          "content": "The California sea lion was found dead on a beach off the Duwamish River in West Seattle, Wash., this month. A motive for the shooting was unclear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "content": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "originalTitle": "As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’",
+          "content": "There’s growing pressure to move beyond the billable hour. But big firms aren’t ready to blow up their trusted business model.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+          "originalTitle": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+          "content": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Mother of woman found hanging in tree shocked as police say body was staged",
+          "content": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-27",
+  "generatedAtKst": "2026. 9. 27. AM 9:03",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
