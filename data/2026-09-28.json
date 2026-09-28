@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "One dead as nor'easter storm pummels New York and New Jersey",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "One dead as nor'easter storm pummels New York and New Jersey",
+          "content": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+          "originalTitle": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+          "content": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "News media must stay relevant or 'society will struggle', says World News Day boss",
+          "content": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "You need £17,000 for a first home - here's how to do it",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "You need £17,000 for a first home - here's how to do it",
+          "content": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "My hometown shows that high streets have to change or die",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "My hometown shows that high streets have to change or die",
+          "content": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
+          "originalTitle": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+          "content": "Washington State voters will get a chance to accept or reject the 9.9 percent income tax on millionaires approved by the Legislature, which broke the state’s taboo against levying income taxes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "content": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why some Indian civil servants become heroes for doing their jobs",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Why some Indian civil servants become heroes for doing their jobs",
+          "content": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+          "originalTitle": "Dario Amodei of Anthropic to Dine With Trump at White House",
+          "content": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+          "originalTitle": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+          "content": "The ad, which ethics experts said could violate federal law, shows Mr. Trump vowing to “expel the warmongers” from the government and fight the “deep state,” even as he wages a war with Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-28",
+  "generatedAtKst": "2026. 9. 28. AM 9:08",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
