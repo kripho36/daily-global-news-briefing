@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-29 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "OpenAI scraps rollout of new model over safety concerns",
+          "content": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html",
+          "originalTitle": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
+          "content": "Justice Samuel A. Alito Jr. had faced pressure to recuse himself from the climate case because he owns stock in oil companies.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+          "content": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Burnham to unveil public body to invest in electricity grid",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Burnham to unveil public body to invest in electricity grid",
+          "content": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/world/middleeast/netanyahu-emirati-leader-hamas-attack.html",
+          "originalTitle": "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+          "content": "Official statements said bilateral relations were discussed. But the question of who bears responsibility for failing to prevent the Oct. 7 attack is a major election issue in Israel.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US prosecutors reopen case of alleged gang rape at Cornell University",
+          "content": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/business/smart-headlights-adaptive.html",
+          "originalTitle": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
+          "content": "Federal data shows that half of all traffic fatalities happen after dark, but only one-quarter of driving happens at night. So any help is welcome.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+          "originalTitle": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+          "content": "The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
+          "originalTitle": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
+          "content": "As President Trump travels the country, he is expected to focus on his economic accomplishments at a time when Americans have expressed deep frustration with his policies.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Driver Desperate to Use the Bathroom Plows Into a Kroger in Texas, the Police Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/28/us/kroger-texas-crash-bathroom.html",
+          "originalTitle": "A Driver Desperate to Use the Bathroom Plows Into a Kroger in Texas, the Police Say",
+          "content": "The driver, James Mansell Lancaster Jr., was upset to find the supermarket in Rosenberg, Texas, closed early Sunday morning, the police said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-29",
+  "generatedAtKst": "2026. 9. 29. AM 10:21",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
