@@ -1,0 +1,107 @@
+{
+  "title": "2026-09-30 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+          "originalTitle": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+          "content": "Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lindsay Clancy Moves Toward Murder Retrial as Judge Sets Key Hearing Date",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/lindsay-clancy-hearing.html",
+          "originalTitle": "Lindsay Clancy Moves Toward Murder Retrial as Judge Sets Key Hearing Date",
+          "content": "Prosecutors have not said explicitly that they plan to retry Ms. Clancy in the killing of her three young children, but a judge said he wants to set a trial date soon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+          "originalTitle": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+          "content": "A seating chart of the meeting illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+          "originalTitle": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+          "content": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
+          "originalTitle": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
+          "content": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "originalTitle": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+          "content": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/chi-phi-fraternity-scrutiny-cornell-accusations.html",
+          "originalTitle": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
+          "content": "Chi Phi’s Cornell chapter was shuttered after a woman said its members sexually assaulted her. It was one of the oldest fraternities at the school, where Greek life has thrived.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "content": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html",
+          "originalTitle": "Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims",
+          "content": "Democrats amplified statements from America.gov that frequently contradict the president on tariffs, election fraud and other topics.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+          "originalTitle": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+          "content": "A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-30",
+  "generatedAtKst": "2026. 9. 30. AM 9:54",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
