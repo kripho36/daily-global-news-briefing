@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-01 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+          "originalTitle": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+          "content": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who Is Xavier Becerra, the Democrat Running for Governor in California?",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/30/us/california-governor-debate/who-is-xavier-becerra",
+          "originalTitle": "Who Is Xavier Becerra, the Democrat Running for Governor in California?",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Becerra Holds Wide Leads in Polling of California’s Governor Race",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/30/us/elections/xavier-becerra-polling-california-governor.html",
+          "originalTitle": "Becerra Holds Wide Leads in Polling of California’s Governor Race",
+          "content": "Unaffiliated voters leaned heavily toward Xavier Becerra, a Democrat, in a recent poll, pushing him to his largest lead of this election cycle.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hegseth Talks Tough as Republican Doubts About His Leadership Grow",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html",
+          "originalTitle": "Hegseth Talks Tough as Republican Doubts About His Leadership Grow",
+          "content": "Pete Hegseth has held onto his job by projecting a tough guy image, but his relationship with Republican lawmakers has never been worse.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Gets Life Sentence for Strangling 15-Year-Old Girl in San Francisco in 1978",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/30/us/san-francisco-marissa-harvey-murder-sentencing.html",
+          "originalTitle": "Man Gets Life Sentence for Strangling 15-Year-Old Girl in San Francisco in 1978",
+          "content": "Mark Personette, 80, eluded the authorities for 43 years before he was arrested and eventually convicted of first-degree murder for killing Marissa Harvey.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who Is Steve Hilton, the Republican Running for Governor in California?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/09/30/us/california-governor-debate/who-is-steve-hilton-the-republican-candidate-for-governor",
+          "originalTitle": "Who Is Steve Hilton, the Republican Running for Governor in California?",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Do Families Have a Right to Hug Their Jailed Loved Ones?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/30/us/chesa-boudin-jail-visits-right-hug.html",
+          "originalTitle": "Do Families Have a Right to Hug Their Jailed Loved Ones?",
+          "content": "A growing number of jails allow only virtual calls. Some families are suing for the right to see inmates in person.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "content": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "FlyDubai Passenger Who Helped Subdue Pilot Describes Stabbing Attack in Cockpit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html",
+          "originalTitle": "FlyDubai Passenger Who Helped Subdue Pilot Describes Stabbing Attack in Cockpit",
+          "content": "A passenger on a flight to Tel Aviv on Wednesday said he watched in horror as the plane’s pilots tumbled out of the cockpit, locked in a bloody brawl.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "content": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-01",
+  "generatedAtKst": "2026. 10. 1. AM 9:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
