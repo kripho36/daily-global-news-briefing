@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-02 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "OpenAI fires three workers over mishandling 'sensitive information'",
+          "content": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Investigators Seek to Establish Motive in FlyDubai Attack",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+          "originalTitle": "Investigators Seek to Establish Motive in FlyDubai Attack",
+          "content": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu of Israel said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Military Leaders Will Examine Ways to Limit Civilian Deaths in War",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html",
+          "originalTitle": "Military Leaders Will Examine Ways to Limit Civilian Deaths in War",
+          "content": "U.S. Central Command will hold a daylong conference at its Tampa headquarters after seven months of war in Iran.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "content": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/01/us/christa-pike-tennessee-execution/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
+          "originalTitle": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
+          "content": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pileup Involving 15 Tractor-Trailers Shutters I-95 in South Carolina",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/01/us/south-carolina-95-crash.html",
+          "originalTitle": "Pileup Involving 15 Tractor-Trailers Shutters I-95 in South Carolina",
+          "content": "The crash also included 50 cars and resulted in at least one serious injury, fire officials said. There were no fatalities, but multiple people were injured.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Reinstates Seattle’s Top Federal Prosecutor, Ousted by Trump",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/01/us/seattle-us-attorney-roger-rogoff-reinstated.html",
+          "originalTitle": "Judge Reinstates Seattle’s Top Federal Prosecutor, Ousted by Trump",
+          "content": "The Justice Department had fired Roger Rogoff as part of a larger maneuver to install its preferred judicial appointees and circumvent Senate confirmation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+          "content": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Investigators Seek Motive for FlyDubai Cockpit Attack",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html",
+          "originalTitle": "Investigators Seek Motive for FlyDubai Cockpit Attack",
+          "content": "Prime Minister Benjamin Netanyahu of Israel said the co-pilot who set upon the pilot had undergone “Islamist radical indoctrination” but did not elaborate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-02",
+  "generatedAtKst": "2026. 10. 2. AM 10:12",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
