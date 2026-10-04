@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Cornell president says university 'must do better' after frat house rape allegations",
+          "content": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html",
+          "originalTitle": "Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill",
+          "content": "The president urged people to call Senator Tom Cotton of Arkansas and accused him of blocking a bill to cement daylight saving time.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
+          "originalTitle": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
+          "content": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+          "content": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Canada is preparing for a (long shot) US invasion",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Why Canada is preparing for a (long shot) US invasion",
+          "content": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
+          "originalTitle": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
+          "content": "The Deep South was the birthplace of the mega MAGA rally. How do people on the Gulf feel about President Trump now?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html",
+          "originalTitle": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him",
+          "content": "In a new ad, Angela Paxton tells voters to focus on the “whole team,” not “individual players.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+          "originalTitle": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+          "content": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
+          "originalTitle": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
+          "content": "Five new Times/Siena polls continue a run of strong results for Democrats in states that President Trump won easily in 2024.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Search Underway for Missing Plane Heading From Bermuda Off Nantucket",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html",
+          "originalTitle": "Search Underway for Missing Plane Heading From Bermuda Off Nantucket",
+          "content": "The plane, with four Canadians on board and two people picked up in Bermuda, lost contact shortly after 1 a.m. A search was underway Saturday off the coast of Nantucket, Mass.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-04",
+  "generatedAtKst": "2026. 10. 4. AM 9:14",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
