@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-06 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump Orders Execution of Gunman in 2009 Attack at Fort Hood",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/us/politics/trump-execution-fort-hood-gunman.html",
+          "originalTitle": "Trump Orders Execution of Gunman in 2009 Attack at Fort Hood",
+          "content": "The Pentagon said that Maj. Nidal Malik Hasan, who carried out the deadliest mass shooting at an American military base, would be executed by firing squad.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White House Blocked Politico From Air Force One for Trump’s Trip to Nebraska",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/us/politico-blocked-trump-nebraska.html",
+          "originalTitle": "White House Blocked Politico From Air Force One for Trump’s Trip to Nebraska",
+          "content": "The move is the latest round in the fight over presidential access after Mr. Trump declared a ban on CNN, Politico and MS NOW.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "To Make More Money, Rolls-Royce Is Aiming Higher on Price, Not Production",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/business/rolls-royce-wealth.html",
+          "originalTitle": "To Make More Money, Rolls-Royce Is Aiming Higher on Price, Not Production",
+          "content": "The luxury carmaker is expanding its factory in Britain to focus on rarefied custom cars. First up is a $3.5 million-plus electric roadster.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S. Citizen Accused of Surveilling Taiwanese Family on China’s Behalf",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/us/wanying-zhang-china-spy-arrest.html",
+          "originalTitle": "U.S. Citizen Accused of Surveilling Taiwanese Family on China’s Behalf",
+          "content": "The woman, Wanying Zhang, was arrested at the Los Angeles airport on Sunday. She was accused of watching the son of Taiwan’s president in Seattle.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "War With Iran Is Forcing the World to Reckon With Geography’s Power",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+          "originalTitle": "War With Iran Is Forcing the World to Reckon With Geography’s Power",
+          "content": "Trade blockages in the Persian Gulf have reminded the world that there are forces as great as or greater than technology and globalization.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html",
+          "originalTitle": "Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles",
+          "content": "In Nebraska, President Trump signed an executive order to waive an off-road requirement for the fuel, which is exempt from the federal highway tax.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A.I. Officials Stonewall on Questions About Technology’s Risks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html",
+          "originalTitle": "A.I. Officials Stonewall on Questions About Technology’s Risks",
+          "content": "A New York City Council hearing on artificial intelligence yielded few answers or assurances about how the industry would provide safeguards against catastrophic scenarios.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Caleb Flynn, Who Appeared on ‘American Idol,’ Gets Life Sentence for Wife’s Murder",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/05/us/caleb-flynn-murder-sentence-life.html",
+          "originalTitle": "Caleb Flynn, Who Appeared on ‘American Idol,’ Gets Life Sentence for Wife’s Murder",
+          "content": "Caleb Flynn maintained his innocence at his sentencing hearing in Ohio on Monday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Yemeni military says it has 'secured' Red Sea waterway",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Yemeni military says it has 'secured' Red Sea waterway",
+          "content": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A.I. hacking in Australia prompts a concern: Can the law keep up?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up",
+          "originalTitle": "A.I. hacking in Australia prompts a concern: Can the law keep up?",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-06",
+  "generatedAtKst": "2026. 10. 6. AM 10:59",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
