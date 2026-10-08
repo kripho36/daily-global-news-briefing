@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-08 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Newsom Considers Ending Death Sentences for 563 California Prisoners",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/newsom-death-row-prisoners-california.html",
+          "originalTitle": "Newsom Considers Ending Death Sentences for 563 California Prisoners",
+          "content": "Gov. Gavin Newsom ramped up talks after a botched execution in Tennessee.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Japan beer giants raided over alleged price-fixing cartel",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Japan beer giants raided over alleged price-fixing cartel",
+          "content": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/politics/supreme-court-air-force-guam.html",
+          "originalTitle": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
+          "content": "The justices heard arguments over whether the U.S. Air Force can keep destroying munitions on a Guam beach under a program it began in 1982.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Throws Out Last Defendant’s Confession in Sept. 11 Case at Guantánamo",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html",
+          "originalTitle": "Judge Throws Out Last Defendant’s Confession in Sept. 11 Case at Guantánamo",
+          "content": "The government is now 0-5 in its efforts to admit the so-called clean team confessions to the capital cases at Guantánamo Bay.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Florida Court Orders Expungement of Report Criticizing DeSantis Administration",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/hope-florida-casey-desantis-grand-jury-expunge.html",
+          "originalTitle": "Florida Court Orders Expungement of Report Criticizing DeSantis Administration",
+          "content": "The grand jury report, which was never released publicly but was leaked to a Miami news station, wrongfully “impugned” private individuals, an appeals panel found.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Europe’s Trade Tensions With China Are Coming to a Head",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
+          "originalTitle": "Europe’s Trade Tensions With China Are Coming to a Head",
+          "content": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html",
+          "originalTitle": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+          "content": "Her awareness and condition deepen ethical and legal questions after Tennessee’s failed attempt to execute her for murdering a classmate decades ago.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+          "content": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Leon Botstein, Former Bard President With Epstein Ties, Resigns From College Positions",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/07/us/leon-botstein-bard-college-resign-epstein.html",
+          "originalTitle": "Leon Botstein, Former Bard President With Epstein Ties, Resigns From College Positions",
+          "content": "Leon Botstein had already retired from the presidency of the liberal arts college this spring, after emails showed he had maintained a longtime friendship with Jeffrey Epstein.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+          "content": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-08",
+  "generatedAtKst": "2026. 10. 8. AM 10:26",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
