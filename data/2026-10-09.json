@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Security Guard Fatally Shoots Armed Man at Nashville Federal Courthouse",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/nashville-courthouse-shooting.html",
+          "originalTitle": "Security Guard Fatally Shoots Armed Man at Nashville Federal Courthouse",
+          "content": "A 42-year-old man tried unsuccessfully to fire a gun, then wielded a knife before he was shot inside the Fred D. Thompson U.S. Courthouse and Federal Building, the police said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "content": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here are 5 things to know about Abdul El-Sayed.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/08/us/michigan-senate-debate-election/here-are-5-things-to-know-about-abdul-el-sayed",
+          "originalTitle": "Here are 5 things to know about Abdul El-Sayed.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html",
+          "originalTitle": "Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says",
+          "content": "If carried out, the public execution of Maj. Nidal Malik Hasan by firing squad set for Dec. 3 would be the first in modern U.S. history.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/birds-smuggled-cuba-miami.html",
+          "originalTitle": "21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt",
+          "content": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/08/us/michigan-senate-debate-election/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "In one of the nation’s most expensive and closely-watched Senate races,",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
+          "originalTitle": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+          "content": "Vice President JD Vance singled out the tech firm as he and other officials accused an array of companies and universities of abusing the visa system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html",
+          "originalTitle": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
+          "content": "The aircraft carrier, whose crew endured food shortages, spent much of its nearly 11-month deployment in combat without a day off.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Trump Has Alienated Republican Voters",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/us/politics/trump-republican-voters.html",
+          "originalTitle": "How Trump Has Alienated Republican Voters",
+          "content": "Plus, a big debate night in Senate battlegrounds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "content": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-09",
+  "generatedAtKst": "2026. 10. 9. AM 10:34",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
