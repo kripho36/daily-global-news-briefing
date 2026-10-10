@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+          "originalTitle": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+          "content": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tech Now",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tech Now",
+          "content": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "content": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
+          "originalTitle": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
+          "content": "The idea seemed to surprise even some inside the Trump administration.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US immigration officials defend ICE agents who shot man in same car as child",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US immigration officials defend ICE agents who shot man in same car as child",
+          "content": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+          "originalTitle": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+          "content": "The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after years of developing extreme Islamist views.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Questions remain over Ebola patient who travelled across three nations undetected",
+          "content": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
+          "originalTitle": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
+          "content": "The setup has cost more than $100 million, the study said. A recent inspection found nearly 450 government employees and zero detainees.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/us/politics/kimberly-guilfoyle-donor-texts.html",
+          "originalTitle": "Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt",
+          "content": "Correspondence suggests that Ms. Guilfoyle, the U.S. ambassador to Greece and former fiancée of Donald Trump Jr., asked a G.O.P. donor to pay off her credit card.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+          "content": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-10",
+  "generatedAtKst": "2026. 10. 10. AM 10:24",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
