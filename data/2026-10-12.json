@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-12 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+          "originalTitle": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+          "content": "At least one person was killed in the Saudi capital, Riyadh, kingdom authorities said. The Houthis said Saudi aircraft hit the Yemeni capital’s airport.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Waves From Powerful Storm Pound Beach Homes in Southern California",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/11/us/longbeach-homes-storm-surge-rachel.html",
+          "originalTitle": "Waves From Powerful Storm Pound Beach Homes in Southern California",
+          "content": "Waves from Post-Tropical Storm Rachel crashed into beachfront homes in Long Beach, Calif. over the weekend, prompting evacuations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Roofing scammers con homeowners out of thousands of pounds",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Roofing scammers con homeowners out of thousands of pounds",
+          "content": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Debt advice that may leave you owing even more money",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Debt advice that may leave you owing even more money",
+          "content": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump faces growing backlash over plans to import diesel from Russia",
+          "content": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "AI is less regulated than milk, says Microsoft president",
+          "content": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
+          "originalTitle": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+          "content": "Inflation has hurt Americans at many levels: Farmers, truckers, consumers. It has also expanded the electoral map into what was safely Republican country just a few months ago.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Iran war threatens Healey's Budget plans, think tank warns",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Iran war threatens Healey's Budget plans, think tank warns",
+          "content": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "content": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+          "originalTitle": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+          "content": "Three months after a jarring summer candidate switch, some Democrats in the state are worried about the enthusiasm for their nominee, Troy Jackson, who is in a close race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-12",
+  "generatedAtKst": "2026. 10. 12. AM 9:51",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
