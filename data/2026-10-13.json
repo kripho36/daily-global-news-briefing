@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+          "originalTitle": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
+          "content": "The episode happened Monday afternoon at the Six Flags Over Georgia amusement park, the police said. It was not immediately clear what led up to the rider’s death.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "content": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
+          "originalTitle": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+          "content": "Persistent conflicts, high energy costs and technological upheavals will slow global growth and raise prices, the organization forecast.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump, Playing Defense in Ohio, Tries to Shore Up Republicans in Tough Races",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/us/trump-youngstown-ohio-rally.html",
+          "originalTitle": "Trump, Playing Defense in Ohio, Tries to Shore Up Republicans in Tough Races",
+          "content": "The president rallied in Youngstown for Senator Jon Husted and Vivek Ramaswamy, who are in competitive contests against Democratic opponents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Federal Agents Search Home of Rep. Ilhan Omar",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+          "originalTitle": "Federal Agents Search Home of Rep. Ilhan Omar",
+          "content": "The search takes place within the 60-day window of the midterm elections, when the Justice Department has historically avoided such investigative steps related to political candidates.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "content": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "content": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+          "originalTitle": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+          "content": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
+          "originalTitle": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
+          "content": "The Democratic nominee for Senate in Texas spent nine days off the trail with what he and his campaign said was a bad case of the flu. His opponents fueled rumors, including one that spread widely before it was debunked.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html",
+          "originalTitle": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
+          "content": "The first 911 call from inside the prison was made at 8:40 p.m. It took about 30 minutes to verify its authenticity.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-13",
+  "generatedAtKst": "2026. 10. 13. AM 11:46",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
