@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+          "originalTitle": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+          "content": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
+          "originalTitle": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used",
+          "content": "The deal is another sign of how Gianni Infantino, the leader of soccer’s global governing body, has sought closer ties to President Trump.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "content": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+          "originalTitle": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+          "content": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+          "originalTitle": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+          "content": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
+          "originalTitle": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+          "content": "A lawyer for Lisa Cook raised “significant concerns” over the “objectivity and fitness of the committee” assembled by President Trump as a way to remove her as a governor at the Federal Reserve.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Squeezes Ukraine, Again",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
+          "originalTitle": "Trump Squeezes Ukraine, Again",
+          "content": "The president’s proposed fuel deal with Russia and a one-sided cease-fire plan are putting Kyiv in a tough spot as winter approaches.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
+          "originalTitle": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+          "content": "Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
+          "originalTitle": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+          "content": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "content": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-14",
+  "generatedAtKst": "2026. 10. 14. AM 9:44",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
