@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
+          "originalTitle": "Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer",
+          "content": "In an interview with a right-wing influencer, the new White House press secretary also described the harried process that led to her hiring.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s what to know.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-oregon-school-shooting",
+          "originalTitle": "Here’s what to know.",
+          "content": "The suspect in the shooting was killed at Silver Rail Elementary in Bend, Ore., according to the authorities, and the conditions of the injured were not immediately known.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html",
+          "originalTitle": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
+          "content": "Ken Paxton celebrated New Year’s Eve in 2024 with two men wanted on federal charges, one of whom donated at least $190,000 to his campaigns. The extent of his ties to the men was unclear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+          "content": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Porn showing choking or incest to be banned from early November, government says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Porn showing choking or incest to be banned from early November, government says",
+          "content": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+          "content": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Deal With Russia Inflames War He Vowed to Swiftly End",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+          "originalTitle": "Trump’s Deal With Russia Inflames War He Vowed to Swiftly End",
+          "content": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Are student protests being manipulated ahead of France's presidential election?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Are student protests being manipulated ahead of France's presidential election?",
+          "content": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
+          "originalTitle": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
+          "content": "As ties with the Trump administration fray, María Corina Machado said her return to Venezuela would come “sooner than you would expect.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+          "originalTitle": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+          "content": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-16",
+  "generatedAtKst": "2026. 10. 16. AM 8:58",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
