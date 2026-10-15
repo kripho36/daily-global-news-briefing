@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+          "originalTitle": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+          "content": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Appeals Court Blocks California Law Mandating I.D. for Federal Agents",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/us/court-blocks-california-ice-agent-id.html",
+          "originalTitle": "Appeals Court Blocks California Law Mandating I.D. for Federal Agents",
+          "content": "The court said that California could not impose state requirements on federal law enforcement operations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Crisis Playbook for Universities in Trouble",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/us/cornell-crisis-playbook-universities-colleges.html",
+          "originalTitle": "The Crisis Playbook for Universities in Trouble",
+          "content": "Schools under scrutiny as Cornell is often follow a sort of public relations playbook, adding rules, hiring outside investigators and sometimes making leadership changes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+          "originalTitle": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+          "content": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "There’s a New Great Pumpkin to Rule Them All",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/us/rhode-island-giant-pumpkin-world-record.html",
+          "originalTitle": "There’s a New Great Pumpkin to Rule Them All",
+          "content": "A farmer in Rhode Island raised a 3,156-pound pumpkin this year, setting a new measure for the greatest of all gourds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
+          "originalTitle": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+          "content": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html",
+          "originalTitle": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
+          "content": "Today’s inflation report gave Democrats a chance to tie pain at the pump to Trump’s decisions.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+          "originalTitle": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+          "content": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html",
+          "originalTitle": "Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent",
+          "content": "With a narrow presidential election looming, President Luiz Inácio Lula da Silva and his allies claim Meta is trying to give his right-wing rival an advantage.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mexico Bans Violent Content on Social Media for Children",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
+          "originalTitle": "Mexico Bans Violent Content on Social Media for Children",
+          "content": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-15",
+  "generatedAtKst": "2026. 10. 15. AM 9:11",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
