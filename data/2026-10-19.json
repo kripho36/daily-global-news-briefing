@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-19 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+          "originalTitle": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+          "content": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
+          "originalTitle": "How Pennsylvania Explains the Forces Shaping the Midterms",
+          "content": "Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "content": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Don't fall for this - how to protect yourself from AI scams",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Don't fall for this - how to protect yourself from AI scams",
+          "content": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "content": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Search Continues for 11 Passengers From Capsized Boat Off Mexico Coast",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
+          "originalTitle": "Search Continues for 11 Passengers From Capsized Boat Off Mexico Coast",
+          "content": "Sixteen people were rescued, but three had injuries consistent with shark bites. Eleven people are still missing.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Major fire at Canada military base leaves four dead, dozens injured",
+          "content": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Home sellers cut asking prices on 3,000 properties a day",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Home sellers cut asking prices on 3,000 properties a day",
+          "content": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+          "originalTitle": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+          "content": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "content": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-19",
+  "generatedAtKst": "2026. 10. 19. AM 8:48",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
