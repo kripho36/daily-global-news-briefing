@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-20 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "The VW Bus, Now Electrified, Keeps on Truckin’",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/business/electric-vw-bus-kindred-idbuzz.html",
+          "originalTitle": "The VW Bus, Now Electrified, Keeps on Truckin’",
+          "content": "A restored version of Volkswagen’s Flower Power-era Microbus, kitted out by Kindred Motorworks, is aiming for the affluent, while VW’s own E.V. is slow to get moving, much like its forebear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html",
+          "originalTitle": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
+          "content": "Reportedly the wealthiest man in the poorest country in the Western Hemisphere, Gilbert Bigio was sanctioned for ties to criminal gangs. He was 91.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+          "originalTitle": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "content": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html",
+          "originalTitle": "Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says",
+          "content": "The man had been detained at an immigration center in Laredo, Texas, since June. Immigration officials said he had received proper medical care.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US church on frontline of battle against drug known as 'tranq'",
+          "content": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
+          "originalTitle": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
+          "content": "The University of North Carolina at Chapel Hill will not pay any financial penalties but agreed to abide by the Trump administration’s views on diversity and other matters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Melania Trump Announces White House Women’s Health Initiative",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
+          "originalTitle": "Melania Trump Announces White House Women’s Health Initiative",
+          "content": "The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/bend-school-shooting-accountability.html",
+          "originalTitle": "Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.",
+          "content": "After a school shooting in which the 16-year-old attacker died, there are few ways to pin official blame.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+          "content": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+          "originalTitle": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+          "content": "Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-20",
+  "generatedAtKst": "2026. 10. 20. AM 9:49",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
