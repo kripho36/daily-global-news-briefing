@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-21 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "U.S. Begins Disclosing C.I.A. Interview Reports From Scrutiny of Post-9/11 Torture",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/cia-interview-reports-sept-11-torture.html",
+          "originalTitle": "U.S. Begins Disclosing C.I.A. Interview Reports From Scrutiny of Post-9/11 Torture",
+          "content": "The rolling release of long-secret files could add detail to the history of a legally disputed Bush-era counterterrorism program.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Borneo is burning - living on the frontline of Asia's toxic haze",
+          "content": "Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "content": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+          "originalTitle": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+          "content": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+          "originalTitle": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+          "content": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Elon Musk says Tesla-SpaceX merger being considered",
+          "content": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Is Donald Trump ready to do business with Myanmar?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Is Donald Trump ready to do business with Myanmar?",
+          "content": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+          "originalTitle": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "content": "Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "ICE Says It Didn’t Hit a Biker With a Car. Video Raises Questions.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/us/ice-detain-citizen-california-video-ricardo-gonzalez.html",
+          "originalTitle": "ICE Says It Didn’t Hit a Biker With a Car. Video Raises Questions.",
+          "content": "Video footage shows the moment in Long Beach, Calif., when a vehicle swerves toward an oncoming cyclist. The mayor has called for an investigation into ICE agents’ treatment of the rider.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The tech helping crack decades-old cold cases",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The tech helping crack decades-old cold cases",
+          "content": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-21",
+  "generatedAtKst": "2026. 10. 21. AM 9:14",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
