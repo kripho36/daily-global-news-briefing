@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-22 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/21/us/michigan-senate-debate-election/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/21/us/kansas-senate-debate-election/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The real reasons US politicians are getting older",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The real reasons US politicians are getting older",
+          "content": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Senator Roger Marshall of Kansas",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/21/us/5-things-to-know-about-roger-marshall.html",
+          "originalTitle": "5 Things to Know About Senator Roger Marshall of Kansas",
+          "content": "The Republican incumbent is trying to hold on to his seat and keep his state from sending a Democrat to the Senate for the first time in nearly a century.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "5 Things to Know About Adam Hamilton, the Pastor Running for Senate in Kansas",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/21/us/adam-hamilton-kansas-senate.html",
+          "originalTitle": "5 Things to Know About Adam Hamilton, the Pastor Running for Senate in Kansas",
+          "content": "The candidate, a political newcomer, is hoping to be the first Democrat to represent the state in the Senate in nearly a century.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why a Pillar of Christian Journalism is in Turmoil",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
+          "originalTitle": "Why a Pillar of Christian Journalism is in Turmoil",
+          "content": "Former employees of Christianity Today say new leadership has been pushing back on independent journalism. About half of its staff members have left or been laid off over 14 months.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A megachurch pastor is running for Senate. Will Democrats vote for him?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/21/us/kansas-senate-debate-election/a-megachurch-pastor-is-running-for-senate-will-democrats-vote-for-him",
+          "originalTitle": "A megachurch pastor is running for Senate. Will Democrats vote for him?",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "The \"trillion pound\" oil fund the government believes Britain could have built",
+          "content": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
+          "originalTitle": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+          "content": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kansas has become an unexpected Senate battleground.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/21/us/kansas-senate-debate-election/kansas-has-become-an-unexpected-senate-battleground",
+          "originalTitle": "Kansas has become an unexpected Senate battleground.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-22",
+  "generatedAtKst": "2026. 10. 22. AM 9:19",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
