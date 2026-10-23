@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-23 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "content": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "content": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+          "originalTitle": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+          "content": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+          "originalTitle": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+          "content": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Omar Case Could Hinge on Her Birth Date, but She Says No Records Exist",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/22/us/ilhan-omar-federal-investigation-immigration.html",
+          "originalTitle": "Omar Case Could Hinge on Her Birth Date, but She Says No Records Exist",
+          "content": "The Justice Department is reviewing whether Representative Ilhan Omar, a Minnesota Democrat, broke the law when she became a U.S. citizen decades ago. Here’s what we know.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+          "content": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+          "content": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "content": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Ad Dividing the Republican Party",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/22/us/politics/ohio-governor-ad-ramaswamy-acton.html",
+          "originalTitle": "The Ad Dividing the Republican Party",
+          "content": "Trump got behind a much-criticized spot in the Ohio governor’s race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Grid operator says lights will stay on this winter after concerns",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Grid operator says lights will stay on this winter after concerns",
+          "content": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-23",
+  "generatedAtKst": "2026. 10. 23. AM 9:15",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
