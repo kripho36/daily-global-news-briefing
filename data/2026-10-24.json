@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-24 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "content": "The Chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+          "originalTitle": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "content": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+          "content": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Suit Reignites a Legal Fight in Alaska",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/alaska-courts-ruled-months-ago-on-the-two-dan-sullivans-in-the-senate-race.html",
+          "originalTitle": "Justice Dept. Suit Reignites a Legal Fight in Alaska",
+          "content": "The Alaska Supreme Court ruled months ago that two candidates, both named Dan Sullivan, could appear on the ballot on Election Day.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+          "originalTitle": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+          "content": "Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About Alaska’s Senate Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
+          "originalTitle": "What to Know About Alaska’s Senate Race",
+          "content": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+          "originalTitle": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+          "content": "No obvious legal authority supports a pre-emptive effort to block the certification of Alaska’s Senate election if the Republican incumbent narrowly loses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+          "originalTitle": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+          "content": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/trump-florida-republicans-midterm-elections.html",
+          "originalTitle": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+          "content": "President Trump rallied on Friday in a Republican state where Democrats have their eye on several House races.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "content": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-24",
+  "generatedAtKst": "2026. 10. 24. AM 9:08",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
