@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+          "originalTitle": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+          "content": "The 44th president appeared in Ohio on Saturday, kicking off a two-state swing with a rebuke of President Trump and Vivek Ramaswamy, the Republican nominee for governor.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+          "originalTitle": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+          "content": "El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of a U.N.-backed anti-gang task force.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
+          "originalTitle": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
+          "content": "A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rosebank: Life on the oil field at the centre of a political storm",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Rosebank: Life on the oil field at the centre of a political storm",
+          "content": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "content": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "New York Archdiocese Agrees to Settle Sexual Abuse Claims for Over $800 Million",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+          "originalTitle": "New York Archdiocese Agrees to Settle Sexual Abuse Claims for Over $800 Million",
+          "content": "The Roman Catholic archdiocese might now avoid bankruptcy by reaching a settlement with 1,300 people who said they had been abused by clergy members and lay leaders.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+          "originalTitle": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+          "content": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Who are the candidates in Brazil's presidential election?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Who are the candidates in Brazil's presidential election?",
+          "content": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
+          "originalTitle": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+          "content": "“There is no legal excuse” for the failure of 18 polling sites to open for early voting, a state lawmaker said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Violent Protests Resurface in Albania: What to Know",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+          "originalTitle": "Violent Protests Resurface in Albania: What to Know",
+          "content": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-25",
+  "generatedAtKst": "2026. 10. 25. AM 8:51",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
