@@ -1,0 +1,53 @@
+{
+  "title": "2026년 10월 26일 국제 정세 브리핑",
+  "overallSummary": "오늘은 브라질 총선과 세르비아, 베네수엘라의 중요한 정치적 변화와 사우디 아라비아 항공권 급등, 나이지리아 폭력 사태가 주목받은 날이다. 브라질에서는 좌파 현직 대통령 루이자 라우라와 보르소나 후보가 치열히 겨루며 아마존의 미래가 결정될 전망이며, 세르비아에서는 부치치 총리가 학생 주도의 시위 운동에 승리하고자 함을 인정했다. 베네수엘라에서는 마리아 카르리나 마차도가 망명 후 귀국해 정치적 압력을 재가동하고 있다. 사우디 아라비아는 후티 반군의 위협 속에서도 리야드 공항을 재개통해 항공 운송을 재개했다. 나이지리아의 한 마을이 총기 난사로 사상자가 발생했다. 미국에서는 오바마와 트럼프가 각각 대선 전투를 선포하며 여론을 이끌고, 항공사들은 이란 전쟁으로 인한 연료가 급등해 항공료 상승이 계속될 것으로 전망한다.",
+  "sections": [
+    {
+      "heading": "세계 주요 사건",
+      "items": [
+        {
+          "title": "브라질 총선의 모든 이해",
+          "originalTitle": "What’s at Stake in Brazil’s Elections?",
+          "content": "브라질은 현직 좌파 대통령 루이자 라우라와 보르소나 후보 사이의 치열한 경쟁이 펼쳐지고 있다. 두 후보는 경제, 안보, 민주주의를 두고 경쟁하며, 승리 결과는 아마존 열대우림 보존과 라틴 아메리카 정치적 방향을 결정짓는다.",
+          "impact": "선거 결과가 아마존 열대우림의 보존 정책에 직접적인 영향을 미치며, 라틴 아메리카의 경제 및 정치적 미래를 좌우할 전망이다.",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html"
+        },
+        {
+          "title": "세르비아 총선 결과",
+          "originalTitle": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "content": "부치치 총리는 12년간 권력을 잡았던 뒤, 학생 주도의 시위 운동에게 선거를 포기했다. 이는 세르비아의 미래를 논의하는 중요한 이정표가 될 것이다.",
+          "impact": "정권 교체가 예상되며, 세르비아 내 정책 방향 및 지역 정치에 큰 변동을 초래할 가능성이 있다.",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "베네수엘라의 반대파 지도자 마리아 카르리나 마차도 귀국",
+          "originalTitle": "Venezuelan opposition leader María Machado returns after months in exile",
+          "content": "마리아 카르리나 마차도는 한 달 전 망명 이후 베네수엘라로 귀국했다. 이는 미국이 주도하는 정치적 압력 속에서 베네수엘라의 내부 정권 변동을 촉진할 수 있다.",
+          "impact": "베네수엘라 내부에서 새로운 정치적 압력이 고조될 가능성이 있으며, 미국과의 관계가 긴장될 수 있다.",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "후티 반군의 위협 속 사우디 항공 재개통",
+          "originalTitle": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+          "content": "후티 반군이 사우디 아라비아 리야드 공항을 공격했음에도 불구하고, 사우디는 항공편을 재개통했다. 이는 지역 내 항공 운송과 경제에 대한 안정을 시사한다.",
+          "impact": "항공 산업과 물류에 긍정적 영향을 미치며, 지역 안보 상황이 다소 완화되는 신호로 해석된다.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-26",
+  "generatedAtKst": "2026. 10. 26. AM 8:40",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
