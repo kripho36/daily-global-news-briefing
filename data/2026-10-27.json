@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-27 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "El-Sayed Campaign Distances Itself From Group’s Ad Critical of Israel",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/us/michigan-senate-el-sayed-stevens-ad.html",
+          "originalTitle": "El-Sayed Campaign Distances Itself From Group’s Ad Critical of Israel",
+          "content": "As the Democratic Senate nominee in Michigan seeks to overcome intraparty tensions, his opponent in the primary, Haley Stevens, said a PAC’s ad was “fearmongering about Israel.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+          "originalTitle": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+          "content": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+          "originalTitle": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+          "content": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
+          "originalTitle": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+          "content": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Other Dan Sullivan Fires Back at Trump’s Lawsuit in Alaska",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/us/teacher-alaska-senate-trump-lawsuit.html",
+          "originalTitle": "The Other Dan Sullivan Fires Back at Trump’s Lawsuit in Alaska",
+          "content": "Dan Sullivan, a schoolteacher, has the same name as a Republican senator in Alaska. He said that a pre-emptive lawsuit challenging the results was “a gross misuse of the Justice Department.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+          "originalTitle": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+          "content": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+          "content": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+          "originalTitle": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+          "content": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
+          "originalTitle": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+          "content": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+          "originalTitle": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+          "content": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-27",
+  "generatedAtKst": "2026. 10. 27. AM 10:00",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
