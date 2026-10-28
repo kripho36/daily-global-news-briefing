@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-28 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+          "originalTitle": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
+          "content": "A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting continues after a day of strong voter turnout.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
+          "originalTitle": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "content": "The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
+          "originalTitle": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
+          "content": "Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+          "originalTitle": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "content": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tennessee Race Is Rattled by a Republican’s Acknowledgment of a ‘Past Indiscretion’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/27/us/tennessee-brent-taylor.html",
+          "originalTitle": "Tennessee Race Is Rattled by a Republican’s Acknowledgment of a ‘Past Indiscretion’",
+          "content": "State Senator Brent Taylor, the Republican nominee for a U.S. House seat, responded to a Nashville outlet’s report that he had sent “an unsolicited nude picture.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
+          "originalTitle": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+          "content": "In some cases, court paperwork bears unmistakable signs of urgency — typos, unorthodox tactics and the signatures of the department’s senior political leadership.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Watch: What happens now after close vote in Israeli election?",
+          "content": "Polls have closed in the Israeli election, but there is no clear winner.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+          "content": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-28",
+  "generatedAtKst": "2026. 10. 28. AM 9:49",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
