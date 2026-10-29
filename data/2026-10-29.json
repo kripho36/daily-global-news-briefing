@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-29 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "content": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Microsoft profits surge days after announcing major job cuts",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Microsoft profits surge days after announcing major job cuts",
+          "content": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
+          "originalTitle": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+          "content": "A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+          "originalTitle": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+          "content": "The White House has been rocked by turnover and anxiety over the midterms. The president, who is tightening his inner circle, has lashed out at critics, held meandering rallies and feasted on a diet of news clips and “A.I. slop,” as one aide put it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+          "originalTitle": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+          "content": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+          "originalTitle": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
+          "content": "The president lashed out at the former representative after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime was committed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Eyeing 2028 Presidential Campaigns Begin Courting Donors and Operatives",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html",
+          "originalTitle": "Democrats Eyeing 2028 Presidential Campaigns Begin Courting Donors and Operatives",
+          "content": "As soon as the midterms are over, presidential contenders are going to need to raise millions, quickly.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+          "originalTitle": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+          "content": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Top Dartmouth Leader Steps Down Over Undisclosed A.I. Use in Writings",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/28/us/dartmouth-santiago-schnell-ai.html",
+          "originalTitle": "A Top Dartmouth Leader Steps Down Over Undisclosed A.I. Use in Writings",
+          "content": "Santiago Schnell, who had been provost since last year, will leave after a review found that he had improperly used A.I. in published opinion articles.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "content": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-29",
+  "generatedAtKst": "2026. 10. 29. AM 10:24",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
