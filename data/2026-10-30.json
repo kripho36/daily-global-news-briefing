@@ -1,0 +1,107 @@
+{
+  "title": "2026-10-30 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html",
+          "originalTitle": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+          "content": "The Justice Department issued subpoenas, a House oversight committee sought interviews and the state opened its own inquiry into a Democratic plan to recruit a spoiler into a Senate race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bostonians Compete to Be Their Airport’s New Voice",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/voice-logan-airport-contest-boston-accent.html",
+          "originalTitle": "Bostonians Compete to Be Their Airport’s New Voice",
+          "content": "By Christmas, the winning voice will echo through Boston Logan International in recorded greetings and announcements that millions of travelers will hear.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Crypto worth billions frozen after suspected Binance hack",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Crypto worth billions frozen after suspected Binance hack",
+          "content": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+          "originalTitle": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+          "content": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/29/us/midterms-elections-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
+          "originalTitle": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
+          "content": "President Trump has been holding hours-long rallies for G.O.P. candidates nearly every day for weeks.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+          "originalTitle": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+          "content": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over deadly beef Wellington lunch.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html",
+          "originalTitle": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+          "content": "As a conflict over candidates roils the Alaskan Senate race, here’s a look back at the political practice over the years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Homeland Security Leak Exposes More Than 41,000 Employees",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/homeland-security-hack.html",
+          "originalTitle": "Homeland Security Leak Exposes More Than 41,000 Employees",
+          "content": "A nonprofit said it released the information to promote transparency about the Trump administration’s deportation campaign. Homeland security officials told workers they are reviewing the incident.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Moody Makes Appeal to a South Florida Audience Leery of the Left",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/ashley-moody-florida-senate-race.html",
+          "originalTitle": "Moody Makes Appeal to a South Florida Audience Leery of the Left",
+          "content": "Senator Ashley Moody, Republican of Florida, campaigned in Miami-Dade County, an area with a large Cuban population that the G.O.P. is hoping to keep red.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-30",
+  "generatedAtKst": "2026. 10. 30. AM 10:26",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
