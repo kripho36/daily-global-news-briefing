@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-01 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "content": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+          "originalTitle": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+          "content": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Centuries After Their Slaughter, Missionaries Move Toward Sainthood",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/31/us/south-saints-georgia-martyrs-beatification.html",
+          "originalTitle": "Centuries After Their Slaughter, Missionaries Move Toward Sainthood",
+          "content": "The beatification of five Franciscan friars was cause for jubilation in South Georgia, where Christianity has flourished but Catholics are few and far between.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+          "originalTitle": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+          "content": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "content": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+          "originalTitle": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+          "content": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Susan Collins Is Always Keeping Score",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+          "originalTitle": "Susan Collins Is Always Keeping Score",
+          "content": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+          "originalTitle": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+          "content": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Shooting at Spirit Halloween in California Kills Pregnant Mother of 4",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html",
+          "originalTitle": "Shooting at Spirit Halloween in California Kills Pregnant Mother of 4",
+          "content": "The police are searching for a person who shot 7 people, killing a 31-year-old pregnant mother of 4, on the night before Halloween. Families were in the store shopping for last-minute costumes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-01",
+  "generatedAtKst": "2026. 11. 1. AM 9:33",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
