@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-02 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Editors’ Note",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html",
+          "originalTitle": "Editors’ Note",
+          "content": ", new New York Times/Siena University polls found.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+          "originalTitle": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+          "content": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Binance users withdraw $3.6bn after record crypto hack",
+          "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Democrats have high hopes for midterms, but polls have let them down before",
+          "content": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
+          "originalTitle": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+          "content": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "content": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "content": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Don't get caught out by new Buy Now Pay Later rules",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Don't get caught out by new Buy Now Pay Later rules",
+          "content": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/01/us/elections/stevens-rogers-el-sayed-michigan-senate.html",
+          "originalTitle": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan",
+          "content": "Representative Stevens, who has been in a growing feud with Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, appeared together with the Republican nominee, Mike Rogers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Learjet Plummets to Ground in Florida, Killing 9",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+          "originalTitle": "Learjet Plummets to Ground in Florida, Killing 9",
+          "content": "Photos and video posted online showed the plane diving nose first to the ground and exploding. In radio call, the pilot said the plane was descending at a speed of 20,000 feet per minute.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-02",
+  "generatedAtKst": "2026. 11. 2. AM 10:07",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
