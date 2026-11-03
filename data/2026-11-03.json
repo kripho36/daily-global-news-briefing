@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-03 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump to remove Rwanda and South Africa from US trade deal",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump to remove Rwanda and South Africa from US trade deal",
+          "content": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
+          "originalTitle": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
+          "content": "Chuck Schumer thinks his party has expanded the map.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
+          "originalTitle": "The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift",
+          "content": "New owners at Willow Springs in California have major plans for the once spartan track, hoping to lure expensive supercars and their wealthy drivers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "content": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+          "content": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
+          "originalTitle": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+          "content": "A shattered alliance in Michigan between Dr. Abdul El-Sayed and his former primary rival, Representative Haley Stevens, underscored broader tensions in the party.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "content": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "North Korea denies being behind record $6.3bn Binance hack",
+          "content": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+          "originalTitle": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
+          "content": "Nine people died, including two young children and a 20-year-old co-pilot, Nathalia Filgueiras, who received her pilot’s license three years ago, when she was still a teenager.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-03",
+  "generatedAtKst": "2026. 11. 3. PM 12:10",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
