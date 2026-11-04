@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-04 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Republican Ashley Moody Holds On to Florida Senate Seat, Defeating Angie Nixon",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/mood-nixon-florida-senate-election.html",
+          "originalTitle": "Republican Ashley Moody Holds On to Florida Senate Seat, Defeating Angie Nixon",
+          "content": "Ms. Moody, who had been appointed to the position to replace Marco Rubio, won a special election to finish his term, defeating a strong, grass-roots challenge from Angie Nixon, a state lawmaker.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jon Ossoff Wins Georgia Senate Race Against Mike Collins",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html",
+          "originalTitle": "Jon Ossoff Wins Georgia Senate Race Against Mike Collins",
+          "content": "Mr. Ossoff, the Democratic incumbent, was an aggressive anti-Trump campaigner. He beat Representative Mike Collins, a Republican.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Roy Cooper Flips North Carolina Senate Seat to Democrats by Defeating Michael Whatley",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/north-carolina-senate-whatley-cooper.html",
+          "originalTitle": "Roy Cooper Flips North Carolina Senate Seat to Democrats by Defeating Michael Whatley",
+          "content": "The popular former governor defeated President Trump’s handpicked choice to replace the retiring Thom Tillis.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chris Pappas Defeats John Sununu in New Hampshire Senate Race",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/pappas-new-hampshire-senate-election.html",
+          "originalTitle": "Chris Pappas Defeats John Sununu in New Hampshire Senate Race",
+          "content": "Representative Chris Pappas beat a former Republican senator, John E. Sununu. He will succeed the Democratic incumbent, Jeanne Shaheen, who did not run for re-election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html",
+          "originalTitle": "Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry",
+          "content": "The move is a highly unusual action to take at the decisive moment in a close race between the incumbent, Dan Sullivan, and his Democratic rival, Mary Peltola.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "More Federal Election Monitors Than Ever Fanned Out to Polling Places",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/justice-department-monitors-election.html",
+          "originalTitle": "More Federal Election Monitors Than Ever Fanned Out to Polling Places",
+          "content": "The presence caused jitters for some voters and election officials, but no major disruptions were reported.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "We’re watching a few key areas as polls close in Maine and Michigan.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-a-few-key-areas-as-polls-close-in-maine-and-michigan",
+          "originalTitle": "We’re watching a few key areas as polls close in Maine and Michigan.",
+          "content": "Both states will test the electability of Democratic progressives in Senate battleground states — and it could take a while to count the ballots.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "We’re watching several areas in Texas as polls close there.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+          "originalTitle": "We’re watching several areas in Texas as polls close there.",
+          "content": "Texas has 254 counties. Here’s a guide to six crucial regions in the Senate race.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+          "originalTitle": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
+          "content": "The disease has killed 30 hippopotamuses in Virunga National Park in the Democratic Republic of Congo since September, officials say.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Americans Cast Their Votes, From Sea to Shining Sea",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/03/us/elections/voters-midterms-photos.html",
+          "originalTitle": "Americans Cast Their Votes, From Sea to Shining Sea",
+          "content": "In gymnasiums, town halls, classrooms and even restaurants, voters headed to the polls on Tuesday to decide control of the Senate, House and more.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-04",
+  "generatedAtKst": "2026. 11. 4. AM 10:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
