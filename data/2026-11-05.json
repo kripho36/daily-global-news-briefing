@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-05 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/muslim-americans-el-sayed.html",
+          "originalTitle": "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
+          "content": "Abdul El-Sayed’s election to the Senate is significant not because he shares their religion, Muslim Americans said, but because he prioritizes issues that many voters care about.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
+          "originalTitle": "Moderate Democrats Increase Their Numbers, and Their Clout",
+          "content": "Victories by moderates in competitive or Republican-leaning states and districts paved the way for large new Democratic majorities likely to be shaped by their priorities.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘It Is Never Enough’: Susan Collins Couldn’t Outrun Trump",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
+          "originalTitle": "‘It Is Never Enough’: Susan Collins Couldn’t Outrun Trump",
+          "content": "The Maine Republican survived tough cycles in the past even as the political ground shifted beneath her. But the anti-Trump fever in her state doomed her this time.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+          "originalTitle": "‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse",
+          "content": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Immigration Tactics Motivated Voters, Near and Far From Southern Border",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/immigration-voters-midterms.html",
+          "originalTitle": "Immigration Tactics Motivated Voters, Near and Far From Southern Border",
+          "content": "Trump’s aggressive ICE raids brought border battles to city streets, sparking fierce backlash over overreach.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Hispanic Voter Trends",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/video/us/elections/100000011262277/hispanic-voter-trends.html",
+          "originalTitle": "Hispanic Voter Trends",
+          "content": "Our election data reporter, Caroline Soler, outlines how the Hispanic vote played out in three key states, according to Times Voter Trend estimates.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
+          "originalTitle": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
+          "content": "After a decade at the center of American politics, President Trump is politically wounded, with diminished power. Those who know him say the next two years will be unpredictable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Australia's oldest department store David Jones collapses after 188 years",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Australia's oldest department store David Jones collapses after 188 years",
+          "content": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Golden State Valkyries Reign Supreme in San Francisco, a City of Start-Ups",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html",
+          "originalTitle": "Golden State Valkyries Reign Supreme in San Francisco, a City of Start-Ups",
+          "content": "San Francisco hosted a victory parade on Wednesday for the new W.N.B.A. champions, a team that’s not even two years old but has made the Bay Area swoon.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A day after a stinging midterm defeat, Trump focuses on his ballroom.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/a-day-after-a-stinging-midterm-defeat-trump-focuses-on-his-ballroom",
+          "originalTitle": "A day after a stinging midterm defeat, Trump focuses on his ballroom.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-05",
+  "generatedAtKst": "2026. 11. 5. AM 10:53",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
