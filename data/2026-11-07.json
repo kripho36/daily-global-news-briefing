@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-07 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Kansans Elect Democrat as Attorney General, Voting Out Kris Kobach",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/kansas-attorney-general-kobach-mann.html",
+          "originalTitle": "Kansans Elect Democrat as Attorney General, Voting Out Kris Kobach",
+          "content": "Chris Mann, a former police officer and prosecutor, defeated Mr. Kobach, a Republican who helped elevate concerns about election fraud to national prominence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
+          "originalTitle": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+          "content": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "originalTitle": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "content": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
+          "originalTitle": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "content": "The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
+          "originalTitle": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+          "content": "A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democratic Gains Could Advance an Alternative to the Electoral College",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/05/us/elections/national-popular-vote-compact-midterm-elections-2028.html",
+          "originalTitle": "Democratic Gains Could Advance an Alternative to the Electoral College",
+          "content": "Lawmakers in states with new total Democratic control said they would try to join an effort to try to elect the next president effectively by popular vote. But momentum has stalled before.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+          "originalTitle": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+          "content": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrats Took Over Texas. What Now?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/texas-democrats-takeover-what-now.html",
+          "originalTitle": "Democrats Took Over Texas. What Now?",
+          "content": "Democrats’ wins in the Lone Star state exceeded their wildest dreams.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Colom Leads Hyde-Smith in Mississippi Senate Race After Latest Vote Report",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/elections/colom-hyde-smith-mississippi-senate-race.html",
+          "originalTitle": "Colom Leads Hyde-Smith in Mississippi Senate Race After Latest Vote Report",
+          "content": "Scott Colom, the Democratic nominee, has kept his edge over the Republican incumbent, Cindy Hyde-Smith, as more provisional and mail ballots were reported throughout the state.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-07",
+  "generatedAtKst": "2026. 11. 7. AM 10:27",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
