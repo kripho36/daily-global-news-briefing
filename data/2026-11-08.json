@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-08 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Can the Zelda remake capture the magic of the original?",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Can the Zelda remake capture the magic of the original?",
+          "content": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+          "originalTitle": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+          "content": "On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+          "originalTitle": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+          "content": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+          "originalTitle": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+          "content": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "content": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What we know so far after Krakow gun attack",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "What we know so far after Krakow gun attack",
+          "content": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "2 Skydivers Die After Midair Collision in Southern California",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
+          "originalTitle": "2 Skydivers Die After Midair Collision in Southern California",
+          "content": "The skydivers’ parachutes opened but became entangled after they collided, according to the company hosting the event.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "content": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+          "originalTitle": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+          "content": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+          "originalTitle": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+          "content": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-08",
+  "generatedAtKst": "2026. 11. 8. AM 9:58",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
