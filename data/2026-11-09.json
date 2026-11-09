@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-09 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "content": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
+          "originalTitle": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
+          "content": "The president said on Sunday that the U.F.C. chief executive “loves the idea” of being the White House spokesman but that his public offer of the job was “just a little fun.”",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+          "originalTitle": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "content": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+          "originalTitle": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+          "content": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
+          "originalTitle": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+          "content": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Doing these things now will help you save money at Christmas",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Doing these things now will help you save money at Christmas",
+          "content": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
+          "originalTitle": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+          "content": "There are no good choices facing President Trump as he tries to find a way out of the deeply unpopular conflict. But there are choices.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+          "originalTitle": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+          "content": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "content": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+          "originalTitle": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+          "content": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-09",
+  "generatedAtKst": "2026. 11. 9. AM 10:18",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
