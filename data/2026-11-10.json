@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-10 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+          "originalTitle": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "content": "China’s exports exceeded imports by $1 trillion in the first 10 months of this year, reaching that milestone one month earlier than last year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+          "originalTitle": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+          "content": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+          "originalTitle": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+          "content": "The outcome could hinder the wealth tax movement in California and across the country in future years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
+          "originalTitle": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
+          "content": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Rep. Ken Calvert Wins House Battle Between Two California Republicans",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/us/california-house-40-kim-calvert.html",
+          "originalTitle": "Rep. Ken Calvert Wins House Battle Between Two California Republicans",
+          "content": "After redistricting, Mr. Calvert ended up running against and defeating Representative Young Kim.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+          "content": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+          "originalTitle": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+          "content": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+          "originalTitle": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+          "content": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Qantas to outsource 850 local jobs with most roles moving to India",
+          "content": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "content": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-10",
+  "generatedAtKst": "2026. 11. 10. PM 12:53",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
