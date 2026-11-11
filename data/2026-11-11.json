@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-11 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+          "originalTitle": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+          "content": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "content": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "content": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
+          "originalTitle": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
+          "content": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+          "originalTitle": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+          "content": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republicans Turn Back Effort to Impeach Hegseth",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
+          "originalTitle": "Republicans Turn Back Effort to Impeach Hegseth",
+          "content": "The G.O.P. banded together to shelve impeachment articles against the defense secretary, sparing him from a damaging rebuke and potential ouster.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Appeals Court Blocks Trump Administration Demand for Journalists’ LinkedIn Data",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/doj-linkedin-data-reporters-trump.html",
+          "originalTitle": "Appeals Court Blocks Trump Administration Demand for Journalists’ LinkedIn Data",
+          "content": "The court said that the request was too broad and could reveal numerous unrelated confidential sources.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tech Consultant Is Sentenced to 16 Years to Life in Cash App Founder’s Killing",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html",
+          "originalTitle": "Tech Consultant Is Sentenced to 16 Years to Life in Cash App Founder’s Killing",
+          "content": "Nima Momeni was sentenced for the 2023 murder of Bob Lee, a killing that initially set off crime fears in San Francisco.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Bessent Is Moved From D.C.-Area Home to Military Base Amid Iranian Threats",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
+          "originalTitle": "Bessent Is Moved From D.C.-Area Home to Military Base Amid Iranian Threats",
+          "content": "The Treasury secretary, who is leading an economic pressure campaign against Iran, is the latest Trump official to leave his home over security concerns.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+          "content": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-11",
+  "generatedAtKst": "2026. 11. 11. AM 10:36",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
