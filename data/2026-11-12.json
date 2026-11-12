@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-12 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "New York building collapse kills one person and injures 12",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "New York building collapse kills one person and injures 12",
+          "content": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+          "originalTitle": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+          "content": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "content": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "originalTitle": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A viral ad and a Trump rally visit helped Colom compete in Mississippi.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/a-viral-ad-and-a-trump-rally-visit-helped-colom-compete-in-mississippi",
+          "originalTitle": "A viral ad and a Trump rally visit helped Colom compete in Mississippi.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
+          "originalTitle": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
+          "originalTitle": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+          "content": "The G.O.P. intends to win confirmation of about two dozen federal judges before the party loses power. But Democrats promise to do what they can to stop them.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
+          "originalTitle": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "content": "Scott Colom, a Democrat and prosecutor who won in a major upset, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
+          "originalTitle": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+          "content": "He was the most-cited legal scholar of the latter half of the 20th century and an unapologetic iconoclast, favoring pragmatism over judicial tradition. He was 87.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-12",
+  "generatedAtKst": "2026. 11. 12. AM 11:36",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
