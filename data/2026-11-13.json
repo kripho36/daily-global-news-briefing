@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-13 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+          "originalTitle": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+          "content": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "originalTitle": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "content": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "content": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+          "originalTitle": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+          "content": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose personal relationships and sexual encounters got them in trouble.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+          "content": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+          "originalTitle": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+          "content": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "'My window faces a brick wall': What's your rent in NYC?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "'My window faces a brick wall': What's your rent in NYC?",
+          "content": "We ask people in New York City how much they pay for their homes.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+          "originalTitle": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+          "content": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html",
+          "originalTitle": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+          "content": "Nvidia’s chief executive, a confidant of President Trump, successfully pushed for less regulation and open borders for chip sales.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+          "originalTitle": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+          "content": "The ruling, which could affect similar laws in other British Commonwealth countries, has spotlighted a legal system still intertwined with a former colonial power.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-13",
+  "generatedAtKst": "2026. 11. 13. AM 11:16",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
