@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-14 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Here’s the latest.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+          "originalTitle": "Here’s the latest.",
+          "content": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+          "originalTitle": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+          "content": "Travelers are entitled to refunds if their flights are canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+          "originalTitle": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+          "content": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
+          "originalTitle": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+          "content": "The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+          "originalTitle": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+          "content": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html",
+          "originalTitle": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
+          "content": "The homeland security secretary said he did not know what caused the outage.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Tech Now",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Tech Now",
+          "content": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Airports Fill Up With Stuck Families and Stranded Travelers",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html",
+          "originalTitle": "Airports Fill Up With Stuck Families and Stranded Travelers",
+          "content": "The emergency ground stop disrupted travel plans across the country.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "originalTitle": "Despite Nvidia’s Drop, Stocks Push Ahead",
+          "content": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+          "content": "The next title in the series is expected to be the biggest video game release ever.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-14",
+  "generatedAtKst": "2026. 11. 14. AM 10:54",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
