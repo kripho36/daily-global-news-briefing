@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-15 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Hosting Ex-Convicts at Their Oakland Home Has Largely Gone Off Without a Hitch",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html",
+          "originalTitle": "Hosting Ex-Convicts at Their Oakland Home Has Largely Gone Off Without a Hitch",
+          "content": "A husband and wife in Oakland, Calif., have welcomed into their home 24 men recently released from prison sentences for crimes like murder and robbery, part of a program to ease reintegration into society.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/us/south-carolina-boy-buried-alive.html",
+          "originalTitle": "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
+          "content": "Koah Sharp, nearly 1, was rescued alive this week in a rural patch of central South Carolina. In her first interview, Koah’s mother explains what happened.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Unlike Other Countries, America’s Government Funds Its Air Infrastructure",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/us/unlike-other-countries-americas-government-funds-its-air-infrastructure.html",
+          "originalTitle": "Unlike Other Countries, America’s Government Funds Its Air Infrastructure",
+          "content": "Despite handling the most flights in the world, the United States’ air traffic systems rely on 1980s-era computer equipment.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+          "originalTitle": "SpaceX Makes History With Successful Rocket Catch in Texas",
+          "content": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Stranded by planes, travelers turned to trains and automobiles.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/travelers-alternatives-trains-automobiles",
+          "originalTitle": "Stranded by planes, travelers turned to trains and automobiles.",
+          "content": "People trying to find new ways to get to their destinations still encountered obstacles at the rental car counter and on Amtrak’s booking system.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "content": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judo champion shakes up French presidential race with surprise candidacy",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Judo champion shakes up French presidential race with surprise candidacy",
+          "content": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "content": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
+          "originalTitle": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+          "content": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leaves some of the region’s best-known musical cultures out of the mix.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+          "originalTitle": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+          "content": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-15",
+  "generatedAtKst": "2026. 11. 15. AM 10:26",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
