@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-16 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Clothing factories shut in Bangladesh as workers strike over pay",
+          "content": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Black Friday and tax return scams - don't fall for these",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Black Friday and tax return scams - don't fall for these",
+          "content": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russia's mega-rich are already imagining a future after Putin",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Russia's mega-rich are already imagining a future after Putin",
+          "content": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+          "content": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+          "originalTitle": "Megaspeed Says Alice Huang Left Company in August 2025",
+          "content": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "content": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "originalTitle": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+          "content": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "content": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
+          "originalTitle": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+          "content": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+          "originalTitle": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "content": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-16",
+  "generatedAtKst": "2026. 11. 16. AM 10:28",
+  "sources": [
+    "BBC",
+    "NYT"
+  ]
+}
