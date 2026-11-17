@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-17 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+          "originalTitle": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "content": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Justice Alito Warns Court Overhaul Could Threaten Judicial Independence",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html",
+          "originalTitle": "Justice Alito Warns Court Overhaul Could Threaten Judicial Independence",
+          "content": "The conservative justice connected proposals to alter the court’s composition to what he characterized as a campaign to intimidate the court.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+          "originalTitle": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+          "content": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
+          "originalTitle": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
+          "content": "No longer a fresh face, he is arguing that his party needs moderate red-state whisperers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+          "originalTitle": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+          "content": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
+          "originalTitle": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
+          "content": "The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+          "originalTitle": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+          "content": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+          "content": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+          "originalTitle": "United Airlines Flights Resume After ‘Widespread System Outage’",
+          "content": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-17",
+  "generatedAtKst": "2026. 11. 17. PM 1:15",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
