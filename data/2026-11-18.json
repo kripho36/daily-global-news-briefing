@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-18 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Live Updates: Trump to Meet Philippine Leader Before Flying to China",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+          "originalTitle": "Live Updates: Trump to Meet Philippine Leader Before Flying to China",
+          "content": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to hold a trilateral meeting with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
+          "originalTitle": "Young Filipinos Protest Trump and Marcos Before They Meet",
+          "content": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Waymo temporarily pulls driverless taxis from all US freeways",
+          "content": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Here’s the latest.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
+          "originalTitle": "Here’s the latest.",
+          "content": "AI 요약을 사용하려면 GitHub Secrets에 GROQ_API_KEY를 설정하세요.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+          "content": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
+          "originalTitle": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
+          "content": "Four students of a high school in Baltimore are suing after the police handcuffed and searched them because an artificial intelligence gun-detection system wrongly alerted a bag of Doritos.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+          "originalTitle": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+          "content": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+          "originalTitle": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+          "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning, but it became increasingly clear that she did not have enough support.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+          "originalTitle": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "content": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
+          "originalTitle": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
+          "content": "Federal officials said they believed that a router made by Juniper Networks caused a data overload that disrupted communications.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-18",
+  "generatedAtKst": "2026. 11. 18. PM 12:14",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
