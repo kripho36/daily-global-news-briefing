@@ -1,0 +1,35 @@
+{
+  "title": "2026년 11월 20일 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 AI 산업의 주목할 만한 동향과 미국 내 정치·보안 사안, 그리고 세계적인 인권·기후 문제와 대외 관계가 겹쳐 현저한 국제적 관심을 끌고 있다. 특히 Anthropic의 상장과 Google의 AI 기반 광고 전환, 미국 보안 장관 퇴임과 같은 기술·정치 이슈가 돋보이며, 동시에 Myanmar의 인종 학살 판결과 유럽의 러시아 전쟁 중재 논의가 국제사회에 큰 반향을 일으켰다. 이와 같은 사건들은 글로벌 정책과 시장에 중대한 영향을 미칠 전망이다.",
+  "sections": [
+    {
+      "heading": "미국 정세",
+      "items": [
+        {
+          "title": "트럼프, 시와 푸틴과 친밀 표시",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+          "originalTitle": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+          "content": "미국 전 대통령 트럼프는 중국과 러시아 지도자와의 친밀함을 자랑하며 외교적 성과를 내겠다고 선언했다. 그러나 실제로 핵통제, 우크라이나 전쟁, AI 협력 등 중대한 이슈에서는 진전이 없었다는 비판이 제기되고 있다.",
+          "impact": "대외 관계 강화"
+        },
+        {
+          "title": "화이트하우스 사이버 보안 장관 퇴임",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+          "originalTitle": "Top White House Cybersecurity Official Steps Down",
+          "content": "백악관 사이버 보안 담당관 세인 카인크로스가 퇴임했다. 그는 최근 한 주간 미국 기업과 연방기관을 흔든 기술 장애 이후에 퇴임을 발표했다. 이로써 미국 보안 체계에 대한 신뢰가 흔들리고 있다.",
+          "impact": "사이버 보안 취약성"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-20",
+  "generatedAtKst": "2026. 11. 20. AM 11:45",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
