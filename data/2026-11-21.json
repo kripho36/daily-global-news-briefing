@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-21 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
+          "originalTitle": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+          "content": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+          "originalTitle": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+          "content": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/drunk-officers-training-maricopa-county-arizona.html",
+          "originalTitle": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
+          "content": "The man drank too much while participating in a “wet lab” to help officers recognize inebriation — and wound up the subject of an internal investigation, officials said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Washington State Fines Company $9 Million Over Fatal Tank Implosion",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/washington-state-fatal-tank-implosion-fine.html",
+          "originalTitle": "Washington State Fines Company $9 Million Over Fatal Tank Implosion",
+          "content": "Investigators said the company, Nippon Dynawave Packaging, knew conditions at its plant in Longview, Wash., were unsafe. The company said it would appeal.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Takeaways From Trump’s Post-Trip News Conference",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+          "originalTitle": "Takeaways From Trump’s Post-Trip News Conference",
+          "content": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "content": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+          "originalTitle": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+          "content": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+          "originalTitle": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+          "content": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
+          "originalTitle": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
+          "content": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+          "originalTitle": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+          "content": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-21",
+  "generatedAtKst": "2026. 11. 21. AM 11:55",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
