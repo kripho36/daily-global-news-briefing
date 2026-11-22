@@ -1,0 +1,53 @@
+{
+  "title": "한국시간 2026-11-22 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 미국 정치·정책과 테크·AI 분야에서 중요한 변화가 이어지며, 세계적으로는 메キ시코 범죄 조직과 러시아 연계 공격이 주목받는다. 트럼프 행정부가 대형 계약업체에 대한 의회 감시를 제한하려는 행보가 논란이 되고, NVIDIA는 회계 부정 혐의로 미국 증권 거래 위원회 조사를 받는다. 메키시코에서는 F.B.I. 10명 중 가장 위험한 인물 중 하나인 엘 차포 이시드로가 체포되었고, 러시아에 향한 함선이 드론 공격을 받으며 지역 안보가 긴장된다. 이들 사건은 국내외 정책, 경제, 안보에 중대한 영향을 미칠 전망이다.",
+  "sections": [
+    {
+      "heading": "미국 정치·정책",
+      "items": [
+        {
+          "title": "트럼프 행정부, 계약업체 감시 제한",
+          "importance": 5,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+          "originalTitle": "Trump Moves to Restrict Congressional Oversight of Contractors",
+          "content": "행정부는 의회가 계약업체를 감시하는 권한을 제한하는 행정명령을 발표해 민주당의 조사 계획을 차단하려 한다.",
+          "impact": "정치·법률적 파급효과"
+        },
+        {
+          "title": "트럼프 행정부 주거지원 정책 반대",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html",
+          "originalTitle": "Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy",
+          "content": "로드아일랜드 연방판사는 주거 보조금에서 정신 건강·중독 치료로 전환하려는 행정부의 시도를 차단했다.",
+          "impact": "주거·사회복지정책"
+        },
+        {
+          "title": "군사 친선 제한 메모 발표",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+          "originalTitle": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+          "content": "미국 방위부는 캐나다 군과의 사교 활동을 제한하는 메모를 발행했으나, 공동 작전에는 영향이 없다고 밝혔다.",
+          "impact": "국가간 군사관계"
+        },
+        {
+          "title": "Hakeem Jeffries, 트럼프와 AIPAC에 대해",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
+          "originalTitle": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
+          "content": "미국 하원대표 후보 Hakeem Jeffries는 트럼프 행정부와 AIPAC와의 관계를 논의하며 향후 정책 방향을 제시했다.",
+          "impact": "정치·정책"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-22",
+  "generatedAtKst": "2026. 11. 22. AM 10:48",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
