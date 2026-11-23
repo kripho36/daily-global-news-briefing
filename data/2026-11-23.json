@@ -1,0 +1,40 @@
+{
+  "title": "한국시간 2026-11-23 오전 7시 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 미국 의회 다수당이 전환되며 대규모 입법 가능성, COP31 기후 협상은 실패로 끝나 세계 기후 정책의 어려움이 드러났으며, AI가 미국 경제를 이끄는 가운데 S&P 500 선물이 상승세를 보였지만 여전히 변동성이 존재한다. 에너지 비용 상승과 우크라이나 지역의 러시아 폭격으로 인한 인명 피해가 이어진 등 글로벌 정세가 복잡한 변동을 겪었다.",
+  "sections": [
+    {
+      "heading": "정치·정책",
+      "items": [
+        {
+          "title": "미국 하원 다수당이 대규모 승리",
+          "importance": 5,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "content": "미국 국회 하원에서 민주당이 258석을 확보해 1992년 이후 가장 큰 다수당을 형성했다. 이는 173석을 보유한 공화당과 대비되는 결과로, 예산 및 주요 법안 통과 가능성이 크게 확대된다.",
+          "impact": "입법 환경이 급격히 변동하며, 대규모 정책 추진과 예산 재배치가 예상된다"
+        }
+      ]
+    },
+    {
+      "heading": "경제·금융",
+      "items": [
+        {
+          "title": "S&P 500 선물 상승, 변동성 우려",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
+          "originalTitle": "S&P 500 Futures Rise After Tough Week",
+          "content": "지난 주의 변동성을 거치고 S&P 500 선물이 상승세를 보이며 투자자들의 초기 안정 기대가 반영됐다. 하지만 분석가들은 여전히 시장 변동성이 남아 있다고 경고한다.",
+          "impact": "투자 전략 조정 및 포트폴리오 리밸런싱에 영향을 미칠 가능성이 있다"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-23",
+  "generatedAtKst": "2026. 11. 23. AM 11:04",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
