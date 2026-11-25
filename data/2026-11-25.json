@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-25 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+          "originalTitle": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+          "content": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+          "originalTitle": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+          "content": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+          "content": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+          "originalTitle": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+          "content": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "US attorney general dodges questions about Nvidia investigation",
+          "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+          "content": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+          "originalTitle": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+          "content": "After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aides to lawmakers there was no evidence the woman at the heart of the scandal took directions from the Chinese spy agency.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Latino-Owned Coffee Shop Closes After Claims That Founder Works for ICE",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/us/tasa-coffee-chicago-closed-ice-owner.html",
+          "originalTitle": "Latino-Owned Coffee Shop Closes After Claims That Founder Works for ICE",
+          "content": "Tasa Coffee Roasters in Chicago permanently closed its doors after workers walked out in protest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/24/us/los-angeles-no-kings-protest-lawsuit.html",
+          "originalTitle": "Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government",
+          "content": "Tucker Collins, 19, was documenting a protest in downtown Los Angeles when, according to the lawsuit, he was shot in the eye with a projectile by a federal agent.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "content": "The verdict follows a months-long trial in New York.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-25",
+  "generatedAtKst": "2026. 11. 25. PM 1:42",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
