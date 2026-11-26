@@ -1,0 +1,50 @@
+{
+  "title": "2026년 11월 26일 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 미국의 정세와 무역정책, 기술 시장의 변동성, 그리고 아프리카와 중동 등 세계 곳곳에서 발생한 주요 사고가 동시에 이슈가 되었다. 트럼프 행정부와 텍사스 주가 30년간 국경 장벽을 유지하기로 한 합의와 동시에 미국이 주요 무역 파트너에 대한 새로운 관세를 발표하며 미국 내부 정치와 외교 정책이 겹치고 있다. 한편, SpaceX의 대규모 위성 발사 계획과 AI 기업 Anthropic의 주가 변동 등 기술 시장에서도 큰 변화를 목격했다. 글로벌 사건에서는 소말리아 외국군 철수와 이라오 사령부 폭탄 실험, 그리고 이집트 가자 지역에서 발생한 연료 탱커 사고로 인한 화재가 눈에 띄며, 북극의 정치적 긴장감도 증가하고 있다. 이러한 사건들은 지역별, 산업별로 복합적인 영향을 미칠 전망이다.",
+  "sections": [
+    {
+      "heading": "미국 정치",
+      "items": [
+        {
+          "title": "트럼프 행정부와 텍사스 주, 장벽 30년 유지 합의",
+          "originalTitle": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+          "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+          "source": "NYT",
+          "content": "텍사스 주와 미국 법무부는 트럼프 행정부와의 합의로, 30년간 장벽이 제거되지 않도록 법적 합의에 도달했다. 이는 주 정부가 선거권을 확대하는 과정에서 발생한 정치적 갈등을 반영하며, 미국 내 지역 정치가 어떻게 연방 정책과 상호작용하는지를 보여준다.",
+          "impact": "장벽이 30년간 유지됨으로써 국경 통제와 이민 정책이 장기적으로 안정될 가능성이 높아진다. 그러나 이는 반대파에게는 인권 침해로 비판받을 수 있다.",
+          "importance": 5
+        },
+        {
+          "title": "미국, 주요 무역 파트너에 새로운 관세 부과",
+          "originalTitle": "US announces new tariffs on host of countries including China",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "content": "미국 정부는 중국 및 EU를 포함한 다수의 무역 파트너에 새 관세를 도입했다. 이 조치는 미국 제조업을 보호하려는 의도로 해석되며, 글로벌 무역 구조에 변화를 가져올 것이다.",
+          "impact": "관세 부과는 수출입 비용 상승으로 인해 기업의 재무 상황에 부정적 영향을 미칠 수 있으며, 반발국가들은 대응 조치를 취할 가능성이 있다.",
+          "importance": 5
+        }
+      ]
+    },
+    "",
+    {
+      "heading": "미국 기술",
+      "items": [
+        {
+          "title": "FCC, 디즈니 ABC 라이선스 규제 차단",
+          "originalTitle": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+          "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+          "source": "NYT",
+          "content": "미국 연방 통신위원회가 디즈니가 소유한 ABC 지역 라이선스를 규제하려던 시도를 법원에서 차단했다. 이는 미디어 기업의 규제에 대한 사법적 개입이 진행 중임을 나타낸다.",
+          "impact": "규제 차단은 디즈니의 지역 방송 사업에 안정성을 제공하지만, FCC가 다른 매체에 대해 더 강력한 규제를 시도할 경우 시장 불확실성이 커질 수 있다.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-26",
+  "generatedAtKst": "2026. 11. 26. PM 12:50",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
