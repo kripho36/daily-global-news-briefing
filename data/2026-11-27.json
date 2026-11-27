@@ -1,0 +1,107 @@
+{
+  "title": "2026-11-27 국제 정세 브리핑",
+  "overallSummary": "아직 AI 요약 API 키가 설정되지 않아, 신뢰 가능한 원문 기사 후보 목록만 정리했습니다. GitHub Secrets에 GROQ_API_KEY를 추가하면 다음 실행부터 한국어 요약과 영향 분석이 자동 생성됩니다.",
+  "sections": [
+    {
+      "heading": "🗞️ 원문 기사 후보",
+      "items": [
+        {
+          "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+          "originalTitle": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+          "content": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "importance": 4,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "content": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "importance": 4,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+          "originalTitle": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "content": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "content": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "content": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+          "content": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+          "importance": 3,
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+          "originalTitle": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+          "content": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+          "originalTitle": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+          "content": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+          "originalTitle": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+          "content": "A family came together at a farmhouse in southeast Iowa the day after the explosion at an ammunition plant. It felt as if a storm had passed.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        },
+        {
+          "title": "Pregnant Inmate Escapes in New Mexico Prison Transport Vehicle",
+          "importance": 3,
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/26/us/pregnant-inmate-escapes-new-mexico.html",
+          "originalTitle": "Pregnant Inmate Escapes in New Mexico Prison Transport Vehicle",
+          "content": "The inmate, Rebecca Taylor, 26, took control of the S.U.V. in a Whataburger parking lot as she was being returned to prison from a prenatal appointment, the authorities said.",
+          "impact": "원문 확인이 필요합니다. 현재 파일은 API 키가 없을 때 생성되는 임시 목록입니다."
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-27",
+  "generatedAtKst": "2026. 11. 27. PM 12:52",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
