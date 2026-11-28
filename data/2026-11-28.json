@@ -1,0 +1,41 @@
+{
+  "title": "2026년 11월 28일 국제 정세 뉴스 브리핑",
+  "overallSummary": "오늘은 미국 정치와 경제가 주된 이슈를 이끌며, 기후와 기술 분야에서도 중요한 사건이 발생했다. 뉴욕 상원의 첫 여성 다수당 지도자 사망과 대법원 판결이 미국 정치를 불안정하게 만들었고, 추수감사절 폭풍으로 동부 해안에 전력 공급이 중단됐다. 기술 분야에서는 게이머들이 AI와 유출 파일을 이용해 GTA6를 복제하려는 움직임이 주목받았다. 금융 시장은 변동성에도 불구하고 주가가 회복세를 보였으며, 미국 항공기의 작은 사고와 광고 논란도 함께 이슈가 되었다. 한국에 관한 직접적인 사건은 없었지만, 국제적인 긴장과 경제 흐름은 한국에도 영향을 미칠 전망이다.",
+  "sections": [
+    {
+      "heading": "기술/IT",
+      "items": [
+        {
+          "title": "게이머들이 AI와 유출 파일로 GTA6 복제",
+          "originalTitle": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+          "content": "공식 PC 버전이 아직 출시되지 않아 팬들이 AI와 유출 파일을 활용해 GTA6를 복제하려는 시도가 진행되고 있다.",
+          "impact": "지적 재산권과 게임 산업의 안정성에 대한 논의가 촉발된다.",
+          "importance": 3
+        }
+      ],
+      "required": []
+    },
+    {
+      "heading": "미국 정세",
+      "items": [
+        {
+          "title": "뉴욕 상원의 첫 여성 다수당 지도자 아드레아 스튜어트-카우신스 사망",
+          "originalTitle": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+          "source": "NYT",
+          "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+          "content": "스튜어트-카우신스는 20년간 뉴욕 주상원의원으로 재직했고, 그녀의 갑작스런 사망은 민주당 지도층에 빈자리를 남겼다.",
+          "impact": "미국 주정부 정치 구조와 민주당 내부 리더십에 충격을 주며, 정치적 불확실성을 증대시킨다.",
+          "importance": 5
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-28",
+  "generatedAtKst": "2026. 11. 28. PM 12:38",
+  "sources": [
+    "NYT",
+    "BBC"
+  ]
+}
